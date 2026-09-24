@@ -1,0 +1,24 @@
+[
+  {
+    "telegramId": 5787141744,
+    "name": "Abu",
+    "score": 1,
+    "correctAnswer": 1,
+    "wrongAnswer": 1,
+    "wordOrder": [
+      2,
+      4,
+      10,
+      12,
+      3,
+      11,
+      8,
+      9,
+      7,
+      5,
+      6,
+      1
+    ],
+    "currentWordIndex": 12
+  }
+]

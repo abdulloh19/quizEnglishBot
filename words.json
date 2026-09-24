@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "english": "improve",
+    "uzbek": "yaxshilamoq",
+    "example": "I want to improve my English."
+  },
+  {
+    "id": 2,
+    "english": "achieve",
+    "uzbek": "erishmoq",
+    "example": "I want to achieve my goal."
+  },
+  {
+    "id": 3,
+    "english": "learn",
+    "uzbek": "o‘rganmoq",
+    "example": "I want to learn English."
+  },
+  {
+    "id": 4,
+    "english": "practice",
+    "uzbek": "mashq qilmoq",
+    "example": "I practice English every day."
+  },
+  {
+    "id": 5,
+    "english": "understand",
+    "uzbek": "tushunmoq",
+    "example": "I understand this question."
+  },
+  {
+    "id": 6,
+    "english": "remember",
+    "uzbek": "eslab qolmoq",
+    "example": "I remember his name."
+  },
+  {
+    "id": 7,
+    "english": "forget",
+    "uzbek": "unutmoq",
+    "example": "Don't forget your homework."
+  },
+  {
+    "id": 8,
+    "english": "choose",
+    "uzbek": "tanlamoq",
+    "example": "You can choose one answer."
+  },
+  {
+    "id": 9,
+    "english": "explain",
+    "uzbek": "tushuntirmoq",
+    "example": "Can you explain this word?"
+  },
+  {
+    "id": 10,
+    "english": "believe",
+    "uzbek": "ishonmoq",
+    "example": "I believe in myself."
+  },
+  {
+    "id": 11,
+    "english": "continue",
+    "uzbek": "davom ettirmoq",
+    "example": "I will continue learning English."
+  },
+  {
+    "id": 12,
+    "english": "prepare",
+    "uzbek": "tayyorlanmoq",
+    "example": "I am preparing for the exam."
+  }
+]
