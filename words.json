@@ -1,74 +1,702 @@
 [
   {
     "id": 1,
-    "english": "improve",
-    "uzbek": "yaxshilamoq",
-    "example": "I want to improve my English."
+    "english": "about",
+    "uzbek": "haqida",
+    "example": "This book is about animals.",
+    "level": "A1"
   },
   {
     "id": 2,
-    "english": "achieve",
-    "uzbek": "erishmoq",
-    "example": "I want to achieve my goal."
+    "english": "above",
+    "uzbek": "yuqorida",
+    "example": "The picture is above the bed.",
+    "level": "A1"
   },
   {
     "id": 3,
-    "english": "learn",
-    "uzbek": "o‘rganmoq",
-    "example": "I want to learn English."
+    "english": "across",
+    "uzbek": "narigi tomonida",
+    "example": "The bank is across the street.",
+    "level": "A1"
   },
   {
     "id": 4,
-    "english": "practice",
-    "uzbek": "mashq qilmoq",
-    "example": "I practice English every day."
+    "english": "action",
+    "uzbek": "harakat",
+    "example": "We need action now.",
+    "level": "A1"
   },
   {
     "id": 5,
-    "english": "understand",
-    "uzbek": "tushunmoq",
-    "example": "I understand this question."
+    "english": "activity",
+    "uzbek": "faoliyat",
+    "example": "Swimming is a fun activity.",
+    "level": "A1"
   },
   {
     "id": 6,
-    "english": "remember",
-    "uzbek": "eslab qolmoq",
-    "example": "I remember his name."
+    "english": "actor",
+    "uzbek": "aktyor",
+    "example": "He is a famous actor.",
+    "level": "A1"
   },
   {
     "id": 7,
-    "english": "forget",
-    "uzbek": "unutmoq",
-    "example": "Don't forget your homework."
+    "english": "add",
+    "uzbek": "qo‘shmoq",
+    "example": "Add some sugar.",
+    "level": "A1"
   },
   {
     "id": 8,
-    "english": "choose",
-    "uzbek": "tanlamoq",
-    "example": "You can choose one answer."
+    "english": "address",
+    "uzbek": "manzil",
+    "example": "What is your address?",
+    "level": "A1"
   },
   {
     "id": 9,
-    "english": "explain",
-    "uzbek": "tushuntirmoq",
-    "example": "Can you explain this word?"
+    "english": "adult",
+    "uzbek": "katta yoshli",
+    "example": "He is an adult.",
+    "level": "A1"
   },
   {
     "id": 10,
-    "english": "believe",
-    "uzbek": "ishonmoq",
-    "example": "I believe in myself."
+    "english": "advice",
+    "uzbek": "maslahat",
+    "example": "Thank you for your advice.",
+    "level": "A1"
   },
   {
     "id": 11,
-    "english": "continue",
-    "uzbek": "davom ettirmoq",
-    "example": "I will continue learning English."
+    "english": "afraid",
+    "uzbek": "qo‘rqqan",
+    "example": "I am afraid of dogs.",
+    "level": "A1"
   },
   {
     "id": 12,
-    "english": "prepare",
-    "uzbek": "tayyorlanmoq",
-    "example": "I am preparing for the exam."
+    "english": "afternoon",
+    "uzbek": "tushdan keyin",
+    "example": "See you this afternoon.",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "english": "again",
+    "uzbek": "yana",
+    "example": "Please say it again.",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "english": "age",
+    "uzbek": "yosh",
+    "example": "What is your age?",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "english": "agree",
+    "uzbek": "rozi bo‘lmoq",
+    "example": "I agree with you.",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "english": "air",
+    "uzbek": "havo",
+    "example": "The air is cold.",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "english": "airport",
+    "uzbek": "aeroport",
+    "example": "We are at the airport.",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "english": "all",
+    "uzbek": "hammasi",
+    "example": "All the students are here.",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "english": "always",
+    "uzbek": "har doim",
+    "example": "I always drink water.",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "english": "amazing",
+    "uzbek": "ajoyib",
+    "example": "This place is amazing.",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "english": "angry",
+    "uzbek": "jahldor",
+    "example": "He is angry.",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "english": "animal",
+    "uzbek": "hayvon",
+    "example": "A dog is an animal.",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "english": "answer",
+    "uzbek": "javob",
+    "example": "I know the answer.",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "english": "apartment",
+    "uzbek": "kvartira",
+    "example": "I live in an apartment.",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "english": "apple",
+    "uzbek": "olma",
+    "example": "I eat an apple every day.",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "english": "area",
+    "uzbek": "hudud",
+    "example": "This is a quiet area.",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "english": "arm",
+    "uzbek": "qo‘l",
+    "example": "My arm hurts.",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "english": "arrive",
+    "uzbek": "yetib kelmoq",
+    "example": "We arrive at nine.",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "english": "art",
+    "uzbek": "san’at",
+    "example": "I like art.",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "english": "ask",
+    "uzbek": "so‘ramoq",
+    "example": "I want to ask a question.",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "english": "aunt",
+    "uzbek": "amma yoki xola",
+    "example": "My aunt lives here.",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "english": "autumn",
+    "uzbek": "kuz",
+    "example": "Autumn is cool.",
+    "level": "A1"
+  },
+  {
+    "id": 33,
+    "english": "away",
+    "uzbek": "uzoqda",
+    "example": "My school is not far away.",
+    "level": "A1"
+  },
+  {
+    "id": 34,
+    "english": "baby",
+    "uzbek": "chaqaloq",
+    "example": "The baby is sleeping.",
+    "level": "A1"
+  },
+  {
+    "id": 35,
+    "english": "back",
+    "uzbek": "orqa",
+    "example": "My bag is in the back.",
+    "level": "A1"
+  },
+  {
+    "id": 36,
+    "english": "bad",
+    "uzbek": "yomon",
+    "example": "The weather is bad.",
+    "level": "A1"
+  },
+  {
+    "id": 37,
+    "english": "bag",
+    "uzbek": "sumka",
+    "example": "My book is in the bag.",
+    "level": "A1"
+  },
+  {
+    "id": 38,
+    "english": "ball",
+    "uzbek": "to‘p",
+    "example": "The boy has a ball.",
+    "level": "A1"
+  },
+  {
+    "id": 39,
+    "english": "banana",
+    "uzbek": "banan",
+    "example": "I like bananas.",
+    "level": "A1"
+  },
+  {
+    "id": 40,
+    "english": "bank",
+    "uzbek": "bank",
+    "example": "The bank is near my house.",
+    "level": "A1"
+  },
+  {
+    "id": 41,
+    "english": "bath",
+    "uzbek": "vanna",
+    "example": "I have a bath in the evening.",
+    "level": "A1"
+  },
+  {
+    "id": 42,
+    "english": "bathroom",
+    "uzbek": "hammom",
+    "example": "The bathroom is upstairs.",
+    "level": "A1"
+  },
+  {
+    "id": 43,
+    "english": "beach",
+    "uzbek": "plyaj",
+    "example": "We are at the beach.",
+    "level": "A1"
+  },
+  {
+    "id": 44,
+    "english": "beautiful",
+    "uzbek": "chiroyli",
+    "example": "This city is beautiful.",
+    "level": "A1"
+  },
+  {
+    "id": 45,
+    "english": "because",
+    "uzbek": "chunki",
+    "example": "I am happy because it is sunny.",
+    "level": "A1"
+  },
+  {
+    "id": 46,
+    "english": "bed",
+    "uzbek": "karavot",
+    "example": "The cat is on the bed.",
+    "level": "A1"
+  },
+  {
+    "id": 47,
+    "english": "bedroom",
+    "uzbek": "yotoqxona",
+    "example": "My bedroom is small.",
+    "level": "A1"
+  },
+  {
+    "id": 48,
+    "english": "book",
+    "uzbek": "kitob",
+    "example": "This is my book.",
+    "level": "A1"
+  },
+  {
+    "id": 49,
+    "english": "brother",
+    "uzbek": "aka yoki uka",
+    "example": "My brother is a student.",
+    "level": "A1"
+  },
+  {
+    "id": 50,
+    "english": "bus",
+    "uzbek": "avtobus",
+    "example": "I go to school by bus.",
+    "level": "A1"
+  },
+  {
+    "id": 51,
+    "english": "buy",
+    "uzbek": "sotib olmoq",
+    "example": "I want to buy a book.",
+    "level": "A1"
+  },
+  {
+    "id": 52,
+    "english": "cafe",
+    "uzbek": "kafe",
+    "example": "We are in a cafe.",
+    "level": "A1"
+  },
+  {
+    "id": 53,
+    "english": "cake",
+    "uzbek": "tort",
+    "example": "The cake is delicious.",
+    "level": "A1"
+  },
+  {
+    "id": 54,
+    "english": "call",
+    "uzbek": "qo‘ng‘iroq qilmoq",
+    "example": "Please call me tonight.",
+    "level": "A1"
+  },
+  {
+    "id": 55,
+    "english": "camera",
+    "uzbek": "kamera",
+    "example": "This is my camera.",
+    "level": "A1"
+  },
+  {
+    "id": 56,
+    "english": "car",
+    "uzbek": "mashina",
+    "example": "My car is white.",
+    "level": "A1"
+  },
+  {
+    "id": 57,
+    "english": "card",
+    "uzbek": "karta",
+    "example": "I have a bank card.",
+    "level": "A1"
+  },
+  {
+    "id": 58,
+    "english": "cat",
+    "uzbek": "mushuk",
+    "example": "The cat is under the table.",
+    "level": "A1"
+  },
+  {
+    "id": 59,
+    "english": "chair",
+    "uzbek": "stul",
+    "example": "Sit on the chair.",
+    "level": "A1"
+  },
+  {
+    "id": 60,
+    "english": "child",
+    "uzbek": "bola",
+    "example": "The child is playing.",
+    "level": "A1"
+  },
+  {
+    "id": 61,
+    "english": "city",
+    "uzbek": "shahar",
+    "example": "Tashkent is a big city.",
+    "level": "A1"
+  },
+  {
+    "id": 62,
+    "english": "class",
+    "uzbek": "sinf",
+    "example": "Our class starts at nine.",
+    "level": "A1"
+  },
+  {
+    "id": 63,
+    "english": "clothes",
+    "uzbek": "kiyimlar",
+    "example": "My clothes are clean.",
+    "level": "A1"
+  },
+  {
+    "id": 64,
+    "english": "coffee",
+    "uzbek": "qahva",
+    "example": "I drink coffee in the morning.",
+    "level": "A1"
+  },
+  {
+    "id": 65,
+    "english": "cold",
+    "uzbek": "sovuq",
+    "example": "It is cold today.",
+    "level": "A1"
+  },
+  {
+    "id": 66,
+    "english": "college",
+    "uzbek": "kollej",
+    "example": "She studies at college.",
+    "level": "A1"
+  },
+  {
+    "id": 67,
+    "english": "colour",
+    "uzbek": "rang",
+    "example": "What is your favourite colour?",
+    "level": "A1"
+  },
+  {
+    "id": 68,
+    "english": "come",
+    "uzbek": "kelmoq",
+    "example": "Come here, please.",
+    "level": "A1"
+  },
+  {
+    "id": 69,
+    "english": "computer",
+    "uzbek": "kompyuter",
+    "example": "This is my computer.",
+    "level": "A1"
+  },
+  {
+    "id": 70,
+    "english": "cook",
+    "uzbek": "ovqat pishirmoq",
+    "example": "I cook dinner every day.",
+    "level": "A1"
+  },
+  {
+    "id": 71,
+    "english": "country",
+    "uzbek": "mamlakat",
+    "example": "Uzbekistan is my country.",
+    "level": "A1"
+  },
+  {
+    "id": 72,
+    "english": "cousin",
+    "uzbek": "amakivachcha yoki xolavachcha",
+    "example": "My cousin lives in London.",
+    "level": "A1"
+  },
+  {
+    "id": 73,
+    "english": "cup",
+    "uzbek": "chashka",
+    "example": "I want a cup of tea.",
+    "level": "A1"
+  },
+  {
+    "id": 74,
+    "english": "dad",
+    "uzbek": "dada",
+    "example": "My dad is at work.",
+    "level": "A1"
+  },
+  {
+    "id": 75,
+    "english": "dance",
+    "uzbek": "raqs tushmoq",
+    "example": "I like to dance.",
+    "level": "A1"
+  },
+  {
+    "id": 76,
+    "english": "daughter",
+    "uzbek": "qiz farzand",
+    "example": "Their daughter is five.",
+    "level": "A1"
+  },
+  {
+    "id": 77,
+    "english": "day",
+    "uzbek": "kun",
+    "example": "Today is a good day.",
+    "level": "A1"
+  },
+  {
+    "id": 78,
+    "english": "desk",
+    "uzbek": "yozuv stoli",
+    "example": "My books are on the desk.",
+    "level": "A1"
+  },
+  {
+    "id": 79,
+    "english": "dictionary",
+    "uzbek": "lug‘at",
+    "example": "I use an English dictionary.",
+    "level": "A1"
+  },
+  {
+    "id": 80,
+    "english": "dinner",
+    "uzbek": "kechki ovqat",
+    "example": "Dinner is ready.",
+    "level": "A1"
+  },
+  {
+    "id": 81,
+    "english": "doctor",
+    "uzbek": "shifokor",
+    "example": "She is a doctor.",
+    "level": "A1"
+  },
+  {
+    "id": 82,
+    "english": "dog",
+    "uzbek": "it",
+    "example": "The dog is in the garden.",
+    "level": "A1"
+  },
+  {
+    "id": 83,
+    "english": "door",
+    "uzbek": "eshik",
+    "example": "Please close the door.",
+    "level": "A1"
+  },
+  {
+    "id": 84,
+    "english": "drink",
+    "uzbek": "ichmoq",
+    "example": "I drink water every day.",
+    "level": "A1"
+  },
+  {
+    "id": 85,
+    "english": "drive",
+    "uzbek": "haydamoq",
+    "example": "I can drive a car.",
+    "level": "A1"
+  },
+  {
+    "id": 86,
+    "english": "ear",
+    "uzbek": "quloq",
+    "example": "My ear hurts.",
+    "level": "A1"
+  },
+  {
+    "id": 87,
+    "english": "easy",
+    "uzbek": "oson",
+    "example": "This question is easy.",
+    "level": "A1"
+  },
+  {
+    "id": 88,
+    "english": "eat",
+    "uzbek": "yemoq",
+    "example": "I eat breakfast at seven.",
+    "level": "A1"
+  },
+  {
+    "id": 89,
+    "english": "egg",
+    "uzbek": "tuxum",
+    "example": "I eat an egg for breakfast.",
+    "level": "A1"
+  },
+  {
+    "id": 90,
+    "english": "email",
+    "uzbek": "elektron pochta",
+    "example": "Send me an email.",
+    "level": "A1"
+  },
+  {
+    "id": 91,
+    "english": "end",
+    "uzbek": "oxiri",
+    "example": "This is the end of the lesson.",
+    "level": "A1"
+  },
+  {
+    "id": 92,
+    "english": "enjoy",
+    "uzbek": "yoqtirmoq",
+    "example": "I enjoy learning English.",
+    "level": "A1"
+  },
+  {
+    "id": 93,
+    "english": "family",
+    "uzbek": "oila",
+    "example": "I have a big family.",
+    "level": "A1"
+  },
+  {
+    "id": 94,
+    "english": "father",
+    "uzbek": "ota",
+    "example": "My father is at home.",
+    "level": "A1"
+  },
+  {
+    "id": 95,
+    "english": "food",
+    "uzbek": "ovqat",
+    "example": "The food is good.",
+    "level": "A1"
+  },
+  {
+    "id": 96,
+    "english": "friend",
+    "uzbek": "do‘st",
+    "example": "Ali is my friend.",
+    "level": "A1"
+  },
+  {
+    "id": 97,
+    "english": "girl",
+    "uzbek": "qiz",
+    "example": "The girl is reading.",
+    "level": "A1"
+  },
+  {
+    "id": 98,
+    "english": "good",
+    "uzbek": "yaxshi",
+    "example": "This is a good book.",
+    "level": "A1"
+  },
+  {
+    "id": 99,
+    "english": "happy",
+    "uzbek": "xursand",
+    "example": "I am happy today.",
+    "level": "A1"
+  },
+  {
+    "id": 100,
+    "english": "help",
+    "uzbek": "yordam bermoq",
+    "example": "Can you help me?",
+    "level": "A1"
   }
 ]

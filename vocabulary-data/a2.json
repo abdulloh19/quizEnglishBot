@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "english": "ability",
+    "uzbek": "qobiliyat",
+    "example": "Her natural ability to learn languages made studying abroad much easier."
+  },
+  {
+    "id": 2,
+    "english": "abroad",
+    "uzbek": "chet mamlakatda",
+    "example": "They had never travelled abroad."
+  },
+  {
+    "id": 3,
+    "english": "accept",
+    "uzbek": "qabul qilmoq",
+    "example": "I cannot accept the dogma of this church."
+  },
+  {
+    "id": 4,
+    "english": "acceptable",
+    "uzbek": "ma'qul",
+    "example": "Acceptable levels of radiation."
+  },
+  {
+    "id": 5,
+    "english": "accident",
+    "uzbek": "tasodif",
+    "example": "She broke her leg in a car accident last week."
+  },
+  {
+    "id": 6,
+    "english": "account",
+    "uzbek": "hisob",
+    "example": "I opened a new bank account yesterday."
+  },
+  {
+    "id": 7,
+    "english": "across",
+    "uzbek": "narigi tomonda",
+    "example": "The football field was 300 feet across."
+  },
+  {
+    "id": 8,
+    "english": "act",
+    "uzbek": "ish",
+    "example": "Congress passed a new act to protect endangered species last year."
+  },
+  {
+    "id": 9,
+    "english": "actually",
+    "uzbek": "haqiqatda",
+    "example": "To be nominally but not actually independent."
+  },
+  {
+    "id": 10,
+    "english": "addition",
+    "uzbek": "qo‘shuv",
+    "example": "The addition of a bathroom was a major improvement."
+  },
+  {
+    "id": 11,
+    "english": "additional",
+    "uzbek": "qo‘shimcha",
+    "example": "Called for additional troops."
+  },
+  {
+    "id": 12,
+    "english": "adjective",
+    "uzbek": "sifat",
+    "example": "The adjective 'beautiful' describes the painting in that museum."
+  },
+  {
+    "id": 13,
+    "english": "adjust",
+    "uzbek": "tuzatmoq",
+    "example": "Adjust the clock, please."
+  },
+  {
+    "id": 14,
+    "english": "admire",
+    "uzbek": "zavqlanmoq",
+    "example": "I really admire how hard she works every single day."
+  },
+  {
+    "id": 15,
+    "english": "admit",
+    "uzbek": "yo‘l qoymoq",
+    "example": "We cannot admit non-members into our club building."
+  },
+  {
+    "id": 16,
+    "english": "adult",
+    "uzbek": "voyaga yetgan",
+    "example": "When my daughter turned eighteen, she officially became an adult with legal responsibilities."
+  },
+  {
+    "id": 17,
+    "english": "advanced",
+    "uzbek": "ilg‘or",
+    "example": "The child's skeletal age was classified as `advanced'."
+  },
+  {
+    "id": 18,
+    "english": "advantage",
+    "uzbek": "afzallik",
+    "example": "The experience gave him the advantage over me."
+  },
+  {
+    "id": 19,
+    "english": "adventure",
+    "uzbek": "sarguzasht",
+    "example": "We decided to go on an adventure and explore the abandoned warehouse downtown."
+  },
+  {
+    "id": 20,
+    "english": "advertisement",
+    "uzbek": "e'lon",
+    "example": "I saw a funny advertisement for that new burger restaurant on TV last night."
+  },
+  {
+    "id": 21,
+    "english": "advice",
+    "uzbek": "maslahat",
+    "example": "My doctor's advice was to exercise more and eat healthier foods daily."
+  },
+  {
+    "id": 22,
+    "english": "affair",
+    "uzbek": "ish",
+    "example": "She discovered her husband was having an affair with his coworker."
+  },
+  {
+    "id": 23,
+    "english": "after",
+    "uzbek": "keyin",
+    "example": "And Jill came tumbling after."
+  },
+  {
+    "id": 24,
+    "english": "agency",
+    "uzbek": "agentlik",
+    "example": "We hired a marketing agency to handle our social media campaigns."
+  },
+  {
+    "id": 25,
+    "english": "agent",
+    "uzbek": "arbob",
+    "example": "Their research uncovered new disease agents."
+  },
+  {
+    "id": 26,
+    "english": "ahead",
+    "uzbek": "oldinda",
+    "example": "There is a small bridge ahead."
+  },
+  {
+    "id": 27,
+    "english": "air",
+    "uzbek": "havo",
+    "example": "Her hand stopped in mid air."
+  },
+  {
+    "id": 28,
+    "english": "aisle",
+    "uzbek": "qatorlar orasidagi yo‘lak",
+    "example": "Please keep your bag out of the aisle."
+  },
+  {
+    "id": 29,
+    "english": "alarm",
+    "uzbek": "taxlika",
+    "example": "When the fire started, alarm spread quickly through the crowded building."
+  },
+  {
+    "id": 30,
+    "english": "alive",
+    "uzbek": "yashayotgan",
+    "example": "She was wonderfully alive for her age."
+  },
+  {
+    "id": 31,
+    "english": "ambition",
+    "uzbek": "orzu-maqsad",
+    "example": "Her ambition is to become a doctor."
+  },
+  {
+    "id": 32,
+    "english": "amusement",
+    "uzbek": "ko‘ngilochar mashg‘ulot",
+    "example": "The children's amusement was obvious when the clown started juggling."
+  },
+  {
+    "id": 33,
+    "english": "ancestor",
+    "uzbek": "ota-bobo",
+    "example": "My ancestor came to America from Ireland during the great famine."
+  },
+  {
+    "id": 34,
+    "english": "ancient",
+    "uzbek": "qadimgi",
+    "example": "Ancient history."
+  },
+  {
+    "id": 35,
+    "english": "angel",
+    "uzbek": "farishta",
+    "example": "The angel appeared to Mary with a message from God."
+  },
+  {
+    "id": 36,
+    "english": "angrily",
+    "uzbek": "jahl bilan",
+    "example": "He angrily denied the accusation."
+  },
+  {
+    "id": 37,
+    "english": "ankle",
+    "uzbek": "to‘piq",
+    "example": "She twisted her ankle badly while playing soccer yesterday."
+  },
+  {
+    "id": 38,
+    "english": "anniversary",
+    "uzbek": "yubiley",
+    "example": "We're celebrating our wedding anniversary with dinner at that nice restaurant downtown."
+  },
+  {
+    "id": 39,
+    "english": "annoying",
+    "uzbek": "asabga tegadigan",
+    "example": "Tapping an annoying rhythm on his glass with his fork."
+  },
+  {
+    "id": 40,
+    "english": "anxious",
+    "uzbek": "xavotirli",
+    "example": "Anxious to see the new show at the museum."
+  },
+  {
+    "id": 41,
+    "english": "anymore",
+    "uzbek": "endi",
+    "example": "Alice doesn't live here anymore."
+  },
+  {
+    "id": 42,
+    "english": "anywhere",
+    "uzbek": "biror yerda",
+    "example": "You can find this food anywhere."
+  },
+  {
+    "id": 43,
+    "english": "apart",
+    "uzbek": "alohida",
+    "example": "These towns are many miles apart."
+  },
+  {
+    "id": 44,
+    "english": "apartment",
+    "uzbek": "xonadon",
+    "example": "We just signed a lease for a two-bedroom apartment downtown."
+  },
+  {
+    "id": 45,
+    "english": "apparently",
+    "uzbek": "aftidan",
+    "example": "Irrigation often produces bumper crops from apparently desert land."
+  },
+  {
+    "id": 46,
+    "english": "appear",
+    "uzbek": "ko‘rinmoq",
+    "example": "He suddenly appeared at the wedding."
+  },
+  {
+    "id": 47,
+    "english": "appearance",
+    "uzbek": "tashqi",
+    "example": "Her appearance in the dark blue suit impressed everyone at the job interview."
+  },
+  {
+    "id": 48,
+    "english": "apply",
+    "uzbek": "murojaat qilmoq",
+    "example": "The same laws apply to you!"
+  },
+  {
+    "id": 49,
+    "english": "appointment",
+    "uzbek": "tayinlash",
+    "example": "The appointment had to be approved by the whole committee."
+  },
+  {
+    "id": 50,
+    "english": "appreciate",
+    "uzbek": "yuqori baholamoq",
+    "example": "I really appreciate you helping me move last weekend."
+  },
+  {
+    "id": 51,
+    "english": "appropriate",
+    "uzbek": "mos",
+    "example": "Wear appropriate clothes for the interview."
+  },
+  {
+    "id": 52,
+    "english": "architecture",
+    "uzbek": "arxitektura",
+    "example": "The Guggenheim Museum is a stunning example of modern architecture that attracts millions of visitors annually."
+  },
+  {
+    "id": 53,
+    "english": "area",
+    "uzbek": "doira",
+    "example": "It was a mountainous area."
+  },
+  {
+    "id": 54,
+    "english": "argue",
+    "uzbek": "tortishmoq",
+    "example": "The lawyer will argue that the evidence proves her client's innocence."
+  },
+  {
+    "id": 55,
+    "english": "argument",
+    "uzbek": "bahs",
+    "example": "It was a strong argument that his hypothesis was true."
+  },
+  {
+    "id": 56,
+    "english": "armchair",
+    "uzbek": "kreslo",
+    "example": "I sank into the comfortable armchair and put my feet up after work."
+  },
+  {
+    "id": 57,
+    "english": "around",
+    "uzbek": "har tarafda",
+    "example": "He came all the way around the base."
+  },
+  {
+    "id": 58,
+    "english": "artificial",
+    "uzbek": "sun'iy",
+    "example": "That artificial humility that her husband hated."
+  },
+  {
+    "id": 59,
+    "english": "asleep",
+    "uzbek": "uyquda",
+    "example": "Were all asleep when the phone rang."
+  },
+  {
+    "id": 60,
+    "english": "assistant",
+    "uzbek": "yordamchi",
+    "example": "The assistant manager handles daily operations when the store manager is away."
+  },
+  {
+    "id": 61,
+    "english": "association",
+    "uzbek": "uyushma ittifoq",
+    "example": "He joined the Modern Language Association."
+  },
+  {
+    "id": 62,
+    "english": "astronaut",
+    "uzbek": "astronavt",
+    "example": "The Russians called their astronauts cosmonauts."
+  },
+  {
+    "id": 63,
+    "english": "athlete",
+    "uzbek": "sportchi",
+    "example": "The athlete trained hard every day to prepare for the Olympic competition."
+  },
+  {
+    "id": 64,
+    "english": "atom",
+    "uzbek": "atom",
+    "example": "A single atom of oxygen bonds with two hydrogen atoms to form water."
+  },
+  {
+    "id": 65,
+    "english": "attack",
+    "uzbek": "hujum",
+    "example": "The attack began at dawn."
+  },
+  {
+    "id": 66,
+    "english": "attention",
+    "uzbek": "qarash",
+    "example": "She paid attention to the presenter's words and ignored the noise around her."
+  },
+  {
+    "id": 67,
+    "english": "attitude",
+    "uzbek": "xatti-harakat",
+    "example": "He had the attitude that work was fun."
+  },
+  {
+    "id": 68,
+    "english": "attractive",
+    "uzbek": "jozibador",
+    "example": "A remarkably attractive young man."
+  },
+  {
+    "id": 69,
+    "english": "audience",
+    "uzbek": "tinglovchi",
+    "example": "Every artist needs an audience."
+  },
+  {
+    "id": 70,
+    "english": "author",
+    "uzbek": "yozuvchi",
+    "example": "My mom is an author who writes romance novels for a major publishing company."
+  },
+  {
+    "id": 71,
+    "english": "automatic",
+    "uzbek": "avtomatik ravishda ishlaydigan",
+    "example": "Automatic transmission."
+  },
+  {
+    "id": 72,
+    "english": "automatically",
+    "uzbek": "avtomatik ravishda",
+    "example": "He answered automatically."
+  },
+  {
+    "id": 73,
+    "english": "average",
+    "uzbek": "o‘rta",
+    "example": "The average income in New England is below that of the nation."
+  },
+  {
+    "id": 74,
+    "english": "avoid",
+    "uzbek": "o‘zini chetga olmoq",
+    "example": "Her former friends now avoid her."
+  },
+  {
+    "id": 75,
+    "english": "award",
+    "uzbek": "berish",
+    "example": "He criticized the awarding of compensation by the court."
+  },
+  {
+    "id": 76,
+    "english": "awful",
+    "uzbek": "qo‘rqinchli",
+    "example": "The awful war."
+  },
+  {
+    "id": 77,
+    "english": "background",
+    "uzbek": "ahamiyati nuqtayi nazaridan tutgan o‘rni",
+    "example": "He is a lawyer with a sports background."
+  },
+  {
+    "id": 78,
+    "english": "badly",
+    "uzbek": "yomon",
+    "example": "Fingers so badly frozen they had to be amputated."
+  },
+  {
+    "id": 79,
+    "english": "badminton",
+    "uzbek": "badminton",
+    "example": "We played badminton in the park after school yesterday."
+  },
+  {
+    "id": 80,
+    "english": "bake",
+    "uzbek": "pishirmoq",
+    "example": "Bake the potatoes."
+  },
+  {
+    "id": 81,
+    "english": "balcony",
+    "uzbek": "ayvon",
+    "example": "We sat in the balcony and had a great view of the entire stage."
+  },
+  {
+    "id": 82,
+    "english": "balloon",
+    "uzbek": "shar",
+    "example": "The hot air balloon slowly lifted off the ground at dawn."
+  },
+  {
+    "id": 83,
+    "english": "barbecue",
+    "uzbek": "barbekyu",
+    "example": "I ordered the pulled pork barbecue sandwich with extra sauce."
+  },
+  {
+    "id": 84,
+    "english": "barber",
+    "uzbek": "sartarosh",
+    "example": "Samuel Barber's Adagio for Strings is one of America's most beloved classical compositions."
+  },
+  {
+    "id": 85,
+    "english": "bargain",
+    "uzbek": "savdo",
+    "example": "He made a bargain with the devil."
+  },
+  {
+    "id": 86,
+    "english": "base",
+    "uzbek": "asos",
+    "example": "The attack wiped out our forward bases."
+  },
+  {
+    "id": 87,
+    "english": "basic",
+    "uzbek": "asosiy",
+    "example": "A basic fact."
+  },
+  {
+    "id": 88,
+    "english": "basically",
+    "uzbek": "asosan",
+    "example": "He is basically dishonest."
+  },
+  {
+    "id": 89,
+    "english": "basket",
+    "uzbek": "savat",
+    "example": "She carried her groceries home in a wicker basket from the market."
+  },
+  {
+    "id": 90,
+    "english": "batch",
+    "uzbek": "bir to‘plam",
+    "example": "The baker prepared a fresh batch of bread."
+  },
+  {
+    "id": 91,
+    "english": "battery",
+    "uzbek": "batareya",
+    "example": "The military positioned an artillery battery on the hill overlooking the valley."
+  },
+  {
+    "id": 92,
+    "english": "bay",
+    "uzbek": "bo‘g‘oz",
+    "example": "We spent the afternoon swimming in the beautiful bay near our beach house."
+  },
+  {
+    "id": 93,
+    "english": "bear",
+    "uzbek": "tashimoq",
+    "example": "Bear a resemblance."
+  },
+  {
+    "id": 94,
+    "english": "beauty",
+    "uzbek": "go‘zallik",
+    "example": "The beauty of the mountain landscape took my breath away."
+  },
+  {
+    "id": 95,
+    "english": "beer",
+    "uzbek": "pivo",
+    "example": "I grabbed a cold beer from the fridge after work today."
+  },
+  {
+    "id": 96,
+    "english": "beg",
+    "uzbek": "iltimos qilmoq",
+    "example": "I beg you to listen before making a decision."
+  },
+  {
+    "id": 97,
+    "english": "beginner",
+    "uzbek": "boshlovchi",
+    "example": "My sister is a beginner at guitar, so she practices chords every day."
+  },
+  {
+    "id": 98,
+    "english": "beginning",
+    "uzbek": "boshlanish",
+    "example": "The beginning of the war."
+  },
+  {
+    "id": 99,
+    "english": "belly",
+    "uzbek": "qorin",
+    "example": "The doctor examined her belly to check for any internal injuries."
+  },
+  {
+    "id": 100,
+    "english": "belong",
+    "uzbek": "tegishli bo‘lmoq",
+    "example": "This book belongs to me."
+  },
+  {
+    "id": 101,
+    "english": "belt",
+    "uzbek": "kamar",
+    "example": "The conveyor belt moves boxes automatically from the warehouse to the truck."
+  },
+  {
+    "id": 102,
+    "english": "bench",
+    "uzbek": "o‘rindiq",
+    "example": "We sat on a wooden bench in the park and watched the ducks."
+  },
+  {
+    "id": 103,
+    "english": "bend",
+    "uzbek": "egmoq",
+    "example": "The stick does not bend."
+  },
+  {
+    "id": 104,
+    "english": "besides",
+    "uzbek": "shuningdek",
+    "example": "I don't want to go to a restaurant; besides, we can't afford it."
+  },
+  {
+    "id": 105,
+    "english": "better",
+    "uzbek": "yaxshiroq",
+    "example": "She can speak English better now."
+  },
+  {
+    "id": 106,
+    "english": "bill",
+    "uzbek": "faktura",
+    "example": "They held a public hearing on the bill."
+  },
+  {
+    "id": 107,
+    "english": "bit",
+    "uzbek": "parcha",
+    "example": "A bit of rock caught him in the eye."
+  },
+  {
+    "id": 108,
+    "english": "bite",
+    "uzbek": "tishlash",
+    "example": "The dog bite on his arm required several stitches at the hospital."
+  },
+  {
+    "id": 109,
+    "english": "blackboard",
+    "uzbek": "doska",
+    "example": "The teacher wrote the math problem on the blackboard with white chalk."
+  },
+  {
+    "id": 110,
+    "english": "blanket",
+    "uzbek": "junli choyshab",
+    "example": "There was a blanket of snow."
+  },
+  {
+    "id": 111,
+    "english": "blood",
+    "uzbek": "qon",
+    "example": "Blood carries oxygen and nutrients to the tissues and carries away waste products."
+  },
+  {
+    "id": 112,
+    "english": "bloom",
+    "uzbek": "gul",
+    "example": "You will stop all bloom if you let the flowers go to seed."
+  },
+  {
+    "id": 113,
+    "english": "blow",
+    "uzbek": "zarba",
+    "example": "A blow on the head."
+  },
+  {
+    "id": 114,
+    "english": "boil",
+    "uzbek": "qaynatmoq",
+    "example": "Water boils at 100 degrees Celsius."
+  },
+  {
+    "id": 115,
+    "english": "bonus",
+    "uzbek": "mukofot puli",
+    "example": "The company gave employees a bonus for exceeding their quarterly sales targets."
+  },
+  {
+    "id": 116,
+    "english": "bookcase",
+    "uzbek": "kitob javoni",
+    "example": "I organized my favorite novels on the wooden bookcase in my bedroom."
+  },
+  {
+    "id": 117,
+    "english": "bookshelf",
+    "uzbek": "kitob javoni",
+    "example": "I organized all my novels neatly on the wooden bookshelf in my bedroom."
+  },
+  {
+    "id": 118,
+    "english": "boss",
+    "uzbek": "xo‘jayin",
+    "example": "The boss hired three more men for the new job."
+  },
+  {
+    "id": 119,
+    "english": "bother",
+    "uzbek": "joniga tegmoq",
+    "example": "Mosquitoes buzzing in my ear really bothers me."
+  },
+  {
+    "id": 120,
+    "english": "brake",
+    "uzbek": "tormoz",
+    "example": "He slammed on the brake when the traffic light turned red."
+  },
+  {
+    "id": 121,
+    "english": "branch",
+    "uzbek": "butoq",
+    "example": "The oak tree's thick branch extended over the fence into our yard."
+  },
+  {
+    "id": 122,
+    "english": "brand",
+    "uzbek": "marka",
+    "example": "Apple is a brand known for making high-quality computers and phones."
+  },
+  {
+    "id": 123,
+    "english": "brave",
+    "uzbek": "jasur",
+    "example": "Familiarity with danger makes a brave man braver but less daring."
+  },
+  {
+    "id": 124,
+    "english": "break",
+    "uzbek": "siniqlik",
+    "example": "He finally got his big break."
+  },
+  {
+    "id": 125,
+    "english": "breeze",
+    "uzbek": "shabada",
+    "example": "The breeze was cooled by the lake."
+  },
+  {
+    "id": 126,
+    "english": "bride",
+    "uzbek": "kelinchak",
+    "example": "The bride looked beautiful in her white dress on their wedding day."
+  },
+  {
+    "id": 127,
+    "english": "brilliant",
+    "uzbek": "yarqiragan",
+    "example": "A brilliant performance."
+  },
+  {
+    "id": 128,
+    "english": "brown",
+    "uzbek": "jigarrang",
+    "example": "She mixed orange and red paint to create a warm brown shade."
+  },
+  {
+    "id": 129,
+    "english": "budget",
+    "uzbek": "budjet",
+    "example": "The laboratory runs on a budget of a million a year."
+  },
+  {
+    "id": 130,
+    "english": "bug",
+    "uzbek": "taxtakana",
+    "example": "I found a tiny bug crawling across the kitchen counter this morning."
+  },
+  {
+    "id": 131,
+    "english": "bulb",
+    "uzbek": "bot. ildiz",
+    "example": "I planted tulip bulbs in the garden last fall for spring blooms."
+  },
+  {
+    "id": 132,
+    "english": "burn",
+    "uzbek": "kuyish",
+    "example": "I felt a sharp burn in my throat after drinking the hot sauce."
+  },
+  {
+    "id": 133,
+    "english": "bush",
+    "uzbek": "buta",
+    "example": "The flowering bush in our garden attracts butterflies every spring."
+  },
+  {
+    "id": 134,
+    "english": "businessman",
+    "uzbek": "tadbirkor",
+    "example": "The successful businessman expanded his company into three new markets last year."
+  },
+  {
+    "id": 135,
+    "english": "cab",
+    "uzbek": "taksi",
+    "example": "The truck driver climbed into the cab to start his morning route."
+  },
+  {
+    "id": 136,
+    "english": "cafeteria",
+    "uzbek": "kafeteriy",
+    "example": "The school cafeteria has a salad bar where students pick their own lunch."
+  },
+  {
+    "id": 137,
+    "english": "calendar",
+    "uzbek": "taqvim",
+    "example": "The Islamic calendar is based on lunar months rather than solar years."
+  },
+  {
+    "id": 138,
+    "english": "call",
+    "uzbek": "baland ovozda gapirmoq",
+    "example": "He called me a bastard."
+  },
+  {
+    "id": 139,
+    "english": "campus",
+    "uzbek": "universitet binolari joylashgan joy",
+    "example": "The university campus spans over two hundred acres of green space and buildings."
+  },
+  {
+    "id": 140,
+    "english": "capital",
+    "uzbek": "poytaxt",
+    "example": "The startup used its capital to buy new equipment and expand operations."
+  },
+  {
+    "id": 141,
+    "english": "captain",
+    "uzbek": "kapitan",
+    "example": "The captain of the infantry company led his troops across the battlefield."
+  },
+  {
+    "id": 142,
+    "english": "carrot",
+    "uzbek": "sabzi",
+    "example": "I chopped up a carrot and added it to the soup."
+  },
+  {
+    "id": 143,
+    "english": "cash",
+    "uzbek": "pul",
+    "example": "There is a desperate shortage of hard cash."
+  },
+  {
+    "id": 144,
+    "english": "castle",
+    "uzbek": "qasr",
+    "example": "The wealthy banker's castle overlooked the entire valley from its hilltop perch."
+  },
+  {
+    "id": 145,
+    "english": "cause",
+    "uzbek": "sabab bo‘lmoq",
+    "example": "Cause a commotion."
+  },
+  {
+    "id": 146,
+    "english": "cent",
+    "uzbek": "sent",
+    "example": "The price increased by just one cent per unit this quarter."
+  },
+  {
+    "id": 147,
+    "english": "century",
+    "uzbek": "asr",
+    "example": "The invention of the internet changed society more than any previous century."
+  },
+  {
+    "id": 148,
+    "english": "cereal",
+    "uzbek": "boshoqli ekin",
+    "example": "Farmers across the region grow cereal crops like wheat and barley every spring."
+  },
+  {
+    "id": 149,
+    "english": "certain",
+    "uzbek": "mutloq",
+    "example": "Set aside a certain sum each week."
+  },
+  {
+    "id": 150,
+    "english": "chain",
+    "uzbek": "zanjir",
+    "example": "The carbon chain in this molecule contains twelve atoms bonded together."
+  },
+  {
+    "id": 151,
+    "english": "challenge",
+    "uzbek": "qiyin vazifa",
+    "example": "Learning to drive was a real challenge for me."
+  },
+  {
+    "id": 152,
+    "english": "champagne",
+    "uzbek": "shampan vinosi",
+    "example": "We celebrated with a bottle of expensive champagne at midnight."
+  },
+  {
+    "id": 153,
+    "english": "championship",
+    "uzbek": "chempionat",
+    "example": "She won the tennis championship after defeating the top seed in the final."
+  },
+  {
+    "id": 154,
+    "english": "chance",
+    "uzbek": "imkoniyat",
+    "example": "This is your chance to learn something new."
+  },
+  {
+    "id": 155,
+    "english": "chapter",
+    "uzbek": "bo‘lim",
+    "example": "He read a chapter every night before falling asleep."
+  },
+  {
+    "id": 156,
+    "english": "chart",
+    "uzbek": "jadval",
+    "example": "The sales chart clearly shows our revenue increased by thirty percent this quarter."
+  },
+  {
+    "id": 157,
+    "english": "cheap",
+    "uzbek": "arzon",
+    "example": "It would have been cheap at twice the price."
+  },
+  {
+    "id": 158,
+    "english": "check",
+    "uzbek": "tekshirib bo‘lib ishonch hosil qilmoq",
+    "example": "Check the brakes."
+  },
+  {
+    "id": 159,
+    "english": "cheek",
+    "uzbek": "yanoq",
+    "example": "She kissed him on the cheek before saying goodbye at the airport."
+  },
+  {
+    "id": 160,
+    "english": "cheer",
+    "uzbek": "g‘ayratlantirmoq",
+    "example": "My friends cheered me on as I attempted to climb the difficult rock wall."
+  },
+  {
+    "id": 161,
+    "english": "chef",
+    "uzbek": "shef-povar",
+    "example": "The head chef at that restaurant trained in France for ten years."
+  },
+  {
+    "id": 162,
+    "english": "chemical",
+    "uzbek": "kimyoga oid",
+    "example": "Chemical engineer."
+  },
+  {
+    "id": 163,
+    "english": "chess",
+    "uzbek": "shaxmat",
+    "example": "The farmer had to spray herbicide to kill the chess growing in his wheat field."
+  },
+  {
+    "id": 164,
+    "english": "chest",
+    "uzbek": "ko‘krak qafasi",
+    "example": "She felt her chest tighten with anxiety before the big presentation."
+  },
+  {
+    "id": 165,
+    "english": "childhood",
+    "uzbek": "bolalik",
+    "example": "She spent her entire childhood moving between different countries with her family."
+  },
+  {
+    "id": 166,
+    "english": "chin",
+    "uzbek": "iyak",
+    "example": "She had a prominent chin that made her profile quite distinctive."
+  },
+  {
+    "id": 167,
+    "english": "choice",
+    "uzbek": "tanlash",
+    "example": "Your choice of colors was unfortunate."
+  },
+  {
+    "id": 168,
+    "english": "cigarette",
+    "uzbek": "papiros",
+    "example": "My grandfather quit smoking cigarettes after his heart attack last year."
+  },
+  {
+    "id": 169,
+    "english": "citizen",
+    "uzbek": "fuqaro",
+    "example": "After living in Canada for five years, she finally became a Canadian citizen."
+  },
+  {
+    "id": 170,
+    "english": "claim",
+    "uzbek": "talab qilmoq",
+    "example": "He claimed that he killed the burglar."
+  },
+  {
+    "id": 171,
+    "english": "classic",
+    "uzbek": "klassik",
+    "example": "Classic Cinese pottery."
+  },
+  {
+    "id": 172,
+    "english": "cleaner",
+    "uzbek": "farrosh",
+    "example": "I used a stronger bathroom cleaner to remove the stubborn mold stains."
+  },
+  {
+    "id": 173,
+    "english": "clear",
+    "uzbek": "aniq",
+    "example": "A clear and present danger."
+  },
+  {
+    "id": 174,
+    "english": "clearly",
+    "uzbek": "aniq",
+    "example": "They were clearly lost."
+  },
+  {
+    "id": 175,
+    "english": "clerk",
+    "uzbek": "kotiba",
+    "example": "The clerk filed all the invoices in the cabinet."
+  },
+  {
+    "id": 176,
+    "english": "climb",
+    "uzbek": "yuqoriga chiqmoq",
+    "example": "Did you ever climb up the hill behind your house?"
+  },
+  {
+    "id": 177,
+    "english": "clown",
+    "uzbek": "masxaraboz",
+    "example": "That clown at the party kept making offensive jokes that made everyone uncomfortable."
+  },
+  {
+    "id": 178,
+    "english": "clue",
+    "uzbek": "kalit",
+    "example": "The slight smile on her face gave me a clue she wasn't really angry."
+  },
+  {
+    "id": 179,
+    "english": "coast",
+    "uzbek": "qirg‘oq",
+    "example": "We spent our vacation relaxing on the beautiful California coast."
+  },
+  {
+    "id": 180,
+    "english": "coin",
+    "uzbek": "tanga",
+    "example": "I found a shiny coin under the couch cushions yesterday."
+  },
+  {
+    "id": 181,
+    "english": "column",
+    "uzbek": "kolonna",
+    "example": "The marching band formed a long column and walked down the street."
+  },
+  {
+    "id": 182,
+    "english": "comb",
+    "uzbek": "taroq",
+    "example": "She ran the comb through her tangled hair before the job interview."
+  },
+  {
+    "id": 183,
+    "english": "comfortable",
+    "uzbek": "qulay",
+    "example": "Was settled in a comfortable job, one for which he was well prepared."
+  },
+  {
+    "id": 184,
+    "english": "comic",
+    "uzbek": "komik",
+    "example": "The comic had the entire audience laughing throughout his stand-up routine."
+  },
+  {
+    "id": 185,
+    "english": "commitment",
+    "uzbek": "majburiyat",
+    "example": "Signing the contract is a serious commitment."
+  },
+  {
+    "id": 186,
+    "english": "committee",
+    "uzbek": "komitet",
+    "example": "A committee is a group that keeps minutes and loses hours."
+  },
+  {
+    "id": 187,
+    "english": "common",
+    "uzbek": "umumiy",
+    "example": "For the common good."
+  },
+  {
+    "id": 188,
+    "english": "communicate",
+    "uzbek": "xabar bermoq",
+    "example": "Please communicate this message to all employees."
+  },
+  {
+    "id": 189,
+    "english": "communication",
+    "uzbek": "xabar berish",
+    "example": "They could not act without official communication from Moscow."
+  },
+  {
+    "id": 190,
+    "english": "company",
+    "uzbek": "o‘rtog‘lik",
+    "example": "The infantry company advanced toward the enemy position with their weapons ready."
+  },
+  {
+    "id": 191,
+    "english": "compare",
+    "uzbek": "qiyoslamoq",
+    "example": "This car does not compare with our line of Mercedes."
+  },
+  {
+    "id": 192,
+    "english": "competition",
+    "uzbek": "poyga",
+    "example": "Business competition can be fiendish at times."
+  },
+  {
+    "id": 193,
+    "english": "complain",
+    "uzbek": "shikoyat qilmoq",
+    "example": "My mother complains all day."
+  },
+  {
+    "id": 194,
+    "english": "complaint",
+    "uzbek": "norozilik",
+    "example": "Her chronic back complaint made it difficult to sit through long meetings."
+  },
+  {
+    "id": 195,
+    "english": "complete",
+    "uzbek": "to‘la",
+    "example": "A complete meal."
+  },
+  {
+    "id": 196,
+    "english": "composer",
+    "uzbek": "bastakor",
+    "example": "The famous composer Johann Sebastian Bach wrote over a thousand musical pieces."
+  },
+  {
+    "id": 197,
+    "english": "concentrate",
+    "uzbek": "diqqatni bir nuqtaga to‘plamoq",
+    "example": "Concentrate juice."
+  },
+  {
+    "id": 198,
+    "english": "concern",
+    "uzbek": "taalluqli bo‘lmoq",
+    "example": "The safety of the ship is the captain's concern."
+  },
+  {
+    "id": 199,
+    "english": "condition",
+    "uzbek": "sharoit",
+    "example": "A condition (or state) of disrepair."
+  },
+  {
+    "id": 200,
+    "english": "confident",
+    "uzbek": "amin",
+    "example": "A confident speaker."
+  },
+  {
+    "id": 201,
+    "english": "confuse",
+    "uzbek": "chalkashtirmoq",
+    "example": "These questions confuse even the experts."
+  },
+  {
+    "id": 202,
+    "english": "consequence",
+    "uzbek": "oqibat",
+    "example": "Skipping the meeting had serious consequences for my job performance review."
+  },
+  {
+    "id": 203,
+    "english": "consider",
+    "uzbek": "...deb qaramoq",
+    "example": "Consider the possibility of moving."
+  },
+  {
+    "id": 204,
+    "english": "consist",
+    "uzbek": "iborat bo‘lmoq",
+    "example": "The payment consists in food."
+  },
+  {
+    "id": 205,
+    "english": "contact",
+    "uzbek": "yondoshlik",
+    "example": "They kept in daily contact."
+  },
+  {
+    "id": 206,
+    "english": "container",
+    "uzbek": "konteyner",
+    "example": "The shipping container was loaded onto the cargo ship at the port."
+  },
+  {
+    "id": 207,
+    "english": "context",
+    "uzbek": "kontekst",
+    "example": "The word 'bank' has different meanings depending on the context surrounding it."
+  },
+  {
+    "id": 208,
+    "english": "continent",
+    "uzbek": "quruqlik",
+    "example": "Englishmen like to visit the Continent but they wouldn't like to live there."
+  },
+  {
+    "id": 209,
+    "english": "continue",
+    "uzbek": "davom etmoq",
+    "example": "We will continue the lesson after lunch."
+  },
+  {
+    "id": 210,
+    "english": "contrast",
+    "uzbek": "qarama-qarshilik",
+    "example": "The contrast between the two paintings shows the artist's different styles."
+  },
+  {
+    "id": 211,
+    "english": "control",
+    "uzbek": "tekshirish",
+    "example": "Measures for the control of disease."
+  },
+  {
+    "id": 212,
+    "english": "convenience",
+    "uzbek": "qulaylik",
+    "example": "Chairs arranged for his own convenience."
+  },
+  {
+    "id": 213,
+    "english": "convenient",
+    "uzbek": "qulay",
+    "example": "A convenient excuse for not going."
+  },
+  {
+    "id": 214,
+    "english": "cooler",
+    "uzbek": "sovitkich",
+    "example": "We packed a cooler full of ice and cold beverages for the beach trip."
+  },
+  {
+    "id": 215,
+    "english": "correctly",
+    "uzbek": "to‘g‘ri",
+    "example": "The flower had been correctly depicted by his son."
+  },
+  {
+    "id": 216,
+    "english": "cost",
+    "uzbek": "tannarx",
+    "example": "The total cost of the project included materials, labor, and three months of planning."
+  },
+  {
+    "id": 217,
+    "english": "count",
+    "uzbek": "sanamoq",
+    "example": "Can you count the books on your shelf?"
+  },
+  {
+    "id": 218,
+    "english": "country",
+    "uzbek": "mamlakat",
+    "example": "She wants to visit another country."
+  },
+  {
+    "id": 219,
+    "english": "countryside",
+    "uzbek": "qishloq hududi",
+    "example": "We drove through the beautiful countryside to escape the city for the weekend."
+  },
+  {
+    "id": 220,
+    "english": "couple",
+    "uzbek": "juft",
+    "example": "A married couple from Chicago."
+  },
+  {
+    "id": 221,
+    "english": "court",
+    "uzbek": "sud",
+    "example": "The court heard arguments from both sides before making a final decision."
+  },
+  {
+    "id": 222,
+    "english": "cover",
+    "uzbek": "yopmoq",
+    "example": "Cover her face with a handkerchief."
+  },
+  {
+    "id": 223,
+    "english": "crazy",
+    "uzbek": "aqldan ozgan",
+    "example": "A crazy scheme."
+  },
+  {
+    "id": 224,
+    "english": "creative",
+    "uzbek": "ijodiy",
+    "example": "A creative imagination."
+  },
+  {
+    "id": 225,
+    "english": "creativity",
+    "uzbek": "ijodkorlik",
+    "example": "Her creativity allowed her to design innovative solutions nobody else considered."
+  },
+  {
+    "id": 226,
+    "english": "creature",
+    "uzbek": "jonivor",
+    "example": "The creature scurried across the forest floor looking for food."
+  },
+  {
+    "id": 227,
+    "english": "credit",
+    "uzbek": "kredit",
+    "example": "The bank extended credit to help us buy a new car."
+  },
+  {
+    "id": 228,
+    "english": "cricket",
+    "uzbek": "kriket",
+    "example": "At night, I could hear a cricket chirping loudly outside my bedroom window."
+  },
+  {
+    "id": 229,
+    "english": "crime",
+    "uzbek": "jinoyat",
+    "example": "The police are investigating the crime."
+  },
+  {
+    "id": 230,
+    "english": "crisp",
+    "uzbek": "mo‘rt",
+    "example": "I grabbed a bag of salt and vinegar crisps from the convenience store."
+  },
+  {
+    "id": 231,
+    "english": "cross",
+    "uzbek": "ko‘paytirish belgisi",
+    "example": "Jesus was crucified on a wooden cross nearly two thousand years ago."
+  },
+  {
+    "id": 232,
+    "english": "crowd",
+    "uzbek": "olomon",
+    "example": "A crowd of insects assembled around the flowers."
+  },
+  {
+    "id": 233,
+    "english": "crown",
+    "uzbek": "toj",
+    "example": "The colonies revolted against the Crown."
+  },
+  {
+    "id": 234,
+    "english": "cruise",
+    "uzbek": "dengiz sayohati",
+    "example": "We booked a seven-day cruise to the Caribbean last spring."
+  },
+  {
+    "id": 235,
+    "english": "cupboard",
+    "uzbek": "bufeti",
+    "example": "She stored all the dishes and glasses in the kitchen cupboard."
+  },
+  {
+    "id": 236,
+    "english": "curry",
+    "uzbek": "kerri",
+    "example": "We ordered chicken curry and rice at our favorite Indian restaurant last night."
+  },
+  {
+    "id": 237,
+    "english": "curse",
+    "uzbek": "haqorat",
+    "example": "The witch placed a curse on the entire village for disrespecting her."
+  },
+  {
+    "id": 238,
+    "english": "custom",
+    "uzbek": "urf",
+    "example": "It's the custom in our office to celebrate birthdays with cake."
+  },
+  {
+    "id": 239,
+    "english": "customer",
+    "uzbek": "xaridor",
+    "example": "The customer paid for their groceries at the checkout counter."
+  },
+  {
+    "id": 240,
+    "english": "daily",
+    "uzbek": "har kungi",
+    "example": "Daily routine."
+  },
+  {
+    "id": 241,
+    "english": "dam",
+    "uzbek": "to‘g‘on",
+    "example": "The dam across the river supplies electricity to the entire region."
+  },
+  {
+    "id": 242,
+    "english": "dancer",
+    "uzbek": "raqqos",
+    "example": "The professional dancer performed an incredible solo at the concert last night."
+  },
+  {
+    "id": 243,
+    "english": "danger",
+    "uzbek": "xavf- xatar",
+    "example": "You are in no danger."
+  },
+  {
+    "id": 244,
+    "english": "dangerous",
+    "uzbek": "xavfli",
+    "example": "A dangerous criminal."
+  },
+  {
+    "id": 245,
+    "english": "daylight",
+    "uzbek": "kunduz payti",
+    "example": "We need more daylight in this room, so let's open the curtains."
+  },
+  {
+    "id": 246,
+    "english": "dead",
+    "uzbek": "o‘lgan",
+    "example": "Mars is a dead planet."
+  },
+  {
+    "id": 247,
+    "english": "deal",
+    "uzbek": "kelishuv",
+    "example": "It was a package deal."
+  },
+  {
+    "id": 248,
+    "english": "death",
+    "uzbek": "o‘lim",
+    "example": "Her death came as a terrible shock."
+  },
+  {
+    "id": 249,
+    "english": "debate",
+    "uzbek": "bahs",
+    "example": "The debate over the new policy ended with a majority vote in favor."
+  },
+  {
+    "id": 250,
+    "english": "decide",
+    "uzbek": "qaror qilmoq",
+    "example": "We must decide where to go tomorrow."
+  },
+  {
+    "id": 251,
+    "english": "deep",
+    "uzbek": "chuqur",
+    "example": "They travelled deep into the forest."
+  },
+  {
+    "id": 252,
+    "english": "deeply",
+    "uzbek": "chuqur",
+    "example": "They felt the loss deeply."
+  },
+  {
+    "id": 253,
+    "english": "degree",
+    "uzbek": "gradus",
+    "example": "A remarkable degree of frankness."
+  },
+  {
+    "id": 254,
+    "english": "delay",
+    "uzbek": "kechiktirish",
+    "example": "Instant replay caused too long a delay."
+  },
+  {
+    "id": 255,
+    "english": "dentist",
+    "uzbek": "tish doktori",
+    "example": "I need to schedule an appointment with my dentist to get my teeth cleaned."
+  },
+  {
+    "id": 256,
+    "english": "depend",
+    "uzbek": "...ga bo‘g‘liq bo‘lmoq",
+    "example": "That depends."
+  },
+  {
+    "id": 257,
+    "english": "description",
+    "uzbek": "ta'rif",
+    "example": "The job description listed all the required qualifications and responsibilities."
+  },
+  {
+    "id": 258,
+    "english": "desert",
+    "uzbek": "cho‘l",
+    "example": "The Sahara Desert is one of the hottest and driest places on Earth."
+  },
+  {
+    "id": 259,
+    "english": "dessert",
+    "uzbek": "desert",
+    "example": "We ordered chocolate cake for dessert after finishing our dinner."
+  },
+  {
+    "id": 260,
+    "english": "destroy",
+    "uzbek": "yo‘q qilmoq",
+    "example": "The fire destroyed the house."
+  },
+  {
+    "id": 261,
+    "english": "detail",
+    "uzbek": "qism",
+    "example": "Several of the details are similar."
+  },
+  {
+    "id": 262,
+    "english": "develop",
+    "uzbek": "rivojlantirmoq",
+    "example": "Her company developed a new kind of building material that withstands all kinds of weather."
+  },
+  {
+    "id": 263,
+    "english": "diamond",
+    "uzbek": "olmos",
+    "example": "She inherited her grandmother's diamond engagement ring from the 1950s."
+  },
+  {
+    "id": 264,
+    "english": "diary",
+    "uzbek": "kundalik",
+    "example": "She writes in her diary every night before going to bed."
+  },
+  {
+    "id": 265,
+    "english": "die",
+    "uzbek": "o‘lmoq",
+    "example": "Martyrs may die every day for their faith."
+  },
+  {
+    "id": 266,
+    "english": "diet",
+    "uzbek": "ovqat",
+    "example": "My doctor recommended a strict diet to help lower my cholesterol levels."
+  },
+  {
+    "id": 267,
+    "english": "differently",
+    "uzbek": "boshqacha",
+    "example": "Very soon you will know differently."
+  },
+  {
+    "id": 268,
+    "english": "dinosaur",
+    "uzbek": "dinozavr",
+    "example": "The museum's dinosaur exhibit featured a massive Tyrannosaurus rex skeleton."
+  },
+  {
+    "id": 269,
+    "english": "direct",
+    "uzbek": "bevosita to‘g‘ridan-to‘g‘ri",
+    "example": "A direct route."
+  },
+  {
+    "id": 270,
+    "english": "direction",
+    "uzbek": "yo‘l",
+    "example": "He looked the other direction."
+  },
+  {
+    "id": 271,
+    "english": "director",
+    "uzbek": "mudir",
+    "example": "The project director approved the budget and allocated funds to each department."
+  },
+  {
+    "id": 272,
+    "english": "disadvantage",
+    "uzbek": "zarar",
+    "example": "Being shorter puts him at a disadvantage in professional basketball compared to taller players."
+  },
+  {
+    "id": 273,
+    "english": "disagree",
+    "uzbek": "qarshi chiqmoq",
+    "example": "The two studies disagree on whether coffee is actually healthy for you."
+  },
+  {
+    "id": 274,
+    "english": "disappear",
+    "uzbek": "g‘oyib bo‘lmoq",
+    "example": "He disappeared without a trace."
+  },
+  {
+    "id": 275,
+    "english": "disappointing",
+    "uzbek": "hafsalani pir qiladigan",
+    "example": "A disappointing performance from one who had seemed so promising."
+  },
+  {
+    "id": 276,
+    "english": "discussion",
+    "uzbek": "muzokara",
+    "example": "The book contains an excellent discussion of modal logic."
+  },
+  {
+    "id": 277,
+    "english": "dishonest",
+    "uzbek": "vijdonsiz",
+    "example": "The dishonest salesman convinced customers to buy worthless extended warranties."
+  },
+  {
+    "id": 278,
+    "english": "dislike",
+    "uzbek": "yoqtirmaslik",
+    "example": "Her dislike of the new manager was based on his poor communication skills."
+  },
+  {
+    "id": 279,
+    "english": "display",
+    "uzbek": "ko‘rgazma",
+    "example": "Made a display of strength."
+  },
+  {
+    "id": 280,
+    "english": "disturb",
+    "uzbek": "xalaqit qilmoq",
+    "example": "Please don't disturb the papers on my desk while I'm gone."
+  },
+  {
+    "id": 281,
+    "english": "divide",
+    "uzbek": "ayirmoq",
+    "example": "Divide the cake into three equal parts."
+  },
+  {
+    "id": 282,
+    "english": "dizzy",
+    "uzbek": "boshi aylangan",
+    "example": "I felt dizzy after spinning around."
+  },
+  {
+    "id": 283,
+    "english": "double",
+    "uzbek": "juft",
+    "example": "A double (or dual) role for an actor."
+  },
+  {
+    "id": 284,
+    "english": "doubt",
+    "uzbek": "shubha",
+    "example": "I have some doubt about whether that restaurant is actually good."
+  },
+  {
+    "id": 285,
+    "english": "downstairs",
+    "uzbek": "pastki qavatda",
+    "example": "The tenants live downstairs."
+  },
+  {
+    "id": 286,
+    "english": "draw",
+    "uzbek": "durang",
+    "example": "The cattle followed the dry draw down through the canyon."
+  },
+  {
+    "id": 287,
+    "english": "drawer",
+    "uzbek": "tortmali javon",
+    "example": "I keep my socks and underwear in the top drawer of my dresser."
+  },
+  {
+    "id": 288,
+    "english": "drawing",
+    "uzbek": "rasm",
+    "example": "It is shown by the drawing in Fig. 7."
+  },
+  {
+    "id": 289,
+    "english": "dream",
+    "uzbek": "tush ko‘rmoq",
+    "example": "She spent the meeting dreaming about her upcoming vacation instead of paying attention."
+  },
+  {
+    "id": 290,
+    "english": "dress",
+    "uzbek": "kiymoq",
+    "example": "We had to dress quickly."
+  },
+  {
+    "id": 291,
+    "english": "drill",
+    "uzbek": "dril",
+    "example": "I used an electric drill to make holes in the wooden shelf."
+  },
+  {
+    "id": 292,
+    "english": "drive",
+    "uzbek": "boshqarmoq",
+    "example": "Drive a car or bus."
+  },
+  {
+    "id": 293,
+    "english": "drop",
+    "uzbek": "tomchi",
+    "example": "He studied the shapes of low-viscosity drops."
+  },
+  {
+    "id": 294,
+    "english": "drug",
+    "uzbek": "dori-darmon",
+    "example": "The doctor prescribed a new drug to help manage her blood pressure effectively."
+  },
+  {
+    "id": 295,
+    "english": "drugstore",
+    "uzbek": "dorixona",
+    "example": "I stopped by the drugstore to pick up my prescription and some toothpaste."
+  },
+  {
+    "id": 296,
+    "english": "dry",
+    "uzbek": "quritmoq",
+    "example": "Dry clothes."
+  },
+  {
+    "id": 297,
+    "english": "duck",
+    "uzbek": "o‘rdak",
+    "example": "The duck paddled across the pond with her ducklings following close behind."
+  },
+  {
+    "id": 298,
+    "english": "dust",
+    "uzbek": "chang",
+    "example": "The furniture was covered with dust."
+  },
+  {
+    "id": 299,
+    "english": "early",
+    "uzbek": "erta",
+    "example": "Early morning."
+  },
+  {
+    "id": 300,
+    "english": "earn",
+    "uzbek": "pul ishlab topmoq",
+    "example": "She earned her promotion through years of hard work and dedication."
+  },
+  {
+    "id": 301,
+    "english": "earth",
+    "uzbek": "dunyo",
+    "example": "The Earth moves around the sun."
+  },
+  {
+    "id": 302,
+    "english": "earthquake",
+    "uzbek": "zilzila",
+    "example": "The earthquake that hit last night knocked over our kitchen table."
+  },
+  {
+    "id": 303,
+    "english": "easily",
+    "uzbek": "qiyinchiliksiz",
+    "example": "Easily the best book she's written."
+  },
+  {
+    "id": 304,
+    "english": "east",
+    "uzbek": "sharq",
+    "example": "The compass needle pointed east toward the rising sun."
+  },
+  {
+    "id": 305,
+    "english": "editor",
+    "uzbek": "muharrir",
+    "example": "The editor decided which stories would make the front page."
+  },
+  {
+    "id": 306,
+    "english": "education",
+    "uzbek": "ilm",
+    "example": "He received no formal education."
+  },
+  {
+    "id": 307,
+    "english": "educational",
+    "uzbek": "ta’limga oid",
+    "example": "Educational psychology."
+  },
+  {
+    "id": 308,
+    "english": "effect",
+    "uzbek": "natija",
+    "example": "The magnetic effect was greater when the rod was lengthwise."
+  },
+  {
+    "id": 309,
+    "english": "effort",
+    "uzbek": "zo‘r berish",
+    "example": "Made an effort to cover all the reading material."
+  },
+  {
+    "id": 310,
+    "english": "electric",
+    "uzbek": "elektrga oid",
+    "example": "An atmosphere electric with suspicion."
+  },
+  {
+    "id": 311,
+    "english": "elephant",
+    "uzbek": "fil",
+    "example": "The elephant used its long trunk to grab peanuts from the zookeeper's hand."
+  },
+  {
+    "id": 312,
+    "english": "elevator",
+    "uzbek": "lift",
+    "example": "The elevator was broken, so we had to climb the stairs to the fifth floor."
+  },
+  {
+    "id": 313,
+    "english": "elsewhere",
+    "uzbek": "biror joyda",
+    "example": "He went elsewhere."
+  },
+  {
+    "id": 314,
+    "english": "emergency",
+    "uzbek": "kutilmagan  hodisa",
+    "example": "He never knew what to do in an emergency."
+  },
+  {
+    "id": 315,
+    "english": "empty",
+    "uzbek": "bo‘sh",
+    "example": "An empty glass."
+  },
+  {
+    "id": 316,
+    "english": "ending",
+    "uzbek": "nihoya",
+    "example": "I don't like words that have -ism as an ending."
+  },
+  {
+    "id": 317,
+    "english": "energetic",
+    "uzbek": "g‘ayratli",
+    "example": "An energetic fund raiser for the college."
+  },
+  {
+    "id": 318,
+    "english": "enormous",
+    "uzbek": "buyuk",
+    "example": "An enormous boulder."
+  },
+  {
+    "id": 319,
+    "english": "enough",
+    "uzbek": "yetarli",
+    "example": "Have I eaten enough?"
+  },
+  {
+    "id": 320,
+    "english": "enter",
+    "uzbek": "kirmoq",
+    "example": "The boat entered an area of shallow marshes."
+  },
+  {
+    "id": 321,
+    "english": "entertainment",
+    "uzbek": "qabul marosimi",
+    "example": "We need some entertainment for the kids during this long road trip."
+  },
+  {
+    "id": 322,
+    "english": "entrance",
+    "uzbek": "kirish",
+    "example": "They waited at the entrance to the garden."
+  },
+  {
+    "id": 323,
+    "english": "envelope",
+    "uzbek": "konvert",
+    "example": "I put the letter in a white envelope and sealed it shut."
+  },
+  {
+    "id": 324,
+    "english": "envy",
+    "uzbek": "havas qilmoq",
+    "example": "I felt a pang of envy when my friend showed me her new car."
+  },
+  {
+    "id": 325,
+    "english": "episode",
+    "uzbek": "voqea",
+    "example": "That embarrassing episode at the party haunted him for weeks."
+  },
+  {
+    "id": 326,
+    "english": "error",
+    "uzbek": "xato",
+    "example": "I made an error when I typed the wrong email address in the message."
+  },
+  {
+    "id": 327,
+    "english": "escape",
+    "uzbek": "qochish",
+    "example": "He made his escape from the mental hospital."
+  },
+  {
+    "id": 328,
+    "english": "especially",
+    "uzbek": "ayniqsa",
+    "example": "I like fruit, especially fresh apples."
+  },
+  {
+    "id": 329,
+    "english": "essay",
+    "uzbek": "ocherk",
+    "example": "The student wrote a thoughtful essay analyzing the themes in the novel."
+  },
+  {
+    "id": 330,
+    "english": "establish",
+    "uzbek": "qurmoq",
+    "example": "Establish a new department."
+  },
+  {
+    "id": 331,
+    "english": "even",
+    "uzbek": "hatto",
+    "example": "Even an idiot knows that."
+  },
+  {
+    "id": 332,
+    "english": "ever",
+    "uzbek": "har qanday holda",
+    "example": "Did you ever smoke?"
+  },
+  {
+    "id": 333,
+    "english": "evidence",
+    "uzbek": "asos",
+    "example": "The evidence that smoking causes lung cancer is very compelling."
+  },
+  {
+    "id": 334,
+    "english": "exactly",
+    "uzbek": "aniq",
+    "example": "He was doing precisely (or exactly) what she had told him to do."
+  },
+  {
+    "id": 335,
+    "english": "exchange",
+    "uzbek": "almashish",
+    "example": "In ion exchange, sodium atoms swap places with calcium in the water softener."
+  },
+  {
+    "id": 336,
+    "english": "exercise",
+    "uzbek": "mashq",
+    "example": "The doctor recommended regular exercise."
+  },
+  {
+    "id": 337,
+    "english": "exhibition",
+    "uzbek": "ko‘rgazma",
+    "example": "A remarkable exhibition of musicianship."
+  },
+  {
+    "id": 338,
+    "english": "exist",
+    "uzbek": "mavjud bo‘lmoq",
+    "example": "He could barely exist on such a low wage."
+  },
+  {
+    "id": 339,
+    "english": "expect",
+    "uzbek": "kutmoq",
+    "example": "The meteorologists are expecting rain for tomorrow."
+  },
+  {
+    "id": 340,
+    "english": "experience",
+    "uzbek": "tajriba",
+    "example": "He had a religious experience."
+  },
+  {
+    "id": 341,
+    "english": "expert",
+    "uzbek": "mohir",
+    "example": "The software expert quickly debugged the complex code and fixed the problem."
+  },
+  {
+    "id": 342,
+    "english": "explain",
+    "uzbek": "tushuntirmoq",
+    "example": "He explained the laws of physics to his students."
+  },
+  {
+    "id": 343,
+    "english": "explanation",
+    "uzbek": "tushuntirish",
+    "example": "The explanation was very simple."
+  },
+  {
+    "id": 344,
+    "english": "explore",
+    "uzbek": "qidirib topmoq kashf qilmoq",
+    "example": "Explore unknown territory in biology."
+  },
+  {
+    "id": 345,
+    "english": "express",
+    "uzbek": "tez yurar poyezd",
+    "example": "I sent the package via express so it would arrive by tomorrow."
+  },
+  {
+    "id": 346,
+    "english": "expression",
+    "uzbek": "so‘z",
+    "example": "Tears are an expression of grief."
+  },
+  {
+    "id": 347,
+    "english": "extremely",
+    "uzbek": "nihoyatda",
+    "example": "Extremely cold."
+  },
+  {
+    "id": 348,
+    "english": "face",
+    "uzbek": "duch kelmoq",
+    "example": "We must face this problem together."
+  },
+  {
+    "id": 349,
+    "english": "fact",
+    "uzbek": "dalil",
+    "example": "First you must collect all the facts of the case."
+  },
+  {
+    "id": 350,
+    "english": "fail",
+    "uzbek": "muvaffaqiyatsizlikka uchramoq",
+    "example": "She failed to notice that her child was no longer in his crib."
+  },
+  {
+    "id": 351,
+    "english": "fairly",
+    "uzbek": "vijdonan",
+    "example": "Deal fairly with one another."
+  },
+  {
+    "id": 352,
+    "english": "fall",
+    "uzbek": "yiqilmoq",
+    "example": "Be careful not to fall on the ice."
+  },
+  {
+    "id": 353,
+    "english": "familiar",
+    "uzbek": "tanish",
+    "example": "Familiar ordinary objects found in every home."
+  },
+  {
+    "id": 354,
+    "english": "fancy",
+    "uzbek": "xayol",
+    "example": "Fancy handwriting."
+  },
+  {
+    "id": 355,
+    "english": "fantastic",
+    "uzbek": "g‘aroyib",
+    "example": "A fantastic trip to the Orient."
+  },
+  {
+    "id": 356,
+    "english": "far",
+    "uzbek": "uzoq",
+    "example": "A far far better thing that I do."
+  },
+  {
+    "id": 357,
+    "english": "fare",
+    "uzbek": "yo‘l haqi",
+    "example": "The bus fare increased to five dollars last month."
+  },
+  {
+    "id": 358,
+    "english": "fascinating",
+    "uzbek": "juda qiziqarli",
+    "example": "A fascinating story."
+  },
+  {
+    "id": 359,
+    "english": "fashion",
+    "uzbek": "moda",
+    "example": "He always complained about everything in his usual fashion."
+  },
+  {
+    "id": 360,
+    "english": "fear",
+    "uzbek": "qo‘rqinch",
+    "example": "She felt a sudden fear when the dog started growling at her."
+  },
+  {
+    "id": 361,
+    "english": "feather",
+    "uzbek": "pat",
+    "example": "The bird's blue feather fell gently to the ground."
+  },
+  {
+    "id": 362,
+    "english": "feature",
+    "uzbek": "xususiyat",
+    "example": "The map showed roads and other features."
+  },
+  {
+    "id": 363,
+    "english": "fee",
+    "uzbek": "haq",
+    "example": "The lawyer charged a flat fee of five hundred dollars for the consultation."
+  },
+  {
+    "id": 364,
+    "english": "female",
+    "uzbek": "urg‘ochi",
+    "example": "A female heir."
+  },
+  {
+    "id": 365,
+    "english": "fence",
+    "uzbek": "to‘siq",
+    "example": "The wooden fence around the backyard keeps the dogs from escaping."
+  },
+  {
+    "id": 366,
+    "english": "fiction",
+    "uzbek": "badiiy adabiyot",
+    "example": "She loves reading science fiction novels before bed every night."
+  },
+  {
+    "id": 367,
+    "english": "fighter",
+    "uzbek": "jangchi",
+    "example": "The fighter refused to give up even after losing the first round."
+  },
+  {
+    "id": 368,
+    "english": "figure",
+    "uzbek": "qomat",
+    "example": "The area covered can be seen from Figure 2."
+  },
+  {
+    "id": 369,
+    "english": "film",
+    "uzbek": "film",
+    "example": "We watched a funny film last night."
+  },
+  {
+    "id": 370,
+    "english": "final",
+    "uzbek": "so‘nggi",
+    "example": "The final answer."
+  },
+  {
+    "id": 371,
+    "english": "finally",
+    "uzbek": "nihoyat",
+    "example": "After waiting in line for three hours, we finally got our tickets."
+  },
+  {
+    "id": 372,
+    "english": "fisherman",
+    "uzbek": "baliqchi",
+    "example": "The fisherman cast his line into the river early every morning."
+  },
+  {
+    "id": 373,
+    "english": "fit",
+    "uzbek": "loyiq",
+    "example": "A fit subject for discussion."
+  },
+  {
+    "id": 374,
+    "english": "flea",
+    "uzbek": "burga",
+    "example": "Our dog scratched constantly because a flea had bitten her repeatedly."
+  },
+  {
+    "id": 375,
+    "english": "flight",
+    "uzbek": "parvoz",
+    "example": "The flight of fighter jets passed overhead in perfect V formation."
+  },
+  {
+    "id": 376,
+    "english": "flood",
+    "uzbek": "sel",
+    "example": "A flood of requests."
+  },
+  {
+    "id": 377,
+    "english": "flour",
+    "uzbek": "un",
+    "example": "I need to buy flour at the store to bake chocolate chip cookies this weekend."
+  },
+  {
+    "id": 378,
+    "english": "fog",
+    "uzbek": "tuman",
+    "example": "We could barely see the road through the thick fog this morning."
+  },
+  {
+    "id": 379,
+    "english": "folder",
+    "uzbek": "papka",
+    "example": "I picked up a colorful travel folder at the airport information desk."
+  },
+  {
+    "id": 380,
+    "english": "follow",
+    "uzbek": "izdan bormoq",
+    "example": "The ducklings followed their mother around the pond."
+  },
+  {
+    "id": 381,
+    "english": "fool",
+    "uzbek": "ahmoq",
+    "example": "That fool decided to quit his job without finding another one first."
+  },
+  {
+    "id": 382,
+    "english": "forbid",
+    "uzbek": "taqiqlamoq",
+    "example": "I forbid you to call me late at night."
+  },
+  {
+    "id": 383,
+    "english": "force",
+    "uzbek": "kuch",
+    "example": "The force of his eloquence easily persuaded them."
+  },
+  {
+    "id": 384,
+    "english": "forest",
+    "uzbek": "o‘rmon",
+    "example": "The forest was so dense that sunlight barely reached the ground below."
+  },
+  {
+    "id": 385,
+    "english": "forever",
+    "uzbek": "bir umrga",
+    "example": "No one can live forever."
+  },
+  {
+    "id": 386,
+    "english": "fork",
+    "uzbek": "sanchqi",
+    "example": "I picked up my fork and took a bite of the delicious pasta."
+  },
+  {
+    "id": 387,
+    "english": "fortunately",
+    "uzbek": "baxtiga",
+    "example": "Fortunately the weather was good."
+  },
+  {
+    "id": 388,
+    "english": "fortune",
+    "uzbek": "omad",
+    "example": "She inherited a fortune from her wealthy grandmother and retired early."
+  },
+  {
+    "id": 389,
+    "english": "forward",
+    "uzbek": "ilgariga",
+    "example": "He faced forward."
+  },
+  {
+    "id": 390,
+    "english": "frame",
+    "uzbek": "rom",
+    "example": "I need to replace the frame on my glasses because it's broken."
+  },
+  {
+    "id": 391,
+    "english": "frank",
+    "uzbek": "ochiq",
+    "example": "Frank enjoyment."
+  },
+  {
+    "id": 392,
+    "english": "freedom",
+    "uzbek": "ozodlik",
+    "example": "After leaving home, she finally had the freedom to make her own choices."
+  },
+  {
+    "id": 393,
+    "english": "fresh",
+    "uzbek": "yangi",
+    "example": "Fresh bread."
+  },
+  {
+    "id": 394,
+    "english": "friendship",
+    "uzbek": "do‘stlik",
+    "example": "Our friendship has grown stronger since we started college together."
+  },
+  {
+    "id": 395,
+    "english": "frighten",
+    "uzbek": "qo‘rqitmoq",
+    "example": "The stranger who hangs around the building frightens me."
+  },
+  {
+    "id": 396,
+    "english": "front",
+    "uzbek": "old qism",
+    "example": "The front of the building has large windows and a welcoming entrance."
+  },
+  {
+    "id": 397,
+    "english": "fully",
+    "uzbek": "tamoman",
+    "example": "The evidence amply (or fully) confirms our suspicions."
+  },
+  {
+    "id": 398,
+    "english": "furniture",
+    "uzbek": "mebel",
+    "example": "They had too much furniture for the small apartment."
+  },
+  {
+    "id": 399,
+    "english": "further",
+    "uzbek": "uzoqroq",
+    "example": "Nothing could be further from the truth."
+  },
+  {
+    "id": 400,
+    "english": "gallery",
+    "uzbek": "galereya",
+    "example": "The gallery around the tennis court cheered loudly when she won the match."
+  },
+  {
+    "id": 401,
+    "english": "garage",
+    "uzbek": "garaj",
+    "example": "We parked both cars in the garage before the storm arrived."
+  },
+  {
+    "id": 402,
+    "english": "garlic",
+    "uzbek": "sarimsoq piyoz",
+    "example": "The gardener planted garlic cloves in autumn for a summer harvest."
+  },
+  {
+    "id": 403,
+    "english": "gas",
+    "uzbek": "gaz",
+    "example": "Helium is a gas that expands rapidly when heated inside a balloon."
+  },
+  {
+    "id": 404,
+    "english": "gate",
+    "uzbek": "darvoza",
+    "example": "Please close the gate behind you when you leave the yard."
+  },
+  {
+    "id": 405,
+    "english": "gather",
+    "uzbek": "yig‘ilmoq",
+    "example": "Gather some stones."
+  },
+  {
+    "id": 406,
+    "english": "gender",
+    "uzbek": "jins",
+    "example": "In Spanish, every noun has a gender that affects the adjectives describing it."
+  },
+  {
+    "id": 407,
+    "english": "generation",
+    "uzbek": "ishlab chiqarish",
+    "example": "The younger generation seems much more comfortable with technology than their parents."
+  },
+  {
+    "id": 408,
+    "english": "gentle",
+    "uzbek": "nozik",
+    "example": "The gentle touch of her hand."
+  },
+  {
+    "id": 409,
+    "english": "given",
+    "uzbek": "give ga qarang",
+    "example": "Given the engine's condition, it is a wonder that it started."
+  },
+  {
+    "id": 410,
+    "english": "glove",
+    "uzbek": "qo‘lqop",
+    "example": "The shortstop caught the ball in his leather glove."
+  },
+  {
+    "id": 411,
+    "english": "gold",
+    "uzbek": "oltin",
+    "example": "The pirate buried a chest full of gold coins on the island."
+  },
+  {
+    "id": 412,
+    "english": "golden",
+    "uzbek": "oltindan yasalgan",
+    "example": "Long aureate (or golden) hair."
+  },
+  {
+    "id": 413,
+    "english": "golf",
+    "uzbek": "golf",
+    "example": "My father plays golf every Saturday morning at the country club."
+  },
+  {
+    "id": 414,
+    "english": "government",
+    "uzbek": "boshqarish",
+    "example": "The government reduced taxes."
+  },
+  {
+    "id": 415,
+    "english": "grace",
+    "uzbek": "go‘zallik",
+    "example": "The conception of grace developed alongside the conception of sin."
+  },
+  {
+    "id": 416,
+    "english": "gradually",
+    "uzbek": "sekin-asta",
+    "example": "The snake moved gradually toward its victim."
+  },
+  {
+    "id": 417,
+    "english": "graduate",
+    "uzbek": "tugatmoq",
+    "example": "This school graduates 2,000 students each year."
+  },
+  {
+    "id": 418,
+    "english": "granddaughter",
+    "uzbek": "qiz nabira",
+    "example": "My granddaughter just turned five years old yesterday."
+  },
+  {
+    "id": 419,
+    "english": "grandson",
+    "uzbek": "o‘g‘il nabira",
+    "example": "My grandson loves playing soccer in the park every weekend."
+  },
+  {
+    "id": 420,
+    "english": "granny",
+    "uzbek": "buvi",
+    "example": "My granny taught me how to bake bread when I was young."
+  },
+  {
+    "id": 421,
+    "english": "grateful",
+    "uzbek": "minnatdor",
+    "example": "The grateful warmth of the fire."
+  },
+  {
+    "id": 422,
+    "english": "greatly",
+    "uzbek": "juda katta darajada",
+    "example": "He improved greatly."
+  },
+  {
+    "id": 423,
+    "english": "green",
+    "uzbek": "chaman",
+    "example": "The artist mixed blue and yellow to create a bright green for the painting."
+  },
+  {
+    "id": 424,
+    "english": "guard",
+    "uzbek": "ehtiyotkorlik",
+    "example": "The security guard stood by the entrance all night long."
+  },
+  {
+    "id": 425,
+    "english": "guidebook",
+    "uzbek": "yo‘l ko‘rsatkich kitob",
+    "example": "I bought a guidebook to help me learn basic photography techniques quickly."
+  },
+  {
+    "id": 426,
+    "english": "gun",
+    "uzbek": "qurol",
+    "example": "He pulled out a gun and fired at the target downrange."
+  },
+  {
+    "id": 427,
+    "english": "ham",
+    "uzbek": "cho‘chqa go‘shti",
+    "example": "I made a delicious ham sandwich with mustard and swiss cheese for lunch."
+  },
+  {
+    "id": 428,
+    "english": "handle",
+    "uzbek": "eshik dastagi",
+    "example": "He grabbed the hammer by the handle."
+  },
+  {
+    "id": 429,
+    "english": "happily",
+    "uzbek": "xursand bo‘lib",
+    "example": "Happily he was not injured."
+  },
+  {
+    "id": 430,
+    "english": "happiness",
+    "uzbek": "baxt",
+    "example": "True happiness comes from living a meaningful life with people you love."
+  },
+  {
+    "id": 431,
+    "english": "hardly",
+    "uzbek": "zo‘rg‘a",
+    "example": "He hardly ever goes fishing."
+  },
+  {
+    "id": 432,
+    "english": "harmful",
+    "uzbek": "zararli",
+    "example": "Too much sun is harmful to the skin."
+  },
+  {
+    "id": 433,
+    "english": "harmony",
+    "uzbek": "hamjihatlik",
+    "example": "The neighbours lived in harmony for many years."
+  },
+  {
+    "id": 434,
+    "english": "harvest",
+    "uzbek": "hosil",
+    "example": "The farmer was pleased with this year's harvest of corn and soybeans."
+  },
+  {
+    "id": 435,
+    "english": "hate",
+    "uzbek": "nafratlanmoq",
+    "example": "I hate Mexican food."
+  },
+  {
+    "id": 436,
+    "english": "heat",
+    "uzbek": "qizish",
+    "example": "The heat from the sun transfers energy to Earth and warms our planet."
+  },
+  {
+    "id": 437,
+    "english": "heavily",
+    "uzbek": "kuchli ravishda",
+    "example": "He relied heavily on others' data."
+  },
+  {
+    "id": 438,
+    "english": "help",
+    "uzbek": "yordam",
+    "example": "Thank you for your help today."
+  },
+  {
+    "id": 439,
+    "english": "helpful",
+    "uzbek": "yordamchi",
+    "example": "My coworker gave me some helpful tips for fixing the printer quickly."
+  },
+  {
+    "id": 440,
+    "english": "hero",
+    "uzbek": "qahramon",
+    "example": "RAF pilots were the heroes of the Battle of Britain."
+  },
+  {
+    "id": 441,
+    "english": "highway",
+    "uzbek": "katta yo‘l",
+    "example": "We took the highway to get to the city faster than usual."
+  },
+  {
+    "id": 442,
+    "english": "hike",
+    "uzbek": "piyoda sayr",
+    "example": "She enjoys a hike in her spare time."
+  },
+  {
+    "id": 443,
+    "english": "hit",
+    "uzbek": "urmoq",
+    "example": "The car hit a tree."
+  },
+  {
+    "id": 444,
+    "english": "hockey",
+    "uzbek": "xokkey",
+    "example": "She played field hockey in high school and loved using the curved stick."
+  },
+  {
+    "id": 445,
+    "english": "hold",
+    "uzbek": "tutmoq",
+    "example": "Hold this bowl for a moment, please."
+  },
+  {
+    "id": 446,
+    "english": "honey",
+    "uzbek": "asal",
+    "example": "I spread honey on my toast every morning for breakfast."
+  },
+  {
+    "id": 447,
+    "english": "horror",
+    "uzbek": "qo‘rqinch",
+    "example": "She felt a wave of horror wash over her as the car skidded toward the cliff."
+  },
+  {
+    "id": 448,
+    "english": "host",
+    "uzbek": "uy egasi",
+    "example": "Our host greeted us warmly at the door with drinks and appetizers."
+  },
+  {
+    "id": 449,
+    "english": "however",
+    "uzbek": "biroq",
+    "example": "Although I'm a little afraid, however I'd like to try it."
+  },
+  {
+    "id": 450,
+    "english": "hug",
+    "uzbek": "quchoqlamoq",
+    "example": "Hug me, please."
+  },
+  {
+    "id": 451,
+    "english": "human",
+    "uzbek": "insoniy",
+    "example": "The experiment was conducted on 6 monkeys and 2 human subjects."
+  },
+  {
+    "id": 452,
+    "english": "hunter",
+    "uzbek": "ovchi",
+    "example": "The experienced hunter tracked the deer through the forest for hours."
+  },
+  {
+    "id": 453,
+    "english": "ill",
+    "uzbek": "kasal",
+    "example": "Ill from the monotony of his suffering."
+  },
+  {
+    "id": 454,
+    "english": "illegal",
+    "uzbek": "noqonuniy",
+    "example": "An illegal chess move."
+  },
+  {
+    "id": 455,
+    "english": "image",
+    "uzbek": "xayol",
+    "example": "Her imagination forced images upon her too awful to contemplate."
+  },
+  {
+    "id": 456,
+    "english": "imagination",
+    "uzbek": "xayol qilish",
+    "example": "Popular imagination created a world of demons."
+  },
+  {
+    "id": 457,
+    "english": "impact",
+    "uzbek": "to‘qnashuv",
+    "example": "The impact of the car crash shattered the windshield into pieces."
+  },
+  {
+    "id": 458,
+    "english": "impatient",
+    "uzbek": "sabrsiz",
+    "example": "Impatient with the slower students."
+  },
+  {
+    "id": 459,
+    "english": "importance",
+    "uzbek": "ahamiyatlilik",
+    "example": "The importance of a well-balanced diet."
+  },
+  {
+    "id": 460,
+    "english": "importantly",
+    "uzbek": "muhim jihatdan",
+    "example": "More importantly, Weber held that the manifold meaning attached to the event by the social scientist could alter his definition of the concrete event itself."
+  },
+  {
+    "id": 461,
+    "english": "impossible",
+    "uzbek": "mumkin bo‘lmagan",
+    "example": "It seems impossible that she would leave her job without another one lined up."
+  },
+  {
+    "id": 462,
+    "english": "impress",
+    "uzbek": "tasavvur uyg‘otmoq",
+    "example": "This child impressed me as unusually mature."
+  },
+  {
+    "id": 463,
+    "english": "in",
+    "uzbek": "ichiga",
+    "example": "Come in."
+  },
+  {
+    "id": 464,
+    "english": "inch",
+    "uzbek": "dyuym",
+    "example": "The board is exactly twelve inches long, so it fits perfectly in the frame."
+  },
+  {
+    "id": 465,
+    "english": "include",
+    "uzbek": "ega bo‘lmoq",
+    "example": "The list includes the names of many famous writers."
+  },
+  {
+    "id": 466,
+    "english": "increase",
+    "uzbek": "oshmoq",
+    "example": "Prices may increase again next month."
+  },
+  {
+    "id": 467,
+    "english": "indeed",
+    "uzbek": "haqiqatan",
+    "example": "They said the car would break down and indeed it did."
+  },
+  {
+    "id": 468,
+    "english": "independence",
+    "uzbek": "mustaqillik",
+    "example": "After college, she finally gained the independence to make her own life decisions."
+  },
+  {
+    "id": 469,
+    "english": "indicate",
+    "uzbek": "ko‘rsatmoq",
+    "example": "These symptoms indicate a serious illness."
+  },
+  {
+    "id": 470,
+    "english": "indoor",
+    "uzbek": "uyda",
+    "example": "Indoor activities for a rainy day."
+  },
+  {
+    "id": 471,
+    "english": "influence",
+    "uzbek": "ta’sir qilmoq",
+    "example": "Used her parents' influence to get the job."
+  },
+  {
+    "id": 472,
+    "english": "inner",
+    "uzbek": "ichki",
+    "example": "Beethoven's manuscript looks like a bloody record of a tremendous inner battle."
+  },
+  {
+    "id": 473,
+    "english": "insect",
+    "uzbek": "hasharot",
+    "example": "A tiny insect landed on my arm during the picnic yesterday."
+  },
+  {
+    "id": 474,
+    "english": "inside",
+    "uzbek": "ichida",
+    "example": "In winter we play inside."
+  },
+  {
+    "id": 475,
+    "english": "inspiration",
+    "uzbek": "ilhom",
+    "example": "The artist found inspiration watching the sunset over the mountains."
+  },
+  {
+    "id": 476,
+    "english": "instead",
+    "uzbek": "o‘rniga",
+    "example": "Felix became a herpetologist instead."
+  },
+  {
+    "id": 477,
+    "english": "instrument",
+    "uzbek": "asbob-uskuna",
+    "example": "Learning to play the violin is a challenging instrument that requires years of practice."
+  },
+  {
+    "id": 478,
+    "english": "intelligence",
+    "uzbek": "aql",
+    "example": "Her intelligence allowed her to learn from mistakes and adapt quickly."
+  },
+  {
+    "id": 479,
+    "english": "intelligent",
+    "uzbek": "zehni o‘tkir",
+    "example": "Is there intelligent life in the universe?"
+  },
+  {
+    "id": 480,
+    "english": "interest",
+    "uzbek": "qiziqish",
+    "example": "An interest in music."
+  },
+  {
+    "id": 481,
+    "english": "international",
+    "uzbek": "xalqaro",
+    "example": "International affairs."
+  },
+  {
+    "id": 482,
+    "english": "invade",
+    "uzbek": "bosib olmoq  egallab olmoq",
+    "example": "This new colleague invades my territory."
+  },
+  {
+    "id": 483,
+    "english": "invent",
+    "uzbek": "kashf etmoq",
+    "example": "She decided to invent an excuse rather than admit she forgot the meeting."
+  },
+  {
+    "id": 484,
+    "english": "invention",
+    "uzbek": "kashf qilish",
+    "example": "The invention of a magical kingdom existed only in the child's imagination."
+  },
+  {
+    "id": 485,
+    "english": "invite",
+    "uzbek": "taklif qilmoq",
+    "example": "Can I invite you for dinner on Sunday night?"
+  },
+  {
+    "id": 486,
+    "english": "issue",
+    "uzbek": "bahsli masala",
+    "example": "The issue could be settled by requiring public education for everyone."
+  },
+  {
+    "id": 487,
+    "english": "it",
+    "uzbek": "axborot texnologiyalari",
+    "example": "She works in IT and maintains the school computers."
+  },
+  {
+    "id": 488,
+    "english": "jam",
+    "uzbek": "tiqilib qolmoq",
+    "example": "I spread homemade strawberry jam on my toast this morning."
+  },
+  {
+    "id": 489,
+    "english": "jelly",
+    "uzbek": "jele",
+    "example": "The kids loved the strawberry jelly wobbling on their dessert plates."
+  },
+  {
+    "id": 490,
+    "english": "joke",
+    "uzbek": "hazil",
+    "example": "He told a very funny joke."
+  },
+  {
+    "id": 491,
+    "english": "journey",
+    "uzbek": "safar",
+    "example": "We started our journey to the airport early to avoid traffic."
+  },
+  {
+    "id": 492,
+    "english": "joy",
+    "uzbek": "xursandlik",
+    "example": "When she saw her newborn baby, pure joy filled her heart completely."
+  },
+  {
+    "id": 493,
+    "english": "junior",
+    "uzbek": "quyi",
+    "example": "The junior staff members have less experience than the senior managers."
+  },
+  {
+    "id": 494,
+    "english": "junk",
+    "uzbek": "g‘o‘la",
+    "example": "We took the junk from the demolished building to the recycling center."
+  },
+  {
+    "id": 495,
+    "english": "killer",
+    "uzbek": ". qotil",
+    "example": "The serial killer was finally arrested after twenty years of evading police."
+  },
+  {
+    "id": 496,
+    "english": "kindly",
+    "uzbek": "mehribon",
+    "example": "A kindly neighbour helped us carry the bags."
+  },
+  {
+    "id": 497,
+    "english": "kingdom",
+    "uzbek": "qirollik",
+    "example": "The untroubled kingdom of reason."
+  },
+  {
+    "id": 498,
+    "english": "kit",
+    "uzbek": "kerakli buyumlar",
+    "example": "I packed my first aid kit in the car before our road trip."
+  },
+  {
+    "id": 499,
+    "english": "knock",
+    "uzbek": "zarba",
+    "example": "The main knock against that restaurant is its inconsistent food quality."
+  },
+  {
+    "id": 500,
+    "english": "knowledge",
+    "uzbek": "bilim",
+    "example": "After studying biology for years, her knowledge of cellular processes was truly impressive."
+  },
+  {
+    "id": 501,
+    "english": "lack",
+    "uzbek": "kamchilik",
+    "example": "There is a serious lack of insight into the problem."
+  },
+  {
+    "id": 502,
+    "english": "lake",
+    "uzbek": "ko‘l",
+    "example": "We rented a cabin by the lake for a relaxing summer vacation."
+  },
+  {
+    "id": 503,
+    "english": "lamp",
+    "uzbek": "lampa",
+    "example": "The lamp on the desk provides enough light for reading."
+  },
+  {
+    "id": 504,
+    "english": "landscape",
+    "uzbek": "manzara",
+    "example": "From the mountain top, we could see an endless landscape of forests and valleys."
+  },
+  {
+    "id": 505,
+    "english": "lane",
+    "uzbek": "so‘qmoq",
+    "example": "We took a shortcut down a narrow lane behind the old houses."
+  },
+  {
+    "id": 506,
+    "english": "latest",
+    "uzbek": "eng so‘nggi",
+    "example": "She always wears the latest fashion trends from designer brands."
+  },
+  {
+    "id": 507,
+    "english": "law",
+    "uzbek": "huquq",
+    "example": "Civilization presupposes respect for the law."
+  },
+  {
+    "id": 508,
+    "english": "lawyer",
+    "uzbek": "advokat",
+    "example": "My lawyer helped me review the contract before I signed it."
+  },
+  {
+    "id": 509,
+    "english": "lead",
+    "uzbek": "rahbarlik",
+    "example": "He took the lead at the last turn."
+  },
+  {
+    "id": 510,
+    "english": "leather",
+    "uzbek": "teri",
+    "example": "My new leather jacket feels incredibly soft and supple after years of wear."
+  },
+  {
+    "id": 511,
+    "english": "left",
+    "uzbek": "chap tomon",
+    "example": "She stood on the left."
+  },
+  {
+    "id": 512,
+    "english": "leisure",
+    "uzbek": "bo‘sh vaqt",
+    "example": "His job left him little leisure."
+  },
+  {
+    "id": 513,
+    "english": "lemon",
+    "uzbek": "limon",
+    "example": "I squeezed fresh lemon juice into my tea this morning."
+  },
+  {
+    "id": 514,
+    "english": "lemonade",
+    "uzbek": "limonad ichimligi",
+    "example": "On hot summer days, I always drink cold lemonade with ice cubes."
+  },
+  {
+    "id": 515,
+    "english": "lend",
+    "uzbek": "qarz bermoq",
+    "example": "Her presence lends a certain cachet to the company."
+  },
+  {
+    "id": 516,
+    "english": "less",
+    "uzbek": "kamroq",
+    "example": "She walks less than she should."
+  },
+  {
+    "id": 517,
+    "english": "level",
+    "uzbek": "daraja",
+    "example": "This course is suitable for your level."
+  },
+  {
+    "id": 518,
+    "english": "liberty",
+    "uzbek": "ozodlik",
+    "example": "The citizens fought hard to protect their liberty from government overreach."
+  },
+  {
+    "id": 519,
+    "english": "lie",
+    "uzbek": "yolg‘on gapirmoq",
+    "example": "The keys lie on the kitchen counter next to the mail."
+  },
+  {
+    "id": 520,
+    "english": "lifestyle",
+    "uzbek": "turmush tarzi",
+    "example": "Her sustainable lifestyle reflects her deep commitment to environmental conservation."
+  },
+  {
+    "id": 521,
+    "english": "likely",
+    "uzbek": "ehtimol",
+    "example": "These services are likely to be available to us all before long."
+  },
+  {
+    "id": 522,
+    "english": "lip",
+    "uzbek": "lab",
+    "example": "She bit her lip nervously while waiting for the test results."
+  },
+  {
+    "id": 523,
+    "english": "lively",
+    "uzbek": "jonli",
+    "example": "A lively discussion."
+  },
+  {
+    "id": 524,
+    "english": "load",
+    "uzbek": "yuk",
+    "example": "The truck's heavy load of gravel made it drive slowly up the hill."
+  },
+  {
+    "id": 525,
+    "english": "local",
+    "uzbek": "mahalliy",
+    "example": "Local taxes."
+  },
+  {
+    "id": 526,
+    "english": "lock",
+    "uzbek": "qulf",
+    "example": "I lost the key to the front door lock yesterday morning."
+  },
+  {
+    "id": 527,
+    "english": "logical",
+    "uzbek": "mantiqiy",
+    "example": "Rain was a logical expectation, given the time of year."
+  },
+  {
+    "id": 528,
+    "english": "long",
+    "uzbek": "anchadan beri mavjud bo‘lgan",
+    "example": "The hiking trail stretched long across the mountain valley."
+  },
+  {
+    "id": 529,
+    "english": "loose",
+    "uzbek": "erkin",
+    "example": "Loose gravel."
+  },
+  {
+    "id": 530,
+    "english": "lose",
+    "uzbek": "yo‘qotmoq",
+    "example": "Do not lose your train ticket."
+  },
+  {
+    "id": 531,
+    "english": "lost",
+    "uzbek": "lose ga qarang",
+    "example": "A lost child."
+  },
+  {
+    "id": 532,
+    "english": "lot",
+    "uzbek": "yig‘in",
+    "example": "He bought a lot on the lake."
+  },
+  {
+    "id": 533,
+    "english": "loudly",
+    "uzbek": "baland ovozda",
+    "example": "The band played loudly."
+  },
+  {
+    "id": 534,
+    "english": "lover",
+    "uzbek": "oshiq",
+    "example": "She introduced her new lover to her parents last weekend."
+  },
+  {
+    "id": 535,
+    "english": "low",
+    "uzbek": "past",
+    "example": "The shop keeps its prices low."
+  },
+  {
+    "id": 536,
+    "english": "lunchtime",
+    "uzbek": "tushlik vaqti",
+    "example": "He observed a regular lunchtime."
+  },
+  {
+    "id": 537,
+    "english": "lyric",
+    "uzbek": "lirik",
+    "example": "A lyric soprano."
+  },
+  {
+    "id": 538,
+    "english": "mad",
+    "uzbek": "jinni",
+    "example": "A man who had gone mad."
+  },
+  {
+    "id": 539,
+    "english": "magic",
+    "uzbek": "sehrgarlik",
+    "example": "The witch used magic to cast a spell on the village."
+  },
+  {
+    "id": 540,
+    "english": "mainly",
+    "uzbek": "asosan",
+    "example": "He is mainly interested in butterflies."
+  },
+  {
+    "id": 541,
+    "english": "major",
+    "uzbek": "asosiy",
+    "example": "A major artist."
+  },
+  {
+    "id": 542,
+    "english": "maker",
+    "uzbek": "biror narsani qiluvchi",
+    "example": "The furniture maker crafted beautiful wooden tables by hand."
+  },
+  {
+    "id": 543,
+    "english": "male",
+    "uzbek": "erkak kishi yoki hayvon",
+    "example": "The male seahorse carries the eggs until they're ready to be born."
+  },
+  {
+    "id": 544,
+    "english": "mall",
+    "uzbek": "sayr uchun joy",
+    "example": "We took a relaxing walk through the downtown mall on Saturday afternoon."
+  },
+  {
+    "id": 545,
+    "english": "manager",
+    "uzbek": "boshqaruvchi",
+    "example": "The project manager approved the budget and allocated funds across all departments."
+  },
+  {
+    "id": 546,
+    "english": "manner",
+    "uzbek": "tarz",
+    "example": "She has a very friendly manner that puts everyone at ease immediately."
+  },
+  {
+    "id": 547,
+    "english": "mark",
+    "uzbek": "dog‘",
+    "example": "She made good marks in algebra."
+  },
+  {
+    "id": 548,
+    "english": "market",
+    "uzbek": "bozor",
+    "example": "Without competition there would be no market."
+  },
+  {
+    "id": 549,
+    "english": "married",
+    "uzbek": "turmush qurgan",
+    "example": "A married man."
+  },
+  {
+    "id": 550,
+    "english": "marry",
+    "uzbek": "uylanmoq yoki erga tegmoq",
+    "example": "She decided to marry her longtime boyfriend last spring."
+  },
+  {
+    "id": 551,
+    "english": "material",
+    "uzbek": "material",
+    "example": "Wood is a useful building material."
+  },
+  {
+    "id": 552,
+    "english": "max",
+    "uzbek": "eng ko‘p miqdor",
+    "example": "Turn the volume down from the max."
+  },
+  {
+    "id": 553,
+    "english": "mean",
+    "uzbek": "baxil",
+    "example": "It was mean of him to refuse to share."
+  },
+  {
+    "id": 554,
+    "english": "meaning",
+    "uzbek": "ma'nosi",
+    "example": "What is the meaning of this sentence."
+  },
+  {
+    "id": 555,
+    "english": "medal",
+    "uzbek": "medal",
+    "example": "She won a gold medal at the Olympic swimming competition last summer."
+  },
+  {
+    "id": 556,
+    "english": "medical",
+    "uzbek": "tibbiy",
+    "example": "The medical profession."
+  },
+  {
+    "id": 557,
+    "english": "melon",
+    "uzbek": "qovun",
+    "example": "We bought a sweet melon at the farmer's market yesterday afternoon."
+  },
+  {
+    "id": 558,
+    "english": "member",
+    "uzbek": "a'zo",
+    "example": "Only members will be admitted."
+  },
+  {
+    "id": 559,
+    "english": "mention",
+    "uzbek": "eslatish",
+    "example": "She made frequent mention of her promotion."
+  },
+  {
+    "id": 560,
+    "english": "menu",
+    "uzbek": "menyu",
+    "example": "The menu was in French."
+  },
+  {
+    "id": 561,
+    "english": "metal",
+    "uzbek": "metal",
+    "example": "Aluminum is a lightweight metal that conducts electricity very well."
+  },
+  {
+    "id": 562,
+    "english": "method",
+    "uzbek": "metod",
+    "example": "The scientific method involves forming a hypothesis and then testing it carefully."
+  },
+  {
+    "id": 563,
+    "english": "midday",
+    "uzbek": "kun o‘rtasi",
+    "example": "We stopped for lunch at midday when the sun was highest in the sky."
+  },
+  {
+    "id": 564,
+    "english": "middle",
+    "uzbek": "o‘rta nuqta",
+    "example": "A whole is that which has beginning, middle, and end."
+  },
+  {
+    "id": 565,
+    "english": "midnight",
+    "uzbek": "yarim tun",
+    "example": "Young children should not be allowed to stay up until midnight."
+  },
+  {
+    "id": 566,
+    "english": "military",
+    "uzbek": "harbiy",
+    "example": "Military law."
+  },
+  {
+    "id": 567,
+    "english": "mind",
+    "uzbek": "aqil",
+    "example": "I don't mind your behavior."
+  },
+  {
+    "id": 568,
+    "english": "mirror",
+    "uzbek": "oyna",
+    "example": "She checked her reflection in the bathroom mirror before leaving for work."
+  },
+  {
+    "id": 569,
+    "english": "mistake",
+    "uzbek": "xato",
+    "example": "He made a bad mistake."
+  },
+  {
+    "id": 570,
+    "english": "mobile",
+    "uzbek": "harakatlanadigan",
+    "example": "A restless mobile society."
+  },
+  {
+    "id": 571,
+    "english": "model",
+    "uzbek": "maket",
+    "example": "The computer program was based on a model of the circulatory and respiratory systems."
+  },
+  {
+    "id": 572,
+    "english": "modern",
+    "uzbek": "shu kungi",
+    "example": "Their offices are in a modern skyscraper."
+  },
+  {
+    "id": 573,
+    "english": "mosque",
+    "uzbek": "masjid",
+    "example": "The blue mosque in Istanbul is famous for its stunning architecture and tall minarets."
+  },
+  {
+    "id": 574,
+    "english": "most",
+    "uzbek": "eng ko‘p",
+    "example": "The king cobra is the most dangerous snake."
+  },
+  {
+    "id": 575,
+    "english": "move",
+    "uzbek": "harakatlanmoq",
+    "example": "Move those boxes into the corner, please."
+  },
+  {
+    "id": 576,
+    "english": "mug",
+    "uzbek": "krujka",
+    "example": "I drank a mug of coffee before heading to work this morning."
+  },
+  {
+    "id": 577,
+    "english": "murder",
+    "uzbek": "qotillik",
+    "example": "The detective investigated the murder that occurred downtown last night."
+  },
+  {
+    "id": 578,
+    "english": "museum",
+    "uzbek": "muzey",
+    "example": "The museum's new exhibit showcases ancient Egyptian artifacts and priceless paintings."
+  },
+  {
+    "id": 579,
+    "english": "mushroom",
+    "uzbek": "qo‘ziqorin",
+    "example": "I sautéed the mushroom with garlic and butter for dinner."
+  },
+  {
+    "id": 580,
+    "english": "musical",
+    "uzbek": "musiqiy",
+    "example": "Comes from a very musical family."
+  },
+  {
+    "id": 581,
+    "english": "mysterious",
+    "uzbek": "g‘aroyib",
+    "example": "The new insurance policy is written without cryptic or mysterious terms."
+  },
+  {
+    "id": 582,
+    "english": "mystery",
+    "uzbek": "sir",
+    "example": "How it got out is a mystery."
+  },
+  {
+    "id": 583,
+    "english": "napkin",
+    "uzbek": "salfetka",
+    "example": "I wiped the sauce off my chin with a paper napkin."
+  },
+  {
+    "id": 584,
+    "english": "nation",
+    "uzbek": "millat",
+    "example": "A statement that sums up the nation's mood."
+  },
+  {
+    "id": 585,
+    "english": "national",
+    "uzbek": "milliy",
+    "example": "National hero."
+  },
+  {
+    "id": 586,
+    "english": "native",
+    "uzbek": "shu yerli",
+    "example": "The native North American sugar maple."
+  },
+  {
+    "id": 587,
+    "english": "natural",
+    "uzbek": "tabiiy",
+    "example": "A very natural development."
+  },
+  {
+    "id": 588,
+    "english": "nature",
+    "uzbek": "tabiat",
+    "example": "It is the nature of fire to burn."
+  },
+  {
+    "id": 589,
+    "english": "necessary",
+    "uzbek": "kerakli",
+    "example": "Water is necessary for human survival."
+  },
+  {
+    "id": 590,
+    "english": "need",
+    "uzbek": "kerak bo‘lmoq",
+    "example": "We need more time to finish this work."
+  },
+  {
+    "id": 591,
+    "english": "negative",
+    "uzbek": "inkor qiladigan",
+    "example": "A negative outlook on life."
+  },
+  {
+    "id": 592,
+    "english": "nervous",
+    "uzbek": "asabiylashgan",
+    "example": "A nervous addict."
+  },
+  {
+    "id": 593,
+    "english": "net",
+    "uzbek": "sof og‘irlik",
+    "example": "Net profit."
+  },
+  {
+    "id": 594,
+    "english": "next",
+    "uzbek": "keyin",
+    "example": "Next the doctor examined his back."
+  },
+  {
+    "id": 595,
+    "english": "noisy",
+    "uzbek": "shovillaydigan",
+    "example": "A noisy cafeteria."
+  },
+  {
+    "id": 596,
+    "english": "noon",
+    "uzbek": "tush",
+    "example": "We usually eat lunch around noon when the sun is highest."
+  },
+  {
+    "id": 597,
+    "english": "normal",
+    "uzbek": "normal",
+    "example": "Serve wine at normal room temperature."
+  },
+  {
+    "id": 598,
+    "english": "north",
+    "uzbek": "shimol",
+    "example": "During the Civil War, the north fought to preserve the Union against the Confederacy."
+  },
+  {
+    "id": 599,
+    "english": "notice",
+    "uzbek": "e'lon",
+    "example": "You didn't give me enough notice."
+  },
+  {
+    "id": 600,
+    "english": "noun",
+    "uzbek": "ot",
+    "example": "The noun 'happiness' describes a quality that everyone wants to experience."
+  },
+  {
+    "id": 601,
+    "english": "novel",
+    "uzbek": "roman",
+    "example": "I just finished reading an amazing mystery novel last night."
+  },
+  {
+    "id": 602,
+    "english": "nowadays",
+    "uzbek": "shu kunlarda",
+    "example": "It is solely by their language that the upper classes nowadays are distinguished."
+  },
+  {
+    "id": 603,
+    "english": "oak",
+    "uzbek": "eman daraxti",
+    "example": "The antique desk was crafted from solid oak and has lasted for generations."
+  },
+  {
+    "id": 604,
+    "english": "occupation",
+    "uzbek": "kasb",
+    "example": "The military occupation of the territory lasted for several years after the invasion."
+  },
+  {
+    "id": 605,
+    "english": "off",
+    "uzbek": "uzoqda",
+    "example": "The village is still a few kilometres off."
+  },
+  {
+    "id": 606,
+    "english": "offer",
+    "uzbek": "taklif",
+    "example": "A generous offer of assistance."
+  },
+  {
+    "id": 607,
+    "english": "official",
+    "uzbek": "rasmiy",
+    "example": "Official permission."
+  },
+  {
+    "id": 608,
+    "english": "oil",
+    "uzbek": "o‘simlik yog‘i",
+    "example": "The mechanic checked the engine oil level before starting the car."
+  },
+  {
+    "id": 609,
+    "english": "olympic",
+    "uzbek": "Olimpiya o‘yinlariga oid",
+    "example": "Olympic winners."
+  },
+  {
+    "id": 610,
+    "english": "on",
+    "uzbek": "egnida",
+    "example": "His spirit lives on."
+  },
+  {
+    "id": 611,
+    "english": "onion",
+    "uzbek": "piyoz",
+    "example": "I diced the onion into small pieces for the soup."
+  },
+  {
+    "id": 612,
+    "english": "opinion",
+    "uzbek": "fikr",
+    "example": "My opinion differs from yours."
+  },
+  {
+    "id": 613,
+    "english": "opportunity",
+    "uzbek": "imkoniyat",
+    "example": "The holiday gave us the opportunity to visit Washington."
+  },
+  {
+    "id": 614,
+    "english": "oppose",
+    "uzbek": "qarshi chiqmoq",
+    "example": "We oppose the ban on abortion."
+  },
+  {
+    "id": 615,
+    "english": "opposite",
+    "uzbek": "zid",
+    "example": "And I on the opposite shore will be, ready to ride and spread the alarm."
+  },
+  {
+    "id": 616,
+    "english": "original",
+    "uzbek": "asl",
+    "example": "The original inhabitants of the Americas."
+  },
+  {
+    "id": 617,
+    "english": "orphan",
+    "uzbek": "yetim",
+    "example": "The orphan was raised by her grandmother after her parents died."
+  },
+  {
+    "id": 618,
+    "english": "oven",
+    "uzbek": "duxovka",
+    "example": "I preheated the oven to 350 degrees before baking the chocolate chip cookies."
+  },
+  {
+    "id": 619,
+    "english": "over",
+    "uzbek": "ustida",
+    "example": "Come over and see us some time."
+  },
+  {
+    "id": 620,
+    "english": "overseas",
+    "uzbek": "dengiz orti",
+    "example": "He lived overseas for many years."
+  },
+  {
+    "id": 621,
+    "english": "overweight",
+    "uzbek": "ortiqcha yuk",
+    "example": "He's a big overweight guy, but he carries it well on his frame."
+  },
+  {
+    "id": 622,
+    "english": "pacific",
+    "uzbek": "tinchliksevar",
+    "example": "The two nations agreed to pursue a pacific solution."
+  },
+  {
+    "id": 623,
+    "english": "pack",
+    "uzbek": "joylashmoq",
+    "example": "Pack the books into the boxes."
+  },
+  {
+    "id": 624,
+    "english": "painter",
+    "uzbek": "bo‘yoqchi",
+    "example": "The painter exhibited her abstract oil paintings at the gallery last month."
+  },
+  {
+    "id": 625,
+    "english": "pal",
+    "uzbek": "do‘st",
+    "example": "My pal Jake always joins us when we go hiking on weekends."
+  },
+  {
+    "id": 626,
+    "english": "pan",
+    "uzbek": "tova",
+    "example": "I heated oil in the pan before adding the chopped onions."
+  },
+  {
+    "id": 627,
+    "english": "panic",
+    "uzbek": "vahima",
+    "example": "When the fire alarm went off, panic swept through the crowded office building."
+  },
+  {
+    "id": 628,
+    "english": "part",
+    "uzbek": "qism",
+    "example": "He wanted to feel a part of something bigger than himself."
+  },
+  {
+    "id": 629,
+    "english": "partly",
+    "uzbek": "qisman",
+    "example": "I felt partly to blame."
+  },
+  {
+    "id": 630,
+    "english": "pass",
+    "uzbek": "o‘tmoq",
+    "example": "We passed the point where the police car had parked."
+  },
+  {
+    "id": 631,
+    "english": "passage",
+    "uzbek": "o‘tish",
+    "example": "The passage from childhood to adulthood happens gradually for most people."
+  },
+  {
+    "id": 632,
+    "english": "passenger",
+    "uzbek": "yo‘lovchi",
+    "example": "The passenger sitting next to me fell asleep during the flight."
+  },
+  {
+    "id": 633,
+    "english": "path",
+    "uzbek": "so‘qmoq yo‘l",
+    "example": "The hiking path winds through the forest behind our neighborhood."
+  },
+  {
+    "id": 634,
+    "english": "patient",
+    "uzbek": "vrachning ixtiyoridagi bemor",
+    "example": "The number of emergency patients has grown rapidly."
+  },
+  {
+    "id": 635,
+    "english": "peaceful",
+    "uzbek": "sokin",
+    "example": "A peaceful nation."
+  },
+  {
+    "id": 636,
+    "english": "pear",
+    "uzbek": "nok",
+    "example": "I bit into the juicy pear and loved its sweet, grainy texture."
+  },
+  {
+    "id": 637,
+    "english": "pepper",
+    "uzbek": "qalampir",
+    "example": "Black pepper grows as a climbing vine native to southern India and Sri Lanka."
+  },
+  {
+    "id": 638,
+    "english": "perfect",
+    "uzbek": "mukammal",
+    "example": "A perfect circle."
+  },
+  {
+    "id": 639,
+    "english": "perfectly",
+    "uzbek": "mukammal tarzda",
+    "example": "She performed perfectly on the balance beam."
+  },
+  {
+    "id": 640,
+    "english": "perform",
+    "uzbek": "bajarmoq",
+    "example": "Who will perform the wedding?"
+  },
+  {
+    "id": 641,
+    "english": "performance",
+    "uzbek": "ijro",
+    "example": "They listened to ten different performances."
+  },
+  {
+    "id": 642,
+    "english": "perfume",
+    "uzbek": "shirin hid",
+    "example": "The perfume of fresh roses filled the entire garden on that spring morning."
+  },
+  {
+    "id": 643,
+    "english": "perhaps",
+    "uzbek": "balki",
+    "example": "Perhaps she will call tomorrow."
+  },
+  {
+    "id": 644,
+    "english": "permission",
+    "uzbek": "izn",
+    "example": "He asked permission to leave."
+  },
+  {
+    "id": 645,
+    "english": "personality",
+    "uzbek": "shaxs xarakteri",
+    "example": "She is a Hollywood personality."
+  },
+  {
+    "id": 646,
+    "english": "photograph",
+    "uzbek": "fotosurat",
+    "example": "I found an old photograph of my grandparents in the attic yesterday."
+  },
+  {
+    "id": 647,
+    "english": "photographer",
+    "uzbek": "suratchi",
+    "example": "The photographer charged five hundred dollars for the wedding photos."
+  },
+  {
+    "id": 648,
+    "english": "photography",
+    "uzbek": "fotografiya",
+    "example": "She's been studying photography for three years and now sells her prints online."
+  },
+  {
+    "id": 649,
+    "english": "physical",
+    "uzbek": "moddiy",
+    "example": "Physical exercise."
+  },
+  {
+    "id": 650,
+    "english": "physically",
+    "uzbek": "jismonan",
+    "example": "It is physically impossible."
+  },
+  {
+    "id": 651,
+    "english": "pile",
+    "uzbek": "uyum",
+    "example": "I found a pile of old magazines in the basement yesterday."
+  },
+  {
+    "id": 652,
+    "english": "pilgrim",
+    "uzbek": "ziyoratchi",
+    "example": "The pilgrim traveled through Southeast Asia for nearly a year."
+  },
+  {
+    "id": 653,
+    "english": "pill",
+    "uzbek": "hapdori",
+    "example": "The button on her coat was round and small like a tiny pill."
+  },
+  {
+    "id": 654,
+    "english": "pilot",
+    "uzbek": "uchuvchi",
+    "example": "The pilot announced we'd be landing in Denver in about twenty minutes."
+  },
+  {
+    "id": 655,
+    "english": "pity",
+    "uzbek": "achinish",
+    "example": "I felt pity for the hungry animal."
+  },
+  {
+    "id": 656,
+    "english": "planet",
+    "uzbek": "sayyora",
+    "example": "Jupiter is the largest planet in our solar system and orbits the sun."
+  },
+  {
+    "id": 657,
+    "english": "plant",
+    "uzbek": "o‘simlik",
+    "example": "They built a large plant to manufacture automobiles."
+  },
+  {
+    "id": 658,
+    "english": "plastic",
+    "uzbek": "plastmassa",
+    "example": "Plastic substances such as wax or clay."
+  },
+  {
+    "id": 659,
+    "english": "plate",
+    "uzbek": "tarelka",
+    "example": "The metal plate on the door was dented from the impact."
+  },
+  {
+    "id": 660,
+    "english": "playful",
+    "uzbek": "qiziqarli",
+    "example": "Playful children just let loose from school."
+  },
+  {
+    "id": 661,
+    "english": "playground",
+    "uzbek": "o‘yin maydonchasi",
+    "example": "The beach became a playground for tourists and locals seeking summer fun."
+  },
+  {
+    "id": 662,
+    "english": "pleasant",
+    "uzbek": "yoqimli",
+    "example": "We had a pleasant evening together."
+  },
+  {
+    "id": 663,
+    "english": "pleasing",
+    "uzbek": "yoqimli",
+    "example": "A pleasing piece of news."
+  },
+  {
+    "id": 664,
+    "english": "plenty",
+    "uzbek": "ko‘p",
+    "example": "There was plenty of food for everyone."
+  },
+  {
+    "id": 665,
+    "english": "police",
+    "uzbek": "politsiya",
+    "example": "The police arrived a few minutes later."
+  },
+  {
+    "id": 666,
+    "english": "polite",
+    "uzbek": "nozik",
+    "example": "She gave a polite smile even though she disagreed with his opinion."
+  },
+  {
+    "id": 667,
+    "english": "political",
+    "uzbek": "hukumatga oid",
+    "example": "Calling a meeting is a political act in itself."
+  },
+  {
+    "id": 668,
+    "english": "popular",
+    "uzbek": "ommabop",
+    "example": "A popular tourist attraction."
+  },
+  {
+    "id": 669,
+    "english": "population",
+    "uzbek": "aholi",
+    "example": "The population seemed to be well fed and clothed."
+  },
+  {
+    "id": 670,
+    "english": "portrait",
+    "uzbek": "portret",
+    "example": "The author's portrait of the detective revealed both his brilliance and his deep insecurity."
+  },
+  {
+    "id": 671,
+    "english": "position",
+    "uzbek": "joy",
+    "example": "The soldiers held their defensive position on the hilltop against enemy attacks."
+  },
+  {
+    "id": 672,
+    "english": "possible",
+    "uzbek": "bo‘lishi mumkin bo‘lgan",
+    "example": "A breakthrough may be possible next year."
+  },
+  {
+    "id": 673,
+    "english": "possibly",
+    "uzbek": "balki",
+    "example": "They can't possibly get here in time for the funeral?"
+  },
+  {
+    "id": 674,
+    "english": "pour",
+    "uzbek": "to‘kmoq",
+    "example": "Pour water over the floor."
+  },
+  {
+    "id": 675,
+    "english": "power",
+    "uzbek": "kuch",
+    "example": "The deterrent power of nuclear weapons."
+  },
+  {
+    "id": 676,
+    "english": "powerful",
+    "uzbek": "kuchli",
+    "example": "The most powerful government in western Europe."
+  },
+  {
+    "id": 677,
+    "english": "precise",
+    "uzbek": "aniq",
+    "example": "A precise mind."
+  },
+  {
+    "id": 678,
+    "english": "prediction",
+    "uzbek": "bashorat qilish",
+    "example": "The prediction of next month's weather requires analyzing current atmospheric patterns."
+  },
+  {
+    "id": 679,
+    "english": "prefer",
+    "uzbek": "afzal ko‘rmoq",
+    "example": "Some people prefer camping to staying in hotels."
+  },
+  {
+    "id": 680,
+    "english": "pressure",
+    "uzbek": "bosim",
+    "example": "The compressed gas exerts an increased pressure."
+  },
+  {
+    "id": 681,
+    "english": "pretty",
+    "uzbek": "durustgina",
+    "example": "Pretty big."
+  },
+  {
+    "id": 682,
+    "english": "prevent",
+    "uzbek": "ogohlantirmoq",
+    "example": "We must prevent the cancer from spreading."
+  },
+  {
+    "id": 683,
+    "english": "pride",
+    "uzbek": "g‘urur",
+    "example": "She took great pride in completing her first marathon without stopping."
+  },
+  {
+    "id": 684,
+    "english": "print",
+    "uzbek": "nashr ettirmoq",
+    "example": "Please print your name clearly on the application form."
+  },
+  {
+    "id": 685,
+    "english": "printer",
+    "uzbek": "matbaachi",
+    "example": "The printer at the publishing company has worked there for thirty years."
+  },
+  {
+    "id": 686,
+    "english": "private",
+    "uzbek": "shaxsiy",
+    "example": "A private place."
+  },
+  {
+    "id": 687,
+    "english": "pro",
+    "uzbek": "professional",
+    "example": "She plays tennis like a pro."
+  },
+  {
+    "id": 688,
+    "english": "probably",
+    "uzbek": "ehtimol",
+    "example": "He is probably out of the country."
+  },
+  {
+    "id": 689,
+    "english": "produce",
+    "uzbek": "yaratmoq",
+    "example": "The tree would not produce fruit."
+  },
+  {
+    "id": 690,
+    "english": "product",
+    "uzbek": "mahsulot",
+    "example": "They improve their product every year."
+  },
+  {
+    "id": 691,
+    "english": "production",
+    "uzbek": "ishlab chiqarish",
+    "example": "Shakespeare's production of poetry was enormous."
+  },
+  {
+    "id": 692,
+    "english": "professional",
+    "uzbek": "kasbiy",
+    "example": "The professional man or woman possesses distinctive qualifications."
+  },
+  {
+    "id": 693,
+    "english": "progressive",
+    "uzbek": "ilg‘or",
+    "example": "The school uses progressive teaching methods."
+  },
+  {
+    "id": 694,
+    "english": "promise",
+    "uzbek": "va'da",
+    "example": "She broke her promise to call him every Sunday without fail."
+  },
+  {
+    "id": 695,
+    "english": "pronounce",
+    "uzbek": "o‘z fikrini bayon qilmoq",
+    "example": "She pronounces French words in a funny way."
+  },
+  {
+    "id": 696,
+    "english": "proper",
+    "uzbek": "to‘gri",
+    "example": "Wanted a proper dinner; not just a snack."
+  },
+  {
+    "id": 697,
+    "english": "provide",
+    "uzbek": "ta’minlamoq",
+    "example": "The school will provide all the books."
+  },
+  {
+    "id": 698,
+    "english": "psychologist",
+    "uzbek": "psixolog",
+    "example": "The psychologist conducted a study on how stress affects memory and learning."
+  },
+  {
+    "id": 699,
+    "english": "public",
+    "uzbek": "xalq",
+    "example": "He is a hero in the eyes of the public."
+  },
+  {
+    "id": 700,
+    "english": "publish",
+    "uzbek": "chop etmoq",
+    "example": "The newspaper published the news of the royal couple's divorce."
+  },
+  {
+    "id": 701,
+    "english": "punctuation",
+    "uzbek": "tinish belgilari",
+    "example": "Check the punctuation before you submit your essay."
+  },
+  {
+    "id": 702,
+    "english": "purple",
+    "uzbek": "siyoh rang",
+    "example": "She wore a purple dress to the wedding last Saturday."
+  },
+  {
+    "id": 703,
+    "english": "quality",
+    "uzbek": "sifat",
+    "example": "The quality of mercy is not strained."
+  },
+  {
+    "id": 704,
+    "english": "queen",
+    "uzbek": "qirolicha",
+    "example": "The queen bee lays thousands of eggs throughout her entire life."
+  },
+  {
+    "id": 705,
+    "english": "quick",
+    "uzbek": "tez",
+    "example": "Was quick to make friends."
+  },
+  {
+    "id": 706,
+    "english": "quietly",
+    "uzbek": "jimgina",
+    "example": "The class was listening quietly and intently."
+  },
+  {
+    "id": 707,
+    "english": "quit",
+    "uzbek": "tark etmoq",
+    "example": "Quit teasing your little brother."
+  },
+  {
+    "id": 708,
+    "english": "quite",
+    "uzbek": "bir oz",
+    "example": "Quite tasty."
+  },
+  {
+    "id": 709,
+    "english": "quiz",
+    "uzbek": "viktorina",
+    "example": "The teacher gave us a surprise quiz on the chapter we read yesterday."
+  },
+  {
+    "id": 710,
+    "english": "racket",
+    "uzbek": "tennis raketkasi",
+    "example": "The construction racket outside my apartment kept me awake all night."
+  },
+  {
+    "id": 711,
+    "english": "raise",
+    "uzbek": "ko‘tarmoq",
+    "example": "Raise my salary."
+  },
+  {
+    "id": 712,
+    "english": "range",
+    "uzbek": "soha",
+    "example": "The range of a supersonic jet."
+  },
+  {
+    "id": 713,
+    "english": "rap",
+    "uzbek": "yengil zarba",
+    "example": "He gave the door a quick rap with his knuckles."
+  },
+  {
+    "id": 714,
+    "english": "rate",
+    "uzbek": "nisbat",
+    "example": "They traveled at a rate of 55 miles per hour."
+  },
+  {
+    "id": 715,
+    "english": "rather",
+    "uzbek": "ancha",
+    "example": "Rather than disappoint the children, he did two quick tricks before he left."
+  },
+  {
+    "id": 716,
+    "english": "rating",
+    "uzbek": "reyting",
+    "example": "The bank's rating of the house determined its mortgage loan amount."
+  },
+  {
+    "id": 717,
+    "english": "raw",
+    "uzbek": "xom",
+    "example": "A raw wound."
+  },
+  {
+    "id": 718,
+    "english": "ray",
+    "uzbek": "nur",
+    "example": "A ray of sunlight streamed through the window and lit up her face."
+  },
+  {
+    "id": 719,
+    "english": "receipt",
+    "uzbek": "olganlik haqidagi tilxat",
+    "example": "Upon receipt of your application, we will review it within two weeks."
+  },
+  {
+    "id": 720,
+    "english": "receive",
+    "uzbek": "olmoq",
+    "example": "These aspects of civilization do not find expression or receive an interpretation."
+  },
+  {
+    "id": 721,
+    "english": "recent",
+    "uzbek": "yaqindagi",
+    "example": "Recent graduates."
+  },
+  {
+    "id": 722,
+    "english": "recently",
+    "uzbek": "yaqinda",
+    "example": "He was in Paris recently."
+  },
+  {
+    "id": 723,
+    "english": "receptionist",
+    "uzbek": "qabulxona ma'muri",
+    "example": "The receptionist greeted us warmly and asked us to sign in at the desk."
+  },
+  {
+    "id": 724,
+    "english": "red",
+    "uzbek": "qizil",
+    "example": "She mixed white paint with red to create the perfect shade of pink."
+  },
+  {
+    "id": 725,
+    "english": "reflect",
+    "uzbek": "aks etmoq",
+    "example": "This action reflects his true beliefs."
+  },
+  {
+    "id": 726,
+    "english": "refrigerator",
+    "uzbek": "muzlatgich",
+    "example": "I need to put the milk in the refrigerator before it spoils."
+  },
+  {
+    "id": 727,
+    "english": "regret",
+    "uzbek": "afsus",
+    "example": "I really regret not studying harder before that difficult exam."
+  },
+  {
+    "id": 728,
+    "english": "regular",
+    "uzbek": "muntazam",
+    "example": "His regular calls on his customers."
+  },
+  {
+    "id": 729,
+    "english": "regularly",
+    "uzbek": "muntazam",
+    "example": "Letters arrived regularly from his children."
+  },
+  {
+    "id": 730,
+    "english": "relax",
+    "uzbek": "dam olmoq",
+    "example": "He relaxed in the hot tub."
+  },
+  {
+    "id": 731,
+    "english": "release",
+    "uzbek": "bo‘shatish",
+    "example": "A new release from the London Symphony Orchestra."
+  },
+  {
+    "id": 732,
+    "english": "remain",
+    "uzbek": "qolmoq",
+    "example": "The dress remained wet after repeated attempts to dry it."
+  },
+  {
+    "id": 733,
+    "english": "remind",
+    "uzbek": "eslatmoq",
+    "example": "Remind me to call Mother."
+  },
+  {
+    "id": 734,
+    "english": "rent",
+    "uzbek": "kira",
+    "example": "We pay rent to our landlord every month on the first."
+  },
+  {
+    "id": 735,
+    "english": "repair",
+    "uzbek": "ta'mir",
+    "example": "The car needed expensive repairs after the accident last week."
+  },
+  {
+    "id": 736,
+    "english": "reply",
+    "uzbek": "javob",
+    "example": "He growled his reply."
+  },
+  {
+    "id": 737,
+    "english": "report",
+    "uzbek": "xabar",
+    "example": "He heard reports that they were causing trouble."
+  },
+  {
+    "id": 738,
+    "english": "request",
+    "uzbek": "istak",
+    "example": "The employee submitted a request for time off to her manager."
+  },
+  {
+    "id": 739,
+    "english": "research",
+    "uzbek": "izlanish",
+    "example": "The medical research on vaccines took years to complete successfully."
+  },
+  {
+    "id": 740,
+    "english": "response",
+    "uzbek": "javob",
+    "example": "This situation developed in response to events in Africa."
+  },
+  {
+    "id": 741,
+    "english": "return",
+    "uzbek": "qaytib borish yoki kelish",
+    "example": "His gross income was enough that he had to file a tax return."
+  },
+  {
+    "id": 742,
+    "english": "reunion",
+    "uzbek": "qayta birlashuv",
+    "example": "We're throwing a big reunion for everyone from our high school class of 2010."
+  },
+  {
+    "id": 743,
+    "english": "rhythm",
+    "uzbek": "vazn",
+    "example": "The piece has a fast rhythm."
+  },
+  {
+    "id": 744,
+    "english": "right",
+    "uzbek": "o‘ng taraf",
+    "example": "They are endowed by their Creator with certain unalienable Rights."
+  },
+  {
+    "id": 745,
+    "english": "ring",
+    "uzbek": "uzuk",
+    "example": "It has the ring of sincerity."
+  },
+  {
+    "id": 746,
+    "english": "road",
+    "uzbek": "yo‘l",
+    "example": "We drove down the coastal road to reach the beach this morning."
+  },
+  {
+    "id": 747,
+    "english": "roast",
+    "uzbek": "qizartirmoq",
+    "example": "Roast the turkey."
+  },
+  {
+    "id": 748,
+    "english": "rob",
+    "uzbek": "o‘g‘irlamoq",
+    "example": "That coffee shop really robs you with their ten dollar lattes."
+  },
+  {
+    "id": 749,
+    "english": "robbery",
+    "uzbek": "o‘g‘rilik",
+    "example": "The armed robbery at the convenience store happened just after midnight."
+  },
+  {
+    "id": 750,
+    "english": "robin",
+    "uzbek": "qizil gardan chumchuqsimon qush",
+    "example": "A robin with a bright red breast sang beautifully from the garden fence."
+  },
+  {
+    "id": 751,
+    "english": "rock",
+    "uzbek": "qoya",
+    "example": "He threw a rock at me."
+  },
+  {
+    "id": 752,
+    "english": "roll",
+    "uzbek": "rulon",
+    "example": "His name was struck off the rolls."
+  },
+  {
+    "id": 753,
+    "english": "romance",
+    "uzbek": "oshiq marsiyasi",
+    "example": "Their romance has lasted for almost ten years now."
+  },
+  {
+    "id": 754,
+    "english": "romantic",
+    "uzbek": "romantik",
+    "example": "Romantic poetry."
+  },
+  {
+    "id": 755,
+    "english": "roof",
+    "uzbek": "tom",
+    "example": "The roof of the house needs new shingles after the storm."
+  },
+  {
+    "id": 756,
+    "english": "root",
+    "uzbek": "ildiz",
+    "example": "The plant's roots absorb water and nutrients from the soil below ground."
+  },
+  {
+    "id": 757,
+    "english": "rope",
+    "uzbek": "arqon",
+    "example": "He tied the rope around the package to keep it secure."
+  },
+  {
+    "id": 758,
+    "english": "roughly",
+    "uzbek": "q'opol tarzda",
+    "example": "He was pushed roughly aside."
+  },
+  {
+    "id": 759,
+    "english": "round",
+    "uzbek": "davomida",
+    "example": "The shop is open all year round."
+  },
+  {
+    "id": 760,
+    "english": "royal",
+    "uzbek": "qirolga oid",
+    "example": "The royal family attended the ceremony."
+  },
+  {
+    "id": 761,
+    "english": "ruin",
+    "uzbek": "buzmoq",
+    "example": "You have ruined my car by pouring sugar in the tank!"
+  },
+  {
+    "id": 762,
+    "english": "runner",
+    "uzbek": "chopish bilan shug‘ullanadigan sportchi",
+    "example": "The customs officers arrested the runner smuggling cigarettes across the border last night."
+  },
+  {
+    "id": 763,
+    "english": "rush",
+    "uzbek": "hamla",
+    "example": "The rush of water from the broken pipe flooded the basement quickly."
+  },
+  {
+    "id": 764,
+    "english": "sadly",
+    "uzbek": "afsus bilan",
+    "example": "Sadly he died before he could see his grandchild."
+  },
+  {
+    "id": 765,
+    "english": "safe",
+    "uzbek": "xavfsiz",
+    "example": "Investing in index funds is considered a safe option for most investors."
+  },
+  {
+    "id": 766,
+    "english": "sake",
+    "uzbek": "manfaat",
+    "example": "She moved to a quieter town for the sake of her children."
+  },
+  {
+    "id": 767,
+    "english": "salt",
+    "uzbek": "tuz",
+    "example": "Calcium carbonate is a salt formed when hydrochloric acid reacts with calcium."
+  },
+  {
+    "id": 768,
+    "english": "sample",
+    "uzbek": "namuna",
+    "example": "The free sample of shampoo convinced me to buy the full-size bottle."
+  },
+  {
+    "id": 769,
+    "english": "sauce",
+    "uzbek": "sous",
+    "example": "I always add extra hot sauce to my tacos for more flavor."
+  },
+  {
+    "id": 770,
+    "english": "sausage",
+    "uzbek": "kolbasa",
+    "example": "I grilled some spicy Italian sausage for dinner last night."
+  },
+  {
+    "id": 771,
+    "english": "scale",
+    "uzbek": "ko‘lam",
+    "example": "We had not understood the scale of the problem."
+  },
+  {
+    "id": 772,
+    "english": "scarf",
+    "uzbek": "sharf",
+    "example": "She wrapped a silk scarf around her neck before heading outside."
+  },
+  {
+    "id": 773,
+    "english": "scene",
+    "uzbek": "sahna",
+    "example": "The police returned to the scene of the crime."
+  },
+  {
+    "id": 774,
+    "english": "scenery",
+    "uzbek": "peizaj",
+    "example": "They worked all night painting the scenery."
+  },
+  {
+    "id": 775,
+    "english": "schedule",
+    "uzbek": "ro‘yxat",
+    "example": "I need to reorganize my schedule because I'm juggling work, school, and family."
+  },
+  {
+    "id": 776,
+    "english": "schoolwork",
+    "uzbek": "maktab vazifalari",
+    "example": "My daughter stayed up late finishing her schoolwork before the deadline."
+  },
+  {
+    "id": 777,
+    "english": "scientific",
+    "uzbek": "ilmiy",
+    "example": "Scientific journals."
+  },
+  {
+    "id": 778,
+    "english": "scissors",
+    "uzbek": "qaychi",
+    "example": "I need scissors to cut this wrapping paper for the gift."
+  },
+  {
+    "id": 779,
+    "english": "scream",
+    "uzbek": "qichqiriq",
+    "example": "Her screaming attracted the neighbors."
+  },
+  {
+    "id": 780,
+    "english": "screen",
+    "uzbek": "parda",
+    "example": "The projector displayed the movie on the white screen in the theater."
+  },
+  {
+    "id": 781,
+    "english": "screw",
+    "uzbek": "vint",
+    "example": "The screw at the prison made his rounds every hour without fail."
+  },
+  {
+    "id": 782,
+    "english": "script",
+    "uzbek": "qo‘lyozma",
+    "example": "The actor memorized the script before rehearsals began last week."
+  },
+  {
+    "id": 783,
+    "english": "seafood",
+    "uzbek": "dengiz mahsulotlari",
+    "example": "We ordered the seafood platter with shrimp, scallops, and fresh oysters."
+  },
+  {
+    "id": 784,
+    "english": "search",
+    "uzbek": "qidiruv",
+    "example": "The search for the missing cat lasted three hours before we found her."
+  },
+  {
+    "id": 785,
+    "english": "seaside",
+    "uzbek": "dengiz sohili",
+    "example": "We rented a cottage at the seaside for our summer vacation last year."
+  },
+  {
+    "id": 786,
+    "english": "secret",
+    "uzbek": "sir",
+    "example": "The combination to the safe was a secret."
+  },
+  {
+    "id": 787,
+    "english": "secretary",
+    "uzbek": "sekretar",
+    "example": "The Secretary of State announced new foreign policy initiatives at the press conference."
+  },
+  {
+    "id": 788,
+    "english": "seed",
+    "uzbek": "don",
+    "example": "I planted a sunflower seed in the garden last spring."
+  },
+  {
+    "id": 789,
+    "english": "seek",
+    "uzbek": "qidirmoq",
+    "example": "Seek a position."
+  },
+  {
+    "id": 790,
+    "english": "seem",
+    "uzbek": "bo‘lib ko‘rinmoq",
+    "example": "She seems to be sleeping."
+  },
+  {
+    "id": 791,
+    "english": "semester",
+    "uzbek": "semestr",
+    "example": "I'm taking organic chemistry during the fall semester at university."
+  },
+  {
+    "id": 792,
+    "english": "send",
+    "uzbek": "yubormoq",
+    "example": "Please send me your address today."
+  },
+  {
+    "id": 793,
+    "english": "senior",
+    "uzbek": "katta",
+    "example": "My senior year in college was the most challenging and rewarding."
+  },
+  {
+    "id": 794,
+    "english": "sense",
+    "uzbek": "sezgi",
+    "example": "The dictionary gave several senses for the word."
+  },
+  {
+    "id": 795,
+    "english": "separate",
+    "uzbek": "ajratmoq",
+    "example": "A problem consisting of two separate issues."
+  },
+  {
+    "id": 796,
+    "english": "serve",
+    "uzbek": "xizmat qilmoq",
+    "example": "The tree stump serves as a table."
+  },
+  {
+    "id": 797,
+    "english": "set",
+    "uzbek": "to‘plam",
+    "example": "The set of prime numbers is infinite."
+  },
+  {
+    "id": 798,
+    "english": "sew",
+    "uzbek": "tikmoq",
+    "example": "My grandmother taught me how to sew buttons back on my shirts."
+  },
+  {
+    "id": 799,
+    "english": "shade",
+    "uzbek": "soya",
+    "example": "It is much cooler in the shade."
+  },
+  {
+    "id": 800,
+    "english": "shadow",
+    "uzbek": "soya",
+    "example": "The tree's shadow stretched across the lawn in a dark, distinct shape."
+  },
+  {
+    "id": 801,
+    "english": "shampoo",
+    "uzbek": "shampun",
+    "example": "I bought a new bottle of shampoo for my dry and damaged hair."
+  },
+  {
+    "id": 802,
+    "english": "shape",
+    "uzbek": "shakl",
+    "example": "He could barely make out their shapes."
+  },
+  {
+    "id": 803,
+    "english": "share",
+    "uzbek": "ulush",
+    "example": "He wanted his share in cash."
+  },
+  {
+    "id": 804,
+    "english": "shell",
+    "uzbek": "po‘choq",
+    "example": "The artillery unit fired another shell at the distant enemy position."
+  },
+  {
+    "id": 805,
+    "english": "shock",
+    "uzbek": "zarba",
+    "example": "The armies met in the shock of battle."
+  },
+  {
+    "id": 806,
+    "english": "shoot",
+    "uzbek": "o‘q otmoq",
+    "example": "The archer will shoot an arrow at the target during competition."
+  },
+  {
+    "id": 807,
+    "english": "shore",
+    "uzbek": "dengiz",
+    "example": "We walked along the rocky shore collecting seashells during our vacation."
+  },
+  {
+    "id": 808,
+    "english": "shot",
+    "uzbek": "o‘q otish",
+    "example": "The shot buzzed past his ear."
+  },
+  {
+    "id": 809,
+    "english": "show",
+    "uzbek": "ko‘rsatuv",
+    "example": "A remarkable show of skill."
+  },
+  {
+    "id": 810,
+    "english": "significant",
+    "uzbek": "ma'noli",
+    "example": "A significant change in tax laws."
+  },
+  {
+    "id": 811,
+    "english": "silence",
+    "uzbek": "tinchlik",
+    "example": "There was a shocked silence."
+  },
+  {
+    "id": 812,
+    "english": "silver",
+    "uzbek": "kumush",
+    "example": "Silver is the best conductor of electricity among all metals."
+  },
+  {
+    "id": 813,
+    "english": "similar",
+    "uzbek": "o‘xshash",
+    "example": "Similar food at similar prices."
+  },
+  {
+    "id": 814,
+    "english": "simple",
+    "uzbek": "oson",
+    "example": "A simple problem."
+  },
+  {
+    "id": 815,
+    "english": "simply",
+    "uzbek": "shunchaki",
+    "example": "I simply want to help you."
+  },
+  {
+    "id": 816,
+    "english": "single",
+    "uzbek": "yolg‘iz",
+    "example": "Single chrysanthemums resemble daisies and may have more than one row of petals."
+  },
+  {
+    "id": 817,
+    "english": "sink",
+    "uzbek": "oshxona chanog‘i",
+    "example": "I washed my hands at the kitchen sink before dinner."
+  },
+  {
+    "id": 818,
+    "english": "situation",
+    "uzbek": "ahvol",
+    "example": "The present international situation is dangerous."
+  },
+  {
+    "id": 819,
+    "english": "ski",
+    "uzbek": "chang‘i",
+    "example": "I need to buy new skis for the upcoming winter season."
+  },
+  {
+    "id": 820,
+    "english": "slave",
+    "uzbek": "qul",
+    "example": "In ancient Rome, a slave had no legal rights or personal freedom whatsoever."
+  },
+  {
+    "id": 821,
+    "english": "sleepy",
+    "uzbek": "uyqusiragan",
+    "example": "Beginning to feel sleepy."
+  },
+  {
+    "id": 822,
+    "english": "slice",
+    "uzbek": "tilimlamoq",
+    "example": "A slice of the company's revenue."
+  },
+  {
+    "id": 823,
+    "english": "slide",
+    "uzbek": "sirpanmoq",
+    "example": "The biologist prepared a slide with cells from the tissue sample."
+  },
+  {
+    "id": 824,
+    "english": "slowly",
+    "uzbek": "asta-sekin",
+    "example": "He spoke slowly."
+  },
+  {
+    "id": 825,
+    "english": "smooth",
+    "uzbek": "silliq",
+    "example": "Smooth skin."
+  },
+  {
+    "id": 826,
+    "english": "smoothly",
+    "uzbek": "ravon",
+    "example": "Put the plans into effect quickly and smoothly."
+  },
+  {
+    "id": 827,
+    "english": "snack",
+    "uzbek": "tamaddi",
+    "example": "I grabbed a quick snack before heading to the gym this afternoon."
+  },
+  {
+    "id": 828,
+    "english": "so",
+    "uzbek": "shunday",
+    "example": "The idea is so obvious."
+  },
+  {
+    "id": 829,
+    "english": "soap",
+    "uzbek": "sovun",
+    "example": "I use lavender soap every morning to wash my hands and face."
+  },
+  {
+    "id": 830,
+    "english": "society",
+    "uzbek": "jamiyat",
+    "example": "Education is important for every society."
+  },
+  {
+    "id": 831,
+    "english": "sock",
+    "uzbek": "paypoq",
+    "example": "I need to find a clean sock to match the one I'm already wearing."
+  },
+  {
+    "id": 832,
+    "english": "soda",
+    "uzbek": "gazli suv",
+    "example": "The factory uses soda ash in its glass manufacturing process every day."
+  },
+  {
+    "id": 833,
+    "english": "soft",
+    "uzbek": "yumshoq",
+    "example": "The soft pillow felt comfortable against my tired head."
+  },
+  {
+    "id": 834,
+    "english": "softly",
+    "uzbek": "mayin tarzda",
+    "example": "Speak softly but carry a big stick."
+  },
+  {
+    "id": 835,
+    "english": "soldier",
+    "uzbek": "askar",
+    "example": "The soldiers stood at attention."
+  },
+  {
+    "id": 836,
+    "english": "solution",
+    "uzbek": "ijozat",
+    "example": "He used a solution of peroxide and water."
+  },
+  {
+    "id": 837,
+    "english": "someday",
+    "uzbek": "bir kun kelib",
+    "example": "Someday you will understand my actions."
+  },
+  {
+    "id": 838,
+    "english": "somewhere",
+    "uzbek": "qayerdadir",
+    "example": "She must be somewhere."
+  },
+  {
+    "id": 839,
+    "english": "sound",
+    "uzbek": "tovush",
+    "example": "The sound of rain on the roof."
+  },
+  {
+    "id": 840,
+    "english": "source",
+    "uzbek": "manba",
+    "example": "The reporter had two sources for the story."
+  },
+  {
+    "id": 841,
+    "english": "south",
+    "uzbek": "janub",
+    "example": "Many people in the South enjoy slower pace of life and warm hospitality."
+  },
+  {
+    "id": 842,
+    "english": "space",
+    "uzbek": "bo‘shliq",
+    "example": "They tested his ability to locate objects in space."
+  },
+  {
+    "id": 843,
+    "english": "spaceship",
+    "uzbek": "kosmik kema",
+    "example": "The crew boarded the spaceship, ready for their journey to distant stars."
+  },
+  {
+    "id": 844,
+    "english": "spaghetti",
+    "uzbek": "spagetti",
+    "example": "I ordered spaghetti with marinara sauce at the Italian restaurant last night."
+  },
+  {
+    "id": 845,
+    "english": "speaker",
+    "uzbek": "nutq so‘zlovchi",
+    "example": "The concert's massive speaker system could be heard from blocks away."
+  },
+  {
+    "id": 846,
+    "english": "specific",
+    "uzbek": "alohida",
+    "example": "Rules with specific application."
+  },
+  {
+    "id": 847,
+    "english": "speed",
+    "uzbek": "tezlik",
+    "example": "The car's speed on the highway was about ninety miles per hour."
+  },
+  {
+    "id": 848,
+    "english": "spell",
+    "uzbek": "harflab yozmoq yoki aytmoq",
+    "example": "How do you spell this word?"
+  },
+  {
+    "id": 849,
+    "english": "spill",
+    "uzbek": "to‘kmoq",
+    "example": "The milk spilled across the floor."
+  },
+  {
+    "id": 850,
+    "english": "spoon",
+    "uzbek": "qoshiq",
+    "example": "I stirred my coffee with a silver spoon this morning."
+  },
+  {
+    "id": 851,
+    "english": "spread",
+    "uzbek": "yoyilish",
+    "example": "The rapid spread of misinformation on social media concerns many people today."
+  },
+  {
+    "id": 852,
+    "english": "square",
+    "uzbek": "to‘rtburchak",
+    "example": "You can compute the area of a square if you know the length of its sides."
+  },
+  {
+    "id": 853,
+    "english": "stadium",
+    "uzbek": "stadion",
+    "example": "The new stadium can hold over fifty thousand football fans comfortably."
+  },
+  {
+    "id": 854,
+    "english": "staff",
+    "uzbek": "xodimlar",
+    "example": "The hospital has an excellent nursing staff."
+  },
+  {
+    "id": 855,
+    "english": "stamp",
+    "uzbek": "marka",
+    "example": "More men of his stamp are needed."
+  },
+  {
+    "id": 856,
+    "english": "stand",
+    "uzbek": "turmoq",
+    "example": "We had to stand for the entire performance!"
+  },
+  {
+    "id": 857,
+    "english": "state",
+    "uzbek": "sharoit",
+    "example": "His state is in the deep south."
+  },
+  {
+    "id": 858,
+    "english": "statement",
+    "uzbek": "bayonot",
+    "example": "According to his statement he was in London on that day."
+  },
+  {
+    "id": 859,
+    "english": "statue",
+    "uzbek": "haykal",
+    "example": "The bronze statue of Lincoln stands majestically in the center of the park."
+  },
+  {
+    "id": 860,
+    "english": "steak",
+    "uzbek": "bifshteks",
+    "example": "I ordered a medium-rare steak with mashed potatoes for dinner."
+  },
+  {
+    "id": 861,
+    "english": "step",
+    "uzbek": "qadam",
+    "example": "Take one small step at a time."
+  },
+  {
+    "id": 862,
+    "english": "still",
+    "uzbek": "hanuz",
+    "example": "It's still warm outside."
+  },
+  {
+    "id": 863,
+    "english": "stomach",
+    "uzbek": "oshqozon",
+    "example": "The stomach breaks down food into smaller pieces during digestion."
+  },
+  {
+    "id": 864,
+    "english": "storm",
+    "uzbek": "bo‘ron",
+    "example": "The severe storm knocked out power across the entire region yesterday."
+  },
+  {
+    "id": 865,
+    "english": "stove",
+    "uzbek": "pechka",
+    "example": "Dinner was already on the stove."
+  },
+  {
+    "id": 866,
+    "english": "straight",
+    "uzbek": "tikka",
+    "example": "Sick for five straight days."
+  },
+  {
+    "id": 867,
+    "english": "stranger",
+    "uzbek": "begona",
+    "example": "The stranger in the server room was immediately stopped by security."
+  },
+  {
+    "id": 868,
+    "english": "strategy",
+    "uzbek": "strategiya",
+    "example": "Our marketing strategy focuses on reaching younger customers through social media platforms."
+  },
+  {
+    "id": 869,
+    "english": "strength",
+    "uzbek": "kuch",
+    "example": "We faced an army of great strength."
+  },
+  {
+    "id": 870,
+    "english": "strike",
+    "uzbek": "ish tashlash",
+    "example": "The strike lasted more than a month before it was settled."
+  },
+  {
+    "id": 871,
+    "english": "string",
+    "uzbek": "ip",
+    "example": "I tied the package shut with a piece of string."
+  },
+  {
+    "id": 872,
+    "english": "strongly",
+    "uzbek": "qat’iy",
+    "example": "Argues very strongly for his proposal."
+  },
+  {
+    "id": 873,
+    "english": "structure",
+    "uzbek": "qurilish",
+    "example": "The structure consisted of a series of arches."
+  },
+  {
+    "id": 874,
+    "english": "study",
+    "uzbek": "o‘qish",
+    "example": "A detailed study of the contract revealed several hidden clauses."
+  },
+  {
+    "id": 875,
+    "english": "stuff",
+    "uzbek": "mato",
+    "example": "The trunk was full of stuff."
+  },
+  {
+    "id": 876,
+    "english": "style",
+    "uzbek": "tarz",
+    "example": "All the reporters were expected to adopt the style of the newspaper."
+  },
+  {
+    "id": 877,
+    "english": "succeed",
+    "uzbek": "muvaffaqiyat qozonmoq",
+    "example": "The enterprise succeeded."
+  },
+  {
+    "id": 878,
+    "english": "success",
+    "uzbek": "muvaffaqiyat",
+    "example": "Let's call heads a success and tails a failure."
+  },
+  {
+    "id": 879,
+    "english": "successfully",
+    "uzbek": "muvaffaqiyatli",
+    "example": "She performed the surgery successfully."
+  },
+  {
+    "id": 880,
+    "english": "sudden",
+    "uzbek": "to‘satdan",
+    "example": "A sudden storm."
+  },
+  {
+    "id": 881,
+    "english": "suggest",
+    "uzbek": "taklif etmoq",
+    "example": "She subtly suggested that maybe he should apologize to her soon."
+  },
+  {
+    "id": 882,
+    "english": "suit",
+    "uzbek": "kostyum",
+    "example": "They buried him in his best suit."
+  },
+  {
+    "id": 883,
+    "english": "suitable",
+    "uzbek": "mos",
+    "example": "A tractor suitable (or fit) for heavy duty."
+  },
+  {
+    "id": 884,
+    "english": "summary",
+    "uzbek": "qisqa bayon",
+    "example": "He gave a summary of the conclusions."
+  },
+  {
+    "id": 885,
+    "english": "supper",
+    "uzbek": "kechki ovqat",
+    "example": "We had a light supper of soup and bread before going to bed."
+  },
+  {
+    "id": 886,
+    "english": "support",
+    "uzbek": "qo‘llab quvvatlash",
+    "example": "His support kept the family together."
+  },
+  {
+    "id": 887,
+    "english": "sure",
+    "uzbek": "albatta",
+    "example": "I sure hope you can come tomorrow."
+  },
+  {
+    "id": 888,
+    "english": "surname",
+    "uzbek": "familiya",
+    "example": "Everyone in my family shares the surname Martinez, passed down through generations."
+  },
+  {
+    "id": 889,
+    "english": "surprising",
+    "uzbek": "hayratlantiradigan",
+    "example": "The report shows a surprising lack of hard factual data."
+  },
+  {
+    "id": 890,
+    "english": "swallow",
+    "uzbek": "yutmoq",
+    "example": "Swallow the raw fish--it won't kill you!"
+  },
+  {
+    "id": 891,
+    "english": "sweater",
+    "uzbek": "sviter",
+    "example": "I pulled on my favorite wool sweater before heading out into the cold."
+  },
+  {
+    "id": 892,
+    "english": "sweetheart",
+    "uzbek": "sevgili",
+    "example": "My sweetheart and I have been together for five wonderful years now."
+  },
+  {
+    "id": 893,
+    "english": "swimsuit",
+    "uzbek": "cho‘milish kiyimi",
+    "example": "She bought a new swimsuit for her beach vacation next week."
+  },
+  {
+    "id": 894,
+    "english": "symbol",
+    "uzbek": "ramz",
+    "example": "The ampersand symbol (&) represents the word 'and' in written English."
+  },
+  {
+    "id": 895,
+    "english": "symphony",
+    "uzbek": "simfoniya",
+    "example": "Beethoven's Ninth Symphony is one of the most famous orchestral compositions ever written."
+  },
+  {
+    "id": 896,
+    "english": "system",
+    "uzbek": "sistema",
+    "example": "He bought a new stereo system."
+  },
+  {
+    "id": 897,
+    "english": "tablespoon",
+    "uzbek": "osh qoshiq",
+    "example": "Add a tablespoon of honey to your tea for sweetness."
+  },
+  {
+    "id": 898,
+    "english": "talent",
+    "uzbek": "qobiliyat",
+    "example": "She has a natural talent for languages and picks them up easily."
+  },
+  {
+    "id": 899,
+    "english": "tap",
+    "uzbek": "jo‘mrak",
+    "example": "I heard a gentle tap on the window in the middle of the night."
+  },
+  {
+    "id": 900,
+    "english": "tape",
+    "uzbek": "to‘qilgan tasma",
+    "example": "He used a piece of tape for a belt."
+  },
+  {
+    "id": 901,
+    "english": "tear",
+    "uzbek": "ko‘z yosh",
+    "example": "His story brought tears to her eyes."
+  },
+  {
+    "id": 902,
+    "english": "teenage",
+    "uzbek": "o‘smirlarga oid",
+    "example": "Teenage mothers."
+  },
+  {
+    "id": 903,
+    "english": "teenager",
+    "uzbek": "o‘smir",
+    "example": "My teenager is dealing with all the typical hormonal changes of puberty right now."
+  },
+  {
+    "id": 904,
+    "english": "temperature",
+    "uzbek": "harorat",
+    "example": "The oven's temperature needs to reach 350 degrees before baking the cookies."
+  },
+  {
+    "id": 905,
+    "english": "text",
+    "uzbek": "matn",
+    "example": "There were more than a thousand words of text."
+  },
+  {
+    "id": 906,
+    "english": "textbook",
+    "uzbek": "darslik",
+    "example": "His economics textbook is in its tenth edition."
+  },
+  {
+    "id": 907,
+    "english": "therefore",
+    "uzbek": "shu sababli",
+    "example": "Therefore X must be true."
+  },
+  {
+    "id": 908,
+    "english": "thief",
+    "uzbek": "o‘g‘ri",
+    "example": "The thief stole jewelry from the museum and sold it to a pawn shop."
+  },
+  {
+    "id": 909,
+    "english": "third",
+    "uzbek": "num ord",
+    "example": "She finished third in the marathon race yesterday afternoon."
+  },
+  {
+    "id": 910,
+    "english": "thirsty",
+    "uzbek": "suvsagan",
+    "example": "Thirsty fields under a rainless sky."
+  },
+  {
+    "id": 911,
+    "english": "throw",
+    "uzbek": "w  otmoq",
+    "example": "Throw a frisbee."
+  },
+  {
+    "id": 912,
+    "english": "tidy",
+    "uzbek": "toza",
+    "example": "A tidy person."
+  },
+  {
+    "id": 913,
+    "english": "timetable",
+    "uzbek": "jadval",
+    "example": "The conference timetable shows that the keynote speech starts at 9 AM."
+  },
+  {
+    "id": 914,
+    "english": "tip",
+    "uzbek": "uch",
+    "example": "The tip of the pencil broke off while I was writing."
+  },
+  {
+    "id": 915,
+    "english": "title",
+    "uzbek": "nom",
+    "example": "Title 8 provided federal help for schools."
+  },
+  {
+    "id": 916,
+    "english": "toast",
+    "uzbek": "qizartirilgan non bo‘lagi",
+    "example": "I spread butter and jam on my toast for breakfast this morning."
+  },
+  {
+    "id": 917,
+    "english": "toe",
+    "uzbek": "oyoq myg barmog‘i",
+    "example": "I stubbed my big toe on the coffee table this morning."
+  },
+  {
+    "id": 918,
+    "english": "tone",
+    "uzbek": "tovushohang",
+    "example": "He began in a conversational tone."
+  },
+  {
+    "id": 919,
+    "english": "tonight",
+    "uzbek": "bu kecha",
+    "example": "I'm really looking forward to watching that new show tonight."
+  },
+  {
+    "id": 920,
+    "english": "toothbrush",
+    "uzbek": "tish cho‘tkasi",
+    "example": "I need to buy a new electric toothbrush for my bathroom."
+  },
+  {
+    "id": 921,
+    "english": "tour",
+    "uzbek": "sayohat qilish",
+    "example": "They took an extended tour of Europe."
+  },
+  {
+    "id": 922,
+    "english": "tourist",
+    "uzbek": "turist",
+    "example": "Every summer, thousands of tourists visit the beach to relax and enjoy the ocean."
+  },
+  {
+    "id": 923,
+    "english": "trade",
+    "uzbek": "tijorat",
+    "example": "Venice was an important center of trade with the East."
+  },
+  {
+    "id": 924,
+    "english": "tradition",
+    "uzbek": "an'ana",
+    "example": "In our family, the tradition of skepticism toward authority shaped how we all think."
+  },
+  {
+    "id": 925,
+    "english": "traditional",
+    "uzbek": "an'anaviy",
+    "example": "The simple security of traditional assumptions has vanished."
+  },
+  {
+    "id": 926,
+    "english": "traffic",
+    "uzbek": "harakat",
+    "example": "Heavy traffic on the highway made my commute take two hours today."
+  },
+  {
+    "id": 927,
+    "english": "train",
+    "uzbek": "o‘rgatmoq",
+    "example": "The old master is training world-class violinists."
+  },
+  {
+    "id": 928,
+    "english": "training",
+    "uzbek": "tayyorlash",
+    "example": "She completed her training program and became a certified nurse practitioner."
+  },
+  {
+    "id": 929,
+    "english": "trap",
+    "uzbek": "qopqon",
+    "example": "The mouse trap caught three rodents in just one night."
+  },
+  {
+    "id": 930,
+    "english": "travel",
+    "uzbek": "sayohat",
+    "example": "He enjoyed selling but he hated the travel."
+  },
+  {
+    "id": 931,
+    "english": "treasure",
+    "uzbek": "xazina",
+    "example": "The pirates hid their treasure on a small island in the West Indies."
+  },
+  {
+    "id": 932,
+    "english": "trick",
+    "uzbek": "ayyorlik",
+    "example": "He played a trick on me."
+  },
+  {
+    "id": 933,
+    "english": "trouble",
+    "uzbek": "tashvish",
+    "example": "One trouble after another delayed the job."
+  },
+  {
+    "id": 934,
+    "english": "truly",
+    "uzbek": "haqqoniy",
+    "example": "She was now truly American."
+  },
+  {
+    "id": 935,
+    "english": "trust",
+    "uzbek": "ishonmoq",
+    "example": "We can trust in God."
+  },
+  {
+    "id": 936,
+    "english": "truth",
+    "uzbek": "haqiqat",
+    "example": "At last he knew the truth."
+  },
+  {
+    "id": 937,
+    "english": "try",
+    "uzbek": "urinmoq",
+    "example": "I will try to arrive on time."
+  },
+  {
+    "id": 938,
+    "english": "tune",
+    "uzbek": "kuy",
+    "example": "He cannot sing in tune."
+  },
+  {
+    "id": 939,
+    "english": "twice",
+    "uzbek": "ikki marta",
+    "example": "I called her twice."
+  },
+  {
+    "id": 940,
+    "english": "uncertain",
+    "uzbek": "shubhali",
+    "example": "Uncertain of his convictions."
+  },
+  {
+    "id": 941,
+    "english": "uncomfortable",
+    "uzbek": "noqulay",
+    "example": "This kind of life can prove disruptive and uncomfortable."
+  },
+  {
+    "id": 942,
+    "english": "understand",
+    "uzbek": "tushunmoq",
+    "example": "She did not understand her husband."
+  },
+  {
+    "id": 943,
+    "english": "uneasy",
+    "uzbek": "halovatsiz",
+    "example": "Farmers were uneasy until rain finally came."
+  },
+  {
+    "id": 944,
+    "english": "unfair",
+    "uzbek": "nohaq",
+    "example": "Used unfair methods."
+  },
+  {
+    "id": 945,
+    "english": "unforgettable",
+    "uzbek": "unutilmas",
+    "example": "That first kiss was absolutely unforgettable and changed my life forever."
+  },
+  {
+    "id": 946,
+    "english": "unfortunately",
+    "uzbek": "baxtga qarshi",
+    "example": "Unfortunately it rained all day."
+  },
+  {
+    "id": 947,
+    "english": "unhappy",
+    "uzbek": "baxtsiz",
+    "example": "She felt unhappy after hearing the sad news about her friend's accident."
+  },
+  {
+    "id": 948,
+    "english": "unhealthy",
+    "uzbek": "nosog‘lom",
+    "example": "Eating too much fast food is unhealthy for your heart and weight."
+  },
+  {
+    "id": 949,
+    "english": "uniform",
+    "uzbek": "forma",
+    "example": "The police officer's uniform included a badge and name tag."
+  },
+  {
+    "id": 950,
+    "english": "unimportant",
+    "uzbek": "ahamiyatsiz",
+    "example": "A relatively unimportant feature of the system."
+  },
+  {
+    "id": 951,
+    "english": "unit",
+    "uzbek": "bo‘linma",
+    "example": "The dollar is the United States unit of currency."
+  },
+  {
+    "id": 952,
+    "english": "university",
+    "uzbek": "universitet",
+    "example": "The university gathered in the auditorium to hear the president's speech."
+  },
+  {
+    "id": 953,
+    "english": "unknown",
+    "uzbek": "noma'lum",
+    "example": "A poem by an unknown author."
+  },
+  {
+    "id": 954,
+    "english": "unnecessary",
+    "uzbek": "keraksiz",
+    "example": "You don't need to bring an umbrella; the weather forecast says unnecessary rain isn't expected today."
+  },
+  {
+    "id": 955,
+    "english": "unpleasant",
+    "uzbek": "yoqimsiz",
+    "example": "An unpleasant personality."
+  },
+  {
+    "id": 956,
+    "english": "unusual",
+    "uzbek": "nodir",
+    "example": "A scene of unusual beauty."
+  },
+  {
+    "id": 957,
+    "english": "upstairs",
+    "uzbek": "yuqoriga",
+    "example": "She's a bit weak upstairs."
+  },
+  {
+    "id": 958,
+    "english": "use",
+    "uzbek": "qollanilish",
+    "example": "He warned against the use of narcotic drugs."
+  },
+  {
+    "id": 959,
+    "english": "useful",
+    "uzbek": "foydali",
+    "example": "The girl felt motherly and useful."
+  },
+  {
+    "id": 960,
+    "english": "usual",
+    "uzbek": "odatdagi",
+    "example": "Grew the usual vegetables."
+  },
+  {
+    "id": 961,
+    "english": "valley",
+    "uzbek": "vodiy",
+    "example": "The river winds through a deep valley between the mountain ranges."
+  },
+  {
+    "id": 962,
+    "english": "value",
+    "uzbek": "qiymat",
+    "example": "The value assigned was 16 milliseconds."
+  },
+  {
+    "id": 963,
+    "english": "verb",
+    "uzbek": "fe'l",
+    "example": "In that sentence, the verb is the word that describes the action being performed."
+  },
+  {
+    "id": 964,
+    "english": "view",
+    "uzbek": "ko‘rinish",
+    "example": "Consider what follows from the positivist view."
+  },
+  {
+    "id": 965,
+    "english": "village",
+    "uzbek": "qishloq",
+    "example": "The village of about 2,000 people had its own elected council and mayor."
+  },
+  {
+    "id": 966,
+    "english": "violent",
+    "uzbek": "darg‘azab",
+    "example": "A violent attack."
+  },
+  {
+    "id": 967,
+    "english": "violin",
+    "uzbek": "skripka",
+    "example": "She pulled the bow across the violin strings to play a beautiful melody."
+  },
+  {
+    "id": 968,
+    "english": "visitor",
+    "uzbek": "ziyoratchi",
+    "example": "The visitor from out of town asked us for directions to the museum."
+  },
+  {
+    "id": 969,
+    "english": "vocabulary",
+    "uzbek": "so‘z boyligi",
+    "example": "The textbook's vocabulary includes technical terms you'll need for the exam."
+  },
+  {
+    "id": 970,
+    "english": "voice",
+    "uzbek": "tovush",
+    "example": "A shrill voice sounded behind us."
+  },
+  {
+    "id": 971,
+    "english": "wallet",
+    "uzbek": "karmon",
+    "example": "I left my wallet at home and couldn't pay for lunch."
+  },
+  {
+    "id": 972,
+    "english": "wave",
+    "uzbek": "to‘lqin",
+    "example": "The wave crashed against the rocky shore with tremendous force."
+  },
+  {
+    "id": 973,
+    "english": "weak",
+    "uzbek": "kuchsiz",
+    "example": "A weak pillar."
+  },
+  {
+    "id": 974,
+    "english": "wealth",
+    "uzbek": "boylik",
+    "example": "Great wealth is not a sign of great intelligence."
+  },
+  {
+    "id": 975,
+    "english": "web",
+    "uzbek": "o‘rgimchak ini",
+    "example": "The trees cast a delicate web of shadows over the lawn."
+  },
+  {
+    "id": 976,
+    "english": "wedding",
+    "uzbek": "nikoh to‘y",
+    "example": "We're planning our wedding for next summer in the mountains."
+  },
+  {
+    "id": 977,
+    "english": "weekday",
+    "uzbek": "haftaning ish kuni",
+    "example": "Most shops close earlier on weekdays than they do on weekends."
+  },
+  {
+    "id": 978,
+    "english": "weekly",
+    "uzbek": "har haftada",
+    "example": "She visited her aunt weekly."
+  },
+  {
+    "id": 979,
+    "english": "weigh",
+    "uzbek": "belgili og‘irlikka ega bo‘lmoq",
+    "example": "This suitcase weighs about thirty pounds when it's completely full."
+  },
+  {
+    "id": 980,
+    "english": "weight",
+    "uzbek": "og‘irlik",
+    "example": "The weight of the box made it difficult for me to lift."
+  },
+  {
+    "id": 981,
+    "english": "west",
+    "uzbek": ". g‘arb",
+    "example": "Many people immigrate to the West seeking better economic opportunities."
+  },
+  {
+    "id": 982,
+    "english": "wet",
+    "uzbek": "nam",
+    "example": "A wet bathing suit."
+  },
+  {
+    "id": 983,
+    "english": "whole",
+    "uzbek": "butun",
+    "example": "Gave his whole attention."
+  },
+  {
+    "id": 984,
+    "english": "wide",
+    "uzbek": "keng",
+    "example": "Wide roads."
+  },
+  {
+    "id": 985,
+    "english": "widely",
+    "uzbek": "keng miqyosda",
+    "example": "Her work is widely known."
+  },
+  {
+    "id": 986,
+    "english": "wild",
+    "uzbek": "yovvoyi",
+    "example": "Wild talk."
+  },
+  {
+    "id": 987,
+    "english": "wine",
+    "uzbek": "sharob",
+    "example": "I opened a bottle of wine to pair with the salmon dinner."
+  },
+  {
+    "id": 988,
+    "english": "winner",
+    "uzbek": "g‘olib",
+    "example": "The tennis tournament winner celebrated on the court with her team."
+  },
+  {
+    "id": 989,
+    "english": "wisdom",
+    "uzbek": "donolik",
+    "example": "Ancient philosophers accumulated wisdom through years of study and reflection."
+  },
+  {
+    "id": 990,
+    "english": "wise",
+    "uzbek": "aqlli",
+    "example": "A wise leader."
+  },
+  {
+    "id": 991,
+    "english": "wish",
+    "uzbek": "xohlamoq",
+    "example": "I wish I could go home now."
+  },
+  {
+    "id": 992,
+    "english": "wonder",
+    "uzbek": "qiziqmoq",
+    "example": "He wondered who had built this beautiful church."
+  },
+  {
+    "id": 993,
+    "english": "wood",
+    "uzbek": "yog‘och",
+    "example": "The wooden table was made from oak wood harvested years ago."
+  },
+  {
+    "id": 994,
+    "english": "wooden",
+    "uzbek": "yog‘ochdan yasalgan",
+    "example": "The actor's performance was wooden."
+  },
+  {
+    "id": 995,
+    "english": "wool",
+    "uzbek": "jun",
+    "example": "I bought a wool coat that keeps me warm all winter long."
+  },
+  {
+    "id": 996,
+    "english": "worry",
+    "uzbek": "tashvishlanmoq",
+    "example": "I worry about my job."
+  },
+  {
+    "id": 997,
+    "english": "writing",
+    "uzbek": "yozilgan narsa",
+    "example": "Writing was a form of therapy for him."
+  },
+  {
+    "id": 998,
+    "english": "yeah",
+    "uzbek": "ha",
+    "example": "Yeah, I would like some tea."
+  },
+  {
+    "id": 999,
+    "english": "youth",
+    "uzbek": "yoshlik",
+    "example": "The youth at the community center helped us clean up the park."
+  },
+  {
+    "id": 1000,
+    "english": "zone",
+    "uzbek": "zona",
+    "example": "The industrial zone on the east side of town houses several large factories."
+  }
+]

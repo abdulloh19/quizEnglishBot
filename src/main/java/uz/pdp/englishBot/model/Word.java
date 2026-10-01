@@ -13,5 +13,6 @@ public class Word {
     private String english;
     private String uzbek;
     private String example;
+    private String level;
 
 }

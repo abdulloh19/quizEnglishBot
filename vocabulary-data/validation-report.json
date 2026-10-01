@@ -1,0 +1,31 @@
+{
+  "validation_date": "2026-10-01",
+  "bot_repository_load": "passed for all three files over local HTTP",
+  "linguistic_review": "partial; not fully expert-reviewed",
+  "files": {
+    "a2.json": {
+      "records": 1000,
+      "unique_ids": 1000,
+      "unique_words": 1000,
+      "blank_fields": 0,
+      "unique_translations": 949,
+      "sha256": "a0237341305ab7d3d454dafc96890f53a9456c714aa505726afcfce125ac5f17"
+    },
+    "b1.json": {
+      "records": 1500,
+      "unique_ids": 1500,
+      "unique_words": 1500,
+      "blank_fields": 0,
+      "unique_translations": 1390,
+      "sha256": "f3dc5533e9bd8840e4aa0d7fbf63bc34d256e35c9bade89eab41c9f4b4427aa7"
+    },
+    "b2.json": {
+      "records": 2000,
+      "unique_ids": 2000,
+      "unique_words": 2000,
+      "blank_fields": 0,
+      "unique_translations": 1865,
+      "sha256": "034ae0cfbca22d7d454b006d76b58cbc946048a501ded1f7df500ae7c11d4dc6"
+    }
+  }
+}

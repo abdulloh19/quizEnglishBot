@@ -4,21 +4,59 @@
     "name": "Abu",
     "score": 1,
     "correctAnswer": 1,
-    "wrongAnswer": 1,
+    "wrongAnswer": 0,
     "wordOrder": [
-      2,
-      4,
-      10,
-      12,
-      3,
-      11,
-      8,
-      9,
-      7,
-      5,
-      6,
-      1
+      662,
+      540,
+      500,
+      672,
+      590,
+      626,
+      639,
+      545,
+      568,
+      56,
+      394,
+      193,
+      385,
+      171,
+      601
     ],
-    "currentWordIndex": 12
+    "currentWordIndex": 10,
+    "dailyWordIds": [
+      540,
+      500,
+      672,
+      590,
+      626,
+      639,
+      545,
+      568,
+      56,
+      394,
+      193,
+      385,
+      171,
+      601
+    ],
+    "dailyDate": "2026-10-01",
+    "wordCorrectCounts": {},
+    "level": "A1",
+    "dailySeenWordIds": [
+      662,
+      540,
+      500,
+      672,
+      590,
+      626,
+      639,
+      545,
+      568,
+      56
+    ],
+    "wordCorrectCountsByKey": {
+      "A1:but": 2
+    },
+    "scoreCalculationVersion": 2
   }
 ]

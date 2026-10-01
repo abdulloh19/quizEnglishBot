@@ -1,0 +1,5042 @@
+[
+  {
+    "english": "after",
+    "example": "and Jill came tumbling after",
+    "pos": "adverb",
+    "definition": "behind or in the rear",
+    "rank": 103877,
+    "level": "A2",
+    "id": 23
+  },
+  {
+    "english": "amusement",
+    "example": "The children's amusement was obvious when the clown started juggling.",
+    "pos": "noun",
+    "definition": "a feeling of delight at being entertained",
+    "rank": 10485,
+    "level": "A2",
+    "id": 32
+  },
+  {
+    "english": "angrily",
+    "example": "he angrily denied the accusation",
+    "pos": "adverb",
+    "definition": "with anger",
+    "rank": 18482,
+    "level": "A2",
+    "id": 36
+  },
+  {
+    "english": "annoying",
+    "example": "tapping an annoying rhythm on his glass with his fork",
+    "pos": "adjective",
+    "definition": "causing irritation or annoyance",
+    "rank": 3599,
+    "level": "A2",
+    "id": 39
+  },
+  {
+    "english": "anymore",
+    "example": "Alice doesn't live here anymore",
+    "pos": "adverb",
+    "definition": "at the present or from now on; usually used with a negative",
+    "rank": 1212,
+    "level": "A2",
+    "id": 41
+  },
+  {
+    "english": "apparently",
+    "example": "irrigation often produces bumper crops from apparently desert land",
+    "pos": "adverb",
+    "definition": "from appearances alone; ; ; -Thomas Hardy",
+    "rank": 1655,
+    "level": "A2",
+    "id": 45
+  },
+  {
+    "english": "armchair",
+    "example": "I sank into the comfortable armchair and put my feet up after work.",
+    "pos": "noun",
+    "definition": "chair with a support on each side for arms",
+    "rank": 21999,
+    "level": "A2",
+    "id": 56
+  },
+  {
+    "english": "automatically",
+    "example": "he answered automatically",
+    "pos": "adverb",
+    "definition": "in a reflex manner",
+    "rank": 2875,
+    "level": "A2",
+    "id": 72
+  },
+  {
+    "english": "badly",
+    "example": "fingers so badly frozen they had to be amputated",
+    "pos": "adverb",
+    "definition": "to a severe or serious degree",
+    "rank": 3351,
+    "level": "A2",
+    "id": 78
+  },
+  {
+    "english": "basically",
+    "example": "He is basically dishonest",
+    "pos": "adverb",
+    "definition": "in essence; at bottom or by one's (or its) very nature",
+    "rank": 2327,
+    "level": "A2",
+    "id": 88
+  },
+  {
+    "english": "battery",
+    "example": "The military positioned an artillery battery on the hill overlooking the valley.",
+    "pos": "noun",
+    "definition": "group of guns or missile launchers operated together at one place",
+    "rank": 2877,
+    "level": "A2",
+    "id": 91
+  },
+  {
+    "english": "beginning",
+    "example": "the beginning of the war",
+    "pos": "noun",
+    "definition": "the event consisting of the start of something",
+    "rank": 1066,
+    "level": "A2",
+    "id": 98
+  },
+  {
+    "english": "belong",
+    "example": "This book belongs to me",
+    "pos": "verb",
+    "definition": "be owned by; be in the possession of",
+    "rank": 3740,
+    "level": "A2",
+    "id": 100
+  },
+  {
+    "english": "bookshelf",
+    "example": "I organized all my novels neatly on the wooden bookshelf in my bedroom.",
+    "pos": "noun",
+    "definition": "a shelf on which to keep books",
+    "rank": 31880,
+    "level": "A2",
+    "id": 117
+  },
+  {
+    "english": "clearly",
+    "example": "they were clearly lost",
+    "pos": "adverb",
+    "definition": "without doubt or question",
+    "rank": 1265,
+    "level": "A2",
+    "id": 174
+  },
+  {
+    "english": "commitment",
+    "example": "a man of energy and commitment",
+    "pos": "noun",
+    "definition": "the trait of sincere and steadfast fixity of purpose",
+    "rank": 3416,
+    "level": "A2",
+    "id": 185
+  },
+  {
+    "english": "cooler",
+    "example": "We packed a cooler full of ice and cold beverages for the beach trip.",
+    "pos": "noun",
+    "definition": "a refrigerator for cooling liquids",
+    "rank": 31935,
+    "level": "A2",
+    "id": 214
+  },
+  {
+    "english": "correctly",
+    "example": "the flower had been correctly depicted by his son",
+    "pos": "adverb",
+    "definition": "in an accurate manner",
+    "rank": 5020,
+    "level": "A2",
+    "id": 215
+  },
+  {
+    "english": "countryside",
+    "example": "We drove through the beautiful countryside to escape the city for the weekend.",
+    "pos": "noun",
+    "definition": "rural regions",
+    "rank": 8019,
+    "level": "A2",
+    "id": 219
+  },
+  {
+    "english": "creativity",
+    "example": "Her creativity allowed her to design innovative solutions nobody else considered.",
+    "pos": "noun",
+    "definition": "the ability to create",
+    "rank": 7001,
+    "level": "A2",
+    "id": 225
+  },
+  {
+    "english": "deeply",
+    "example": "They felt the loss deeply",
+    "pos": "adverb",
+    "definition": "to a great depth psychologically",
+    "rank": 3358,
+    "level": "A2",
+    "id": 252
+  },
+  {
+    "english": "differently",
+    "example": "very soon you will know differently",
+    "pos": "adverb",
+    "definition": "in another and different manner",
+    "rank": 4845,
+    "level": "A2",
+    "id": 267
+  },
+  {
+    "english": "disappointing",
+    "example": "a disappointing performance from one who had seemed so promising",
+    "pos": "adjective",
+    "definition": "not up to expectations",
+    "rank": 6894,
+    "level": "A2",
+    "id": 275
+  },
+  {
+    "english": "educational",
+    "example": "educational psychology",
+    "pos": "adjective",
+    "definition": "relating to the process of education",
+    "rank": 2481,
+    "level": "A2",
+    "id": 307
+  },
+  {
+    "english": "extremely",
+    "example": "extremely cold",
+    "pos": "adverb",
+    "definition": "to an extreme degree",
+    "rank": 1692,
+    "level": "A2",
+    "id": 347
+  },
+  {
+    "english": "far",
+    "example": "a far far better thing that I do",
+    "pos": "adverb",
+    "definition": "to a considerable degree; very much",
+    "rank": 295,
+    "level": "A2",
+    "id": 356
+  },
+  {
+    "english": "fascinating",
+    "example": "a fascinating story",
+    "pos": "adjective",
+    "definition": "capable of arousing and holding the attention",
+    "rank": 5789,
+    "level": "A2",
+    "id": 358
+  },
+  {
+    "english": "greatly",
+    "example": "he improved greatly",
+    "pos": "adverb",
+    "definition": "to an extraordinary extent or degree",
+    "rank": 4090,
+    "level": "A2",
+    "id": 422
+  },
+  {
+    "english": "guidebook",
+    "example": "I bought a guidebook to help me learn basic photography techniques quickly.",
+    "pos": "noun",
+    "definition": "something that offers basic information or instruction",
+    "rank": 30818,
+    "level": "A2",
+    "id": 425
+  },
+  {
+    "english": "happily",
+    "example": "happily he was not injured",
+    "pos": "adverb",
+    "definition": "in an unexpectedly lucky way",
+    "rank": 5970,
+    "level": "A2",
+    "id": 429
+  },
+  {
+    "english": "harvest",
+    "example": "The farmer was pleased with this year's harvest of corn and soybeans.",
+    "pos": "noun",
+    "definition": "the yield from plants in a single growing season",
+    "rank": 6792,
+    "level": "A2",
+    "id": 434
+  },
+  {
+    "english": "heavily",
+    "example": "he relied heavily on others' data",
+    "pos": "adverb",
+    "definition": "to a considerable degree",
+    "rank": 2793,
+    "level": "A2",
+    "id": 437
+  },
+  {
+    "english": "importantly",
+    "example": "more importantly, Weber held that the manifold meaning attached to the event by the social scientist could alter his definition of the concrete event itself",
+    "pos": "adverb",
+    "definition": "in an important way or to an important degree",
+    "rank": 6148,
+    "level": "A2",
+    "id": 460
+  },
+  {
+    "english": "inch",
+    "example": "The board is exactly twelve inches long, so it fits perfectly in the frame.",
+    "pos": "noun",
+    "definition": "a unit of length equal to one twelfth of a foot",
+    "rank": 3067,
+    "level": "A2",
+    "id": 464
+  },
+  {
+    "english": "it",
+    "example": "She studied IT in college because she loved working with computers and networks.",
+    "pos": "noun",
+    "definition": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+    "rank": 104882,
+    "level": "A2",
+    "id": 487
+  },
+  {
+    "english": "kindly",
+    "example": "a kindly climate",
+    "pos": "adjective",
+    "definition": "pleasant and agreeable",
+    "rank": 7150,
+    "level": "A2",
+    "id": 496
+  },
+  {
+    "english": "latest",
+    "example": "She always wears the latest fashion trends from designer brands.",
+    "pos": "adjective",
+    "definition": "in the current fashion or style",
+    "rank": 104934,
+    "level": "A2",
+    "id": 506
+  },
+  {
+    "english": "lifestyle",
+    "example": "Her sustainable lifestyle reflects her deep commitment to environmental conservation.",
+    "pos": "noun",
+    "definition": "a manner of living that reflects the person's values and attitudes",
+    "rank": 104973,
+    "level": "A2",
+    "id": 520
+  },
+  {
+    "english": "loudly",
+    "example": "the band played loudly",
+    "pos": "adverb",
+    "definition": "with relatively high volume",
+    "rank": 9778,
+    "level": "A2",
+    "id": 533
+  },
+  {
+    "english": "lunchtime",
+    "example": "he observed a regular lunchtime",
+    "pos": "noun",
+    "definition": "the customary or habitual hour for eating lunch",
+    "rank": 18877,
+    "level": "A2",
+    "id": 536
+  },
+  {
+    "english": "max",
+    "example": "The police warned teenagers about the dangers of taking max at parties.",
+    "pos": "noun",
+    "definition": "street names for gamma hydroxybutyrate",
+    "rank": 2222,
+    "level": "A2",
+    "id": 552
+  },
+  {
+    "english": "olympic",
+    "example": "Olympic winners",
+    "pos": "adjective",
+    "definition": "of or relating to the Olympic Games",
+    "rank": 3076,
+    "level": "A2",
+    "id": 609
+  },
+  {
+    "english": "pacific",
+    "example": "the pacific temper seeks to settle disputes on grounds of justice rather than by force",
+    "pos": "adjective",
+    "definition": "disposed to peace or of a peaceful nature",
+    "rank": 2548,
+    "level": "A2",
+    "id": 622
+  },
+  {
+    "english": "perfectly",
+    "example": "She performed perfectly on the balance beam",
+    "pos": "adverb",
+    "definition": "in a perfect or faultless way",
+    "rank": 2458,
+    "level": "A2",
+    "id": 639
+  },
+  {
+    "english": "physically",
+    "example": "it is physically impossible",
+    "pos": "adverb",
+    "definition": "in accord with physical laws",
+    "rank": 4321,
+    "level": "A2",
+    "id": 650
+  },
+  {
+    "english": "pro",
+    "example": "She turned pro at twenty-two and signed with a major league team.",
+    "pos": "noun",
+    "definition": "an athlete who plays for pay",
+    "rank": 1232,
+    "level": "A2",
+    "id": 687
+  },
+  {
+    "english": "quietly",
+    "example": "the class was listening quietly and intently",
+    "pos": "adverb",
+    "definition": "with little or no sound",
+    "rank": 5620,
+    "level": "A2",
+    "id": 706
+  },
+  {
+    "english": "regularly",
+    "example": "letters arrived regularly from his children",
+    "pos": "adverb",
+    "definition": "in a regular manner",
+    "rank": 2911,
+    "level": "A2",
+    "id": 729
+  },
+  {
+    "english": "sadly",
+    "example": "sadly he died before he could see his grandchild",
+    "pos": "adverb",
+    "definition": "in an unfortunate way",
+    "rank": 5358,
+    "level": "A2",
+    "id": 764
+  },
+  {
+    "english": "sausage",
+    "example": "I grilled some spicy Italian sausage for dinner last night.",
+    "pos": "noun",
+    "definition": "highly seasoned minced meat stuffed in casings",
+    "rank": 9668,
+    "level": "A2",
+    "id": 770
+  },
+  {
+    "english": "scale",
+    "example": "judging on a scale of 1 to 10",
+    "pos": "noun",
+    "definition": "an ordered reference standard",
+    "rank": 1575,
+    "level": "A2",
+    "id": 771
+  },
+  {
+    "english": "schoolwork",
+    "example": "My daughter stayed up late finishing her schoolwork before the deadline.",
+    "pos": "noun",
+    "definition": "a school task performed by a student to satisfy the teacher",
+    "rank": 39546,
+    "level": "A2",
+    "id": 776
+  },
+  {
+    "english": "seafood",
+    "example": "We ordered the seafood platter with shrimp, scallops, and fresh oysters.",
+    "pos": "noun",
+    "definition": "edible fish (broadly including freshwater fish) or shellfish or roe etc",
+    "rank": 12138,
+    "level": "A2",
+    "id": 783
+  },
+  {
+    "english": "smoothly",
+    "example": "put the plans into effect quickly and smoothly",
+    "pos": "adverb",
+    "definition": "with no problems or difficulties",
+    "rank": 11609,
+    "level": "A2",
+    "id": 826
+  },
+  {
+    "english": "softly",
+    "example": "speak softly but carry a big stick",
+    "pos": "adverb",
+    "definition": "with low volume",
+    "rank": 10133,
+    "level": "A2",
+    "id": 834
+  },
+  {
+    "english": "someday",
+    "example": "someday you will understand my actions",
+    "pos": "adverb",
+    "definition": "some unspecified time in the future",
+    "rank": 6622,
+    "level": "A2",
+    "id": 837
+  },
+  {
+    "english": "strongly",
+    "example": "argues very strongly for his proposal",
+    "pos": "adverb",
+    "definition": "with strength or in a strong manner",
+    "rank": 3197,
+    "level": "A2",
+    "id": 872
+  },
+  {
+    "english": "successfully",
+    "example": "she performed the surgery successfully",
+    "pos": "adverb",
+    "definition": "with success; in a successful manner",
+    "rank": 3337,
+    "level": "A2",
+    "id": 879
+  },
+  {
+    "english": "sweetheart",
+    "example": "My sweetheart and I have been together for five wonderful years now.",
+    "pos": "noun",
+    "definition": "a person loved by another person",
+    "rank": 10619,
+    "level": "A2",
+    "id": 892
+  },
+  {
+    "english": "swimsuit",
+    "example": "She bought a new swimsuit for her beach vacation next week.",
+    "pos": "noun",
+    "definition": "tight fitting garment worn for swimming",
+    "rank": 20241,
+    "level": "A2",
+    "id": 893
+  },
+  {
+    "english": "tablespoon",
+    "example": "Add a tablespoon of honey to your tea for sweetness.",
+    "pos": "noun",
+    "definition": "as much as a tablespoon will hold",
+    "rank": 23120,
+    "level": "A2",
+    "id": 897
+  },
+  {
+    "english": "teenage",
+    "example": "teenage mothers",
+    "pos": "adjective",
+    "definition": "being of the age 13 through 19",
+    "rank": 5743,
+    "level": "A2",
+    "id": 902
+  },
+  {
+    "english": "teenager",
+    "example": "My teenager is dealing with all the typical hormonal changes of puberty right now.",
+    "pos": "noun",
+    "definition": "a juvenile between the onset of puberty and maturity",
+    "rank": 6191,
+    "level": "A2",
+    "id": 903
+  },
+  {
+    "english": "timetable",
+    "example": "The conference timetable shows that the keynote speech starts at 9 AM.",
+    "pos": "noun",
+    "definition": "a schedule listing events and the times at which they will take place",
+    "rank": 16368,
+    "level": "A2",
+    "id": 913
+  },
+  {
+    "english": "toothbrush",
+    "example": "I need to buy a new electric toothbrush for my bathroom.",
+    "pos": "noun",
+    "definition": "small brush; has long handle; used to clean teeth",
+    "rank": 17736,
+    "level": "A2",
+    "id": 920
+  },
+  {
+    "english": "weekday",
+    "example": "Most shops close earlier on weekdays than they do on weekends.",
+    "pos": "noun",
+    "definition": "any day except Sunday (and sometimes except Saturday)",
+    "rank": 19502,
+    "level": "A2",
+    "id": 977
+  },
+  {
+    "english": "widely",
+    "example": "her work is widely known",
+    "pos": "adverb",
+    "definition": "to a great degree",
+    "rank": 2814,
+    "level": "A2",
+    "id": 985
+  },
+  {
+    "english": "accurately",
+    "example": "he works very accurately",
+    "pos": "adverb",
+    "definition": "with few mistakes",
+    "rank": 7193,
+    "level": "B1",
+    "id": 24
+  },
+  {
+    "english": "achievement",
+    "example": "Getting the job required years of hard work and achievement.",
+    "pos": "noun",
+    "definition": "the action of accomplishing something",
+    "rank": 3857,
+    "level": "B1",
+    "id": 25
+  },
+  {
+    "english": "agricultural",
+    "example": "an agrarian (or agricultural) society",
+    "pos": "adjective",
+    "definition": "relating to rural matters",
+    "rank": 3997,
+    "level": "B1",
+    "id": 44
+  },
+  {
+    "english": "alcoholic",
+    "example": "alcoholic drinks",
+    "pos": "adjective",
+    "definition": "characteristic of or containing alcohol",
+    "rank": 8114,
+    "level": "B1",
+    "id": 50
+  },
+  {
+    "english": "allergic",
+    "example": "an allergic reaction",
+    "pos": "adjective",
+    "definition": "characterized by or caused by allergy",
+    "rank": 9845,
+    "level": "B1",
+    "id": 52
+  },
+  {
+    "english": "amazing",
+    "example": "she does an amazing amount of work",
+    "pos": "adjective",
+    "definition": "surprising greatly",
+    "rank": 821,
+    "level": "B1",
+    "id": 57
+  },
+  {
+    "english": "annually",
+    "example": "they travel to China annually",
+    "pos": "adverb",
+    "definition": "without missing a year",
+    "rank": 5472,
+    "level": "B1",
+    "id": 67
+  },
+  {
+    "english": "apology",
+    "example": "he wrote a letter of apology to the hostess",
+    "pos": "noun",
+    "definition": "an expression of regret at having caused trouble for someone",
+    "rank": 6541,
+    "level": "B1",
+    "id": 71
+  },
+  {
+    "english": "awareness",
+    "example": "he had no awareness of his mistakes",
+    "pos": "noun",
+    "definition": "having knowledge of",
+    "rank": 3350,
+    "level": "B1",
+    "id": 115
+  },
+  {
+    "english": "beautifully",
+    "example": "her face was beautifully made up",
+    "pos": "adverb",
+    "definition": "in a beautiful manner",
+    "rank": 8010,
+    "level": "B1",
+    "id": 137
+  },
+  {
+    "english": "blend",
+    "example": "blend the nuts and raisins together",
+    "pos": "verb",
+    "definition": "combine into one",
+    "rank": 7653,
+    "level": "B1",
+    "id": 152
+  },
+  {
+    "english": "booking",
+    "example": "the play had bookings throughout the summer",
+    "pos": "noun",
+    "definition": "employment for performers or performing groups that lasts for a limited period of time",
+    "rank": 8760,
+    "level": "B1",
+    "id": 160
+  },
+  {
+    "english": "breakthrough",
+    "example": "After months of struggle, she had a breakthrough about how to solve the problem.",
+    "pos": "noun",
+    "definition": "a productive insight",
+    "rank": 9143,
+    "level": "B1",
+    "id": 169
+  },
+  {
+    "english": "breeding",
+    "example": "Her refined breeding showed in the graceful way she moved through the room.",
+    "pos": "noun",
+    "definition": "elegance by virtue of fineness of manner and expression",
+    "rank": 6214,
+    "level": "B1",
+    "id": 173
+  },
+  {
+    "english": "briefly",
+    "example": "she visited him briefly",
+    "pos": "adverb",
+    "definition": "for a short time",
+    "rank": 4923,
+    "level": "B1",
+    "id": 176
+  },
+  {
+    "english": "buyer",
+    "example": "The buyer inspected the house carefully before deciding to make an offer.",
+    "pos": "noun",
+    "definition": "a person who buys",
+    "rank": 5482,
+    "level": "B1",
+    "id": 194
+  },
+  {
+    "english": "calculation",
+    "example": "The calculation of the loan interest took just a few minutes with the right formula.",
+    "pos": "noun",
+    "definition": "the procedure of calculating; determining something by mathematical or logical methods",
+    "rank": 8648,
+    "level": "B1",
+    "id": 198
+  },
+  {
+    "english": "caller",
+    "example": "The caller purchased stock options expecting the price to rise significantly.",
+    "pos": "noun",
+    "definition": "an investor who buys a call option",
+    "rank": 12737,
+    "level": "B1",
+    "id": 200
+  },
+  {
+    "english": "challenging",
+    "example": "a challenging hypothesis",
+    "pos": "adjective",
+    "definition": "stimulating interest or thought",
+    "rank": 4508,
+    "level": "B1",
+    "id": 226
+  },
+  {
+    "english": "closely",
+    "example": "the onsets were closely timed",
+    "pos": "adverb",
+    "definition": "in a close relation or position in time or space",
+    "rank": 2824,
+    "level": "B1",
+    "id": 252
+  },
+  {
+    "english": "coastal",
+    "example": "coastal erosion",
+    "pos": "adjective",
+    "definition": "of or relating to a coast",
+    "rank": 5200,
+    "level": "B1",
+    "id": 254
+  },
+  {
+    "english": "cod",
+    "example": "The pea cod split open, revealing dozens of tiny green seeds inside.",
+    "pos": "noun",
+    "definition": "the vessel that contains the seeds of a plant (not the seeds themselves)",
+    "rank": 8399,
+    "level": "B1",
+    "id": 255
+  },
+  {
+    "english": "columnist",
+    "example": "The political columnist wrote a scathing editorial about the new tax policy.",
+    "pos": "noun",
+    "definition": "a journalist who writes editorials",
+    "rank": 13306,
+    "level": "B1",
+    "id": 259
+  },
+  {
+    "english": "completely",
+    "example": "he had filled out the form completely",
+    "pos": "adverb",
+    "definition": "so as to be complete; with everything necessary",
+    "rank": 1070,
+    "level": "B1",
+    "id": 275
+  },
+  {
+    "english": "confusing",
+    "example": "a confusing jumble of road signs",
+    "pos": "adjective",
+    "definition": "causing confusion or disorientation",
+    "rank": 6884,
+    "level": "B1",
+    "id": 289
+  },
+  {
+    "english": "constantly",
+    "example": "the world is constantly changing",
+    "pos": "adverb",
+    "definition": "without interruption",
+    "rank": 2825,
+    "level": "B1",
+    "id": 299
+  },
+  {
+    "english": "continually",
+    "example": "complained continually that there wasn't enough money",
+    "pos": "adverb",
+    "definition": "seemingly without interruption",
+    "rank": 8134,
+    "level": "B1",
+    "id": 305
+  },
+  {
+    "english": "continuously",
+    "example": "The function is continuously differentiable",
+    "pos": "adverb",
+    "definition": "at every point",
+    "rank": 7436,
+    "level": "B1",
+    "id": 307
+  },
+  {
+    "english": "cv",
+    "example": "You should update your CV before applying for that new job.",
+    "pos": "noun",
+    "definition": "a summary of your academic and work history",
+    "rank": 12748,
+    "level": "B1",
+    "id": 341
+  },
+  {
+    "english": "deadline",
+    "example": "We need to finish the project before the Friday deadline arrives.",
+    "pos": "noun",
+    "definition": "the point in time at which something must be completed",
+    "rank": 5871,
+    "level": "B1",
+    "id": 347
+  },
+  {
+    "english": "defender",
+    "example": "The security guard was an excellent defender of the building and its residents.",
+    "pos": "noun",
+    "definition": "a person who cares for persons or property",
+    "rank": 5954,
+    "level": "B1",
+    "id": 360
+  },
+  {
+    "english": "delivery",
+    "example": "his reluctant delivery of bad news",
+    "pos": "noun",
+    "definition": "the act of delivering or distributing something (as goods or mail)",
+    "rank": 2528,
+    "level": "B1",
+    "id": 369
+  },
+  {
+    "english": "depressing",
+    "example": "the economic outlook is depressing",
+    "pos": "adjective",
+    "definition": "causing sad feelings of gloom and inadequacy",
+    "rank": 9162,
+    "level": "B1",
+    "id": 379
+  },
+  {
+    "english": "dioxide",
+    "example": "Carbon dioxide is the main greenhouse gas driving climate change today.",
+    "pos": "noun",
+    "definition": "an oxide containing two atoms of oxygen in the molecule",
+    "rank": 9457,
+    "level": "B1",
+    "id": 403
+  },
+  {
+    "english": "directly",
+    "example": "the path leads directly to the lake",
+    "pos": "adverb",
+    "definition": "without deviation",
+    "rank": 1330,
+    "level": "B1",
+    "id": 405
+  },
+  {
+    "english": "disagreement",
+    "example": "The couple's disagreement about where to live nearly ended their relationship.",
+    "pos": "noun",
+    "definition": "a conflict of people's opinions or actions or characters",
+    "rank": 11875,
+    "level": "B1",
+    "id": 409
+  },
+  {
+    "english": "doc",
+    "example": "The doc oversees international trade agreements and patent approvals nationwide.",
+    "pos": "noun",
+    "definition": "the United States federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913",
+    "rank": 3875,
+    "level": "B1",
+    "id": 432
+  },
+  {
+    "english": "dusty",
+    "example": "a dusty pile of books",
+    "pos": "adjective",
+    "definition": "covered with a layer of dust",
+    "rank": 11690,
+    "level": "B1",
+    "id": 443
+  },
+  {
+    "english": "ecological",
+    "example": "an ecological disaster",
+    "pos": "adjective",
+    "definition": "characterized by the interdependence of living organisms in an environment",
+    "rank": 9884,
+    "level": "B1",
+    "id": 449
+  },
+  {
+    "english": "embarrassment",
+    "example": "She felt deep embarrassment when her boss revealed her mistake to the entire team.",
+    "pos": "noun",
+    "definition": "the shame you feel when your inadequacy or guilt is made public",
+    "rank": 10041,
+    "level": "B1",
+    "id": 466
+  },
+  {
+    "english": "emotionally",
+    "example": "at the funeral he spoke emotionally",
+    "pos": "adverb",
+    "definition": "in an emotional manner",
+    "rank": 6682,
+    "level": "B1",
+    "id": 469
+  },
+  {
+    "english": "environmental",
+    "example": "environmental factors",
+    "pos": "adjective",
+    "definition": "of or relating to the external conditions or surroundings",
+    "rank": 2040,
+    "level": "B1",
+    "id": 490
+  },
+  {
+    "english": "equally",
+    "example": "they were equally beautiful",
+    "pos": "adverb",
+    "definition": "to the same degree (often followed by `as')",
+    "rank": 3689,
+    "level": "B1",
+    "id": 493
+  },
+  {
+    "english": "evenly",
+    "example": "a class evenly divided between girls and boys",
+    "pos": "adverb",
+    "definition": "in equal amounts or shares; in a balanced or impartial way",
+    "rank": 12043,
+    "level": "B1",
+    "id": 501
+  },
+  {
+    "english": "excellence",
+    "example": "Her excellence in mathematics made her the top student in class.",
+    "pos": "noun",
+    "definition": "the quality of excelling; possessing good qualities in high degree",
+    "rank": 6356,
+    "level": "B1",
+    "id": 505
+  },
+  {
+    "english": "extensively",
+    "example": "oxidation ponds are extensively used for sewage treatment in the Midwest",
+    "pos": "adverb",
+    "definition": "in a widespread way",
+    "rank": 8664,
+    "level": "B1",
+    "id": 518
+  },
+  {
+    "english": "extinct",
+    "example": "an extinct species of fish",
+    "pos": "adjective",
+    "definition": "no longer in existence; lost or especially having died out leaving no living representatives",
+    "rank": 11889,
+    "level": "B1",
+    "id": 520
+  },
+  {
+    "english": "extinction",
+    "example": "the extinction of the volcano",
+    "pos": "noun",
+    "definition": "no longer active; extinguished",
+    "rank": 10209,
+    "level": "B1",
+    "id": 521
+  },
+  {
+    "english": "firmly",
+    "example": "we firmly believed it",
+    "pos": "adverb",
+    "definition": "with resolute determination",
+    "rank": 7134,
+    "level": "B1",
+    "id": 544
+  },
+  {
+    "english": "formally",
+    "example": "the club will be formally recognized",
+    "pos": "adverb",
+    "definition": "with official authorization",
+    "rank": 7011,
+    "level": "B1",
+    "id": 562
+  },
+  {
+    "english": "freely",
+    "example": "the painting featured freely brushed strokes",
+    "pos": "adverb",
+    "definition": "in a free manner",
+    "rank": 6359,
+    "level": "B1",
+    "id": 571
+  },
+  {
+    "english": "furnish",
+    "example": "We furnished the house in the Biedermeyer style",
+    "pos": "verb",
+    "definition": "provide or equip with furniture",
+    "rank": 12052,
+    "level": "B1",
+    "id": 584
+  },
+  {
+    "english": "gardening",
+    "example": "My mom loves gardening and grows vegetables every summer.",
+    "pos": "noun",
+    "definition": "the cultivation of plants",
+    "rank": 11702,
+    "level": "B1",
+    "id": 592
+  },
+  {
+    "english": "geographical",
+    "example": "Our geographical studies focused on how mountains shape regional weather patterns.",
+    "pos": "adjective",
+    "definition": "of or relating to the science of geography",
+    "rank": 8935,
+    "level": "B1",
+    "id": 599
+  },
+  {
+    "english": "guitarist",
+    "example": "The talented guitarist played an amazing solo during the concert last night.",
+    "pos": "noun",
+    "definition": "a musician who plays the guitar",
+    "rank": 12432,
+    "level": "B1",
+    "id": 633
+  },
+  {
+    "english": "hammer",
+    "example": "The hammer struck the percussion cap and fired the revolver.",
+    "pos": "noun",
+    "definition": "the part of a gunlock that strikes the percussion cap when the trigger is pulled",
+    "rank": 5501,
+    "level": "B1",
+    "id": 637
+  },
+  {
+    "english": "honestly",
+    "example": "honestly, I don't believe it",
+    "pos": "adverb",
+    "definition": "(used as intensives reflecting the speaker's attitude) it is sincerely the case that",
+    "rank": 2075,
+    "level": "B1",
+    "id": 666
+  },
+  {
+    "english": "hopefully",
+    "example": "we searched hopefully for a good position",
+    "pos": "adverb",
+    "definition": "with hope; in a hopeful manner",
+    "rank": 2681,
+    "level": "B1",
+    "id": 671
+  },
+  {
+    "english": "illegally",
+    "example": "they dumped the waste illegally",
+    "pos": "adverb",
+    "definition": "in an illegal manner",
+    "rank": 8679,
+    "level": "B1",
+    "id": 684
+  },
+  {
+    "english": "increasingly",
+    "example": "she became increasingly depressed",
+    "pos": "adverb",
+    "definition": "advancing in amount or intensity",
+    "rank": 3760,
+    "level": "B1",
+    "id": 697
+  },
+  {
+    "english": "incredibly",
+    "example": "behind you the coastal hills plunge to the incredibly blue sea backed by the Turkish mountains",
+    "pos": "adverb",
+    "definition": "not easy to believe",
+    "rank": 3761,
+    "level": "B1",
+    "id": 699
+  },
+  {
+    "english": "indirectly",
+    "example": "he answered very indirectly",
+    "pos": "adverb",
+    "definition": "not in a forthright manner",
+    "rank": 11047,
+    "level": "B1",
+    "id": 702
+  },
+  {
+    "english": "intentionally",
+    "example": "he used that word intentionally",
+    "pos": "adverb",
+    "definition": "with intention; in an intentional manner",
+    "rank": 9351,
+    "level": "B1",
+    "id": 725
+  },
+  {
+    "english": "internationally",
+    "example": "She is internationally known",
+    "pos": "adverb",
+    "definition": "throughout the world",
+    "rank": 7702,
+    "level": "B1",
+    "id": 730
+  },
+  {
+    "english": "kindly",
+    "example": "He spoke kindly to the boy",
+    "pos": "adverb",
+    "definition": "in a kind manner or out of kindness",
+    "rank": 7150,
+    "level": "B1",
+    "id": 760
+  },
+  {
+    "english": "largely",
+    "example": "These accounts are largely inactive",
+    "pos": "adverb",
+    "definition": "in large part; mainly or chiefly",
+    "rank": 2451,
+    "level": "B1",
+    "id": 772
+  },
+  {
+    "english": "legally",
+    "example": "he acted legally",
+    "pos": "adverb",
+    "definition": "in a legal manner",
+    "rank": 5058,
+    "level": "B1",
+    "id": 786
+  },
+  {
+    "english": "lightly",
+    "example": "one cannot say such things lightly",
+    "pos": "adverb",
+    "definition": "without good reason",
+    "rank": 7577,
+    "level": "B1",
+    "id": 794
+  },
+  {
+    "english": "mentally",
+    "example": "he suffered mentally",
+    "pos": "adverb",
+    "definition": "in your mind",
+    "rank": 5144,
+    "level": "B1",
+    "id": 846
+  },
+  {
+    "english": "more",
+    "example": "more interesting",
+    "pos": "adverb",
+    "definition": "used to form the comparative of some adjectives and adverbs",
+    "rank": 49,
+    "level": "B1",
+    "id": 870
+  },
+  {
+    "english": "nearby",
+    "example": "the nearby towns",
+    "pos": "adjective",
+    "definition": "close at hand",
+    "rank": 2745,
+    "level": "B1",
+    "id": 892
+  },
+  {
+    "english": "negotiation",
+    "example": "the buyout negotiation lasted several days",
+    "pos": "noun",
+    "definition": "a discussion intended to produce an agreement",
+    "rank": 5066,
+    "level": "B1",
+    "id": 895
+  },
+  {
+    "english": "newborn",
+    "example": "a newborn infant",
+    "pos": "adjective",
+    "definition": "recently born",
+    "rank": 9923,
+    "level": "B1",
+    "id": 899
+  },
+  {
+    "english": "northeast",
+    "example": "The storm is moving toward the northeast at twenty miles per hour.",
+    "pos": "noun",
+    "definition": "the compass point midway between north and east; at 45 degrees",
+    "rank": 6494,
+    "level": "B1",
+    "id": 905
+  },
+  {
+    "english": "northeastern",
+    "example": "Many northeastern states like Massachusetts and Vermont have long, snowy winters.",
+    "pos": "adjective",
+    "definition": "of a region of the United States generally including the New England states; New York; and sometimes New Jersey and Pennsylvania",
+    "rank": 12287,
+    "level": "B1",
+    "id": 906
+  },
+  {
+    "english": "northwest",
+    "example": "Many tech companies have relocated from California to the Pacific Northwest.",
+    "pos": "noun",
+    "definition": "the northwestern region of the United States",
+    "rank": 5717,
+    "level": "B1",
+    "id": 908
+  },
+  {
+    "english": "northwestern",
+    "example": "The northwestern corner of the park has a beautiful old oak tree.",
+    "pos": "adjective",
+    "definition": "situated in or oriented toward the northwest",
+    "rank": 9785,
+    "level": "B1",
+    "id": 909
+  },
+  {
+    "english": "obviously",
+    "example": "the answer is obviously wrong",
+    "pos": "adverb",
+    "definition": "unmistakably (`plain' is often used informally for `plainly')",
+    "rank": 1668,
+    "level": "B1",
+    "id": 926
+  },
+  {
+    "english": "officially",
+    "example": "officially, he is in charge",
+    "pos": "adverb",
+    "definition": "in an official role",
+    "rank": 2845,
+    "level": "B1",
+    "id": 931
+  },
+  {
+    "english": "parental",
+    "example": "The parental strains were crossed to produce hybrid offspring with desired traits.",
+    "pos": "adjective",
+    "definition": "designating the generation of organisms from which hybrid offspring are produced",
+    "rank": 9931,
+    "level": "B1",
+    "id": 962
+  },
+  {
+    "english": "performer",
+    "example": "The skilled performer captivated the entire audience with her moving piano recital.",
+    "pos": "noun",
+    "definition": "an entertainer who performs a dramatic or musical work for an audience",
+    "rank": 8587,
+    "level": "B1",
+    "id": 977
+  },
+  {
+    "english": "permanently",
+    "example": "he is permanently disabled",
+    "pos": "adverb",
+    "definition": "for a long time without essential change",
+    "rank": 6279,
+    "level": "B1",
+    "id": 979
+  },
+  {
+    "english": "personally",
+    "example": "speaking personally, I would not want to go",
+    "pos": "adverb",
+    "definition": "as yourself",
+    "rank": 2638,
+    "level": "B1",
+    "id": 981
+  },
+  {
+    "english": "phoenix",
+    "example": "My parents decided to retire and move to Phoenix for its warm weather.",
+    "pos": "noun",
+    "definition": "the state capital and largest city located in south central Arizona; situated in a former desert that has become a prosperous agricultural area thanks to irrigation",
+    "rank": 5072,
+    "level": "B1",
+    "id": 987
+  },
+  {
+    "english": "positively",
+    "example": "she intended her remarks to be interpreted positively",
+    "pos": "adverb",
+    "definition": "so as to be positive; in a positive manner",
+    "rank": 8470,
+    "level": "B1",
+    "id": 1012
+  },
+  {
+    "english": "primarily",
+    "example": "this is primarily a question of economics",
+    "pos": "adverb",
+    "definition": "of primary import",
+    "rank": 3125,
+    "level": "B1",
+    "id": 1040
+  },
+  {
+    "english": "properly",
+    "example": "please do your job properly!",
+    "pos": "adverb",
+    "definition": "in the right manner",
+    "rank": 2307,
+    "level": "B1",
+    "id": 1060
+  },
+  {
+    "english": "publicly",
+    "example": "she admitted publicly to being a communist",
+    "pos": "adverb",
+    "definition": "in a manner accessible to or observable by the public; openly",
+    "rank": 4479,
+    "level": "B1",
+    "id": 1073
+  },
+  {
+    "english": "rainfall",
+    "example": "The rainfall last night caused flooding in several neighborhoods across the city.",
+    "pos": "noun",
+    "definition": "water falling in drops from vapor condensed in the atmosphere",
+    "rank": 9386,
+    "level": "B1",
+    "id": 1092
+  },
+  {
+    "english": "regional",
+    "example": "regional flora",
+    "pos": "adjective",
+    "definition": "characteristic of a region",
+    "rank": 1964,
+    "level": "B1",
+    "id": 1118
+  },
+  {
+    "english": "relationship",
+    "example": "the relationship between mothers and their children",
+    "pos": "noun",
+    "definition": "a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness)",
+    "rank": 740,
+    "level": "B1",
+    "id": 1124
+  },
+  {
+    "english": "relatively",
+    "example": "the situation is relatively calm now",
+    "pos": "adverb",
+    "definition": "in a relative manner; by comparison to something else",
+    "rank": 2228,
+    "level": "B1",
+    "id": 1126
+  },
+  {
+    "english": "researcher",
+    "example": "The researcher spent years studying the effects of climate change on coral reefs.",
+    "pos": "noun",
+    "definition": "a scientist who devotes himself to doing research",
+    "rank": 3719,
+    "level": "B1",
+    "id": 1148
+  },
+  {
+    "english": "residential",
+    "example": "a residential requirement for the doctorate",
+    "pos": "adjective",
+    "definition": "of or relating to or connected with residence",
+    "rank": 4115,
+    "level": "B1",
+    "id": 1153
+  },
+  {
+    "english": "safely",
+    "example": "we are safely out of there",
+    "pos": "adverb",
+    "definition": "with safety; in a safe manner",
+    "rank": 4979,
+    "level": "B1",
+    "id": 1186
+  },
+  {
+    "english": "scary",
+    "example": "a scary movie",
+    "pos": "adjective",
+    "definition": "provoking fear terror",
+    "rank": 3845,
+    "level": "B1",
+    "id": 1194
+  },
+  {
+    "english": "scenic",
+    "example": "scenic drives",
+    "pos": "adjective",
+    "definition": "used of locations; having beautiful natural scenery",
+    "rank": 11793,
+    "level": "B1",
+    "id": 1195
+  },
+  {
+    "english": "secretly",
+    "example": "met secretly to discuss the invasion plans",
+    "pos": "adverb",
+    "definition": "in secrecy; not openly",
+    "rank": 7056,
+    "level": "B1",
+    "id": 1204
+  },
+  {
+    "english": "settler",
+    "example": "The first settlers arrived in Australia and built their homes near the coast.",
+    "pos": "noun",
+    "definition": "a person who settles in a new colony or moves into new country",
+    "rank": 10445,
+    "level": "B1",
+    "id": 1218
+  },
+  {
+    "english": "similarly",
+    "example": "He was similarly affected",
+    "pos": "adverb",
+    "definition": "in like or similar manner; ; - Samuel Johnson",
+    "rank": 4334,
+    "level": "B1",
+    "id": 1244
+  },
+  {
+    "english": "socially",
+    "example": "socially accepted norms",
+    "pos": "adverb",
+    "definition": "by or with respect to society",
+    "rank": 7610,
+    "level": "B1",
+    "id": 1259
+  },
+  {
+    "english": "sophomore",
+    "example": "My roommate is a sophomore majoring in biology at the university.",
+    "pos": "noun",
+    "definition": "a second-year undergraduate",
+    "rank": 11468,
+    "level": "B1",
+    "id": 1264
+  },
+  {
+    "english": "southeast",
+    "example": "The compass needle pointed southeast, halfway between south and east.",
+    "pos": "noun",
+    "definition": "the compass point midway between south and east; at 135 degrees",
+    "rank": 5630,
+    "level": "B1",
+    "id": 1270
+  },
+  {
+    "english": "southwest",
+    "example": "The storm is moving toward the southwest at about thirty miles per hour.",
+    "pos": "noun",
+    "definition": "the compass point midway between south and west; at 225 degrees",
+    "rank": 6100,
+    "level": "B1",
+    "id": 1272
+  },
+  {
+    "english": "specially",
+    "example": "a specially arranged dinner",
+    "pos": "adverb",
+    "definition": "in a special manner",
+    "rank": 7064,
+    "level": "B1",
+    "id": 1274
+  },
+  {
+    "english": "steadily",
+    "example": "he could still walk steadily",
+    "pos": "adverb",
+    "definition": "in a steady manner",
+    "rank": 9104,
+    "level": "B1",
+    "id": 1293
+  },
+  {
+    "english": "supportive",
+    "example": "a supportive family network",
+    "pos": "adjective",
+    "definition": "furnishing support or assistance",
+    "rank": 6631,
+    "level": "B1",
+    "id": 1330
+  },
+  {
+    "english": "supposedly",
+    "example": "He's supposedly the best pizza place in town, but I wasn't impressed.",
+    "pos": "adverb",
+    "definition": "believed or reputed to be the case",
+    "rank": 7619,
+    "level": "B1",
+    "id": 1331
+  },
+  {
+    "english": "surprisingly",
+    "example": "he was surprisingly friendly",
+    "pos": "adverb",
+    "definition": "in a surprising manner",
+    "rank": 6187,
+    "level": "B1",
+    "id": 1336
+  },
+  {
+    "english": "teammate",
+    "example": "it was his first start against his former teammates",
+    "pos": "noun",
+    "definition": "a fellow member of a team",
+    "rank": 7402,
+    "level": "B1",
+    "id": 1358
+  },
+  {
+    "english": "teen",
+    "example": "My teen daughter is finally getting her driver's license next month.",
+    "pos": "noun",
+    "definition": "a juvenile between the onset of puberty and maturity",
+    "rank": 4127,
+    "level": "B1",
+    "id": 1362
+  },
+  {
+    "english": "tightly",
+    "example": "the window was tightly sealed",
+    "pos": "adverb",
+    "definition": "securely fixed or fastened",
+    "rank": 10295,
+    "level": "B1",
+    "id": 1382
+  },
+  {
+    "english": "traditionally",
+    "example": "traditionally, we eat fried foods on Hanukah",
+    "pos": "adverb",
+    "definition": "according to tradition; in a traditional manner",
+    "rank": 6532,
+    "level": "B1",
+    "id": 1395
+  },
+  {
+    "english": "transitional",
+    "example": "adolescence is a transitional stage between childhood and adulthood",
+    "pos": "adjective",
+    "definition": "of or relating to or characterized by transition",
+    "rank": 12344,
+    "level": "B1",
+    "id": 1402
+  },
+  {
+    "english": "typically",
+    "example": "Tom was typically hostile",
+    "pos": "adverb",
+    "definition": "in a typical manner",
+    "rank": 2414,
+    "level": "B1",
+    "id": 1415
+  },
+  {
+    "english": "uncertainty",
+    "example": "the uncertainty of the outcome",
+    "pos": "noun",
+    "definition": "being unsettled or in doubt or dependent on chance",
+    "rank": 6852,
+    "level": "B1",
+    "id": 1418
+  },
+  {
+    "english": "unclear",
+    "example": "the law itself was unclear on that point",
+    "pos": "adjective",
+    "definition": "not clear to the mind",
+    "rank": 7994,
+    "level": "B1",
+    "id": 1419
+  },
+  {
+    "english": "unrelated",
+    "example": "The color of your car is completely unrelated to how well it runs.",
+    "pos": "adjective",
+    "definition": "lacking a logical or causal relation",
+    "rank": 9685,
+    "level": "B1",
+    "id": 1432
+  },
+  {
+    "english": "unusually",
+    "example": "she was unusually tall",
+    "pos": "adverb",
+    "definition": "to a remarkable degree or extent",
+    "rank": 10305,
+    "level": "B1",
+    "id": 1433
+  },
+  {
+    "english": "viewpoint",
+    "example": "we should consider this problem from the viewpoint of the Russians",
+    "pos": "noun",
+    "definition": "a mental position from which things are viewed",
+    "rank": 12348,
+    "level": "B1",
+    "id": 1453
+  },
+  {
+    "english": "violently",
+    "example": "they attacked violently",
+    "pos": "adverb",
+    "definition": "in a violent manner",
+    "rank": 12714,
+    "level": "B1",
+    "id": 1455
+  },
+  {
+    "english": "visually",
+    "example": "visually distorted",
+    "pos": "adverb",
+    "definition": "with respect to vision",
+    "rank": 11636,
+    "level": "B1",
+    "id": 1461
+  },
+  {
+    "english": "wagon",
+    "example": "The farmer loaded hay onto his wagon before heading to the barn.",
+    "pos": "noun",
+    "definition": "any of various kinds of wheeled vehicles drawn by an animal or a tractor",
+    "rank": 8378,
+    "level": "B1",
+    "id": 1468
+  },
+  {
+    "english": "wildly",
+    "example": "the storyline is wildly unrealistic",
+    "pos": "adverb",
+    "definition": "to an extreme or greatly exaggerated degree",
+    "rank": 11154,
+    "level": "B1",
+    "id": 1487
+  },
+  {
+    "english": "willingness",
+    "example": "he expressed his willingness to help",
+    "pos": "noun",
+    "definition": "cheerful compliance",
+    "rank": 9422,
+    "level": "B1",
+    "id": 1488
+  },
+  {
+    "english": "worthwhile",
+    "example": "a worthwhile book",
+    "pos": "adjective",
+    "definition": "sufficiently valuable to justify the investment of time or interest",
+    "rank": 10638,
+    "level": "B1",
+    "id": 1495
+  },
+  {
+    "english": "abnormally",
+    "example": "they were behaving abnormally",
+    "pos": "adverb",
+    "definition": "in an abnormal manner",
+    "rank": 26317,
+    "level": "B2",
+    "id": 1
+  },
+  {
+    "english": "absentee",
+    "example": "The absentee from yesterday's meeting really missed out on important updates.",
+    "pos": "noun",
+    "definition": "one that is absent or not in residence",
+    "rank": 23160,
+    "level": "B2",
+    "id": 5
+  },
+  {
+    "english": "accessibility",
+    "example": "The accessibility of fresh water determines whether communities can survive droughts.",
+    "pos": "noun",
+    "definition": "the quality of being at hand when needed",
+    "rank": 14685,
+    "level": "B2",
+    "id": 8
+  },
+  {
+    "english": "accordingly",
+    "example": "she acted accordingly",
+    "pos": "adverb",
+    "definition": "in accordance with",
+    "rank": 6858,
+    "level": "B2",
+    "id": 10
+  },
+  {
+    "english": "actively",
+    "example": "he participated actively in the war",
+    "pos": "adverb",
+    "definition": "in an active manner",
+    "rank": 4816,
+    "level": "B2",
+    "id": 16
+  },
+  {
+    "english": "adaptable",
+    "example": "to succeed one must be adaptable",
+    "pos": "adjective",
+    "definition": "capable of adapting (of becoming or being made suitable) to a particular situation or use",
+    "rank": 24643,
+    "level": "B2",
+    "id": 19
+  },
+  {
+    "english": "addiction",
+    "example": "She struggled with addiction to painkillers after her surgery last year.",
+    "pos": "noun",
+    "definition": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)",
+    "rank": 5656,
+    "level": "B2",
+    "id": 21
+  },
+  {
+    "english": "additionally",
+    "example": "he serves additionally as the CEO",
+    "pos": "adverb",
+    "definition": "in addition, by way of addition; furthermore",
+    "rank": 5097,
+    "level": "B2",
+    "id": 22
+  },
+  {
+    "english": "adequately",
+    "example": "he was adequately prepared",
+    "pos": "adverb",
+    "definition": "in an adequate manner or to an adequate degree",
+    "rank": 12175,
+    "level": "B2",
+    "id": 24
+  },
+  {
+    "english": "adjustment",
+    "example": "Moving to a new country requires a big adjustment to different customs and food.",
+    "pos": "noun",
+    "definition": "making or becoming suitable; adjusting to circumstances",
+    "rank": 8508,
+    "level": "B2",
+    "id": 25
+  },
+  {
+    "english": "administrative",
+    "example": "The administrative team handles all the paperwork and scheduling for our office.",
+    "pos": "adjective",
+    "definition": "of or relating to or responsible for administration",
+    "rank": 3274,
+    "level": "B2",
+    "id": 26
+  },
+  {
+    "english": "admiringly",
+    "example": "he looked at his wife admiringly",
+    "pos": "adverb",
+    "definition": "with admiration",
+    "rank": 89076,
+    "level": "B2",
+    "id": 28
+  },
+  {
+    "english": "adoption",
+    "example": "After years of waiting, they finally completed the adoption of their daughter from Korea.",
+    "pos": "noun",
+    "definition": "a legal proceeding that creates a parent-child relation between persons not related by blood; the adopted child is entitled to all privileges belonging to a natural child of the adoptive parents (including the right to inherit)",
+    "rank": 5384,
+    "level": "B2",
+    "id": 30
+  },
+  {
+    "english": "advancement",
+    "example": "The company's advancement of renewable energy initiatives helped attract younger employees.",
+    "pos": "noun",
+    "definition": "encouragement of the progress or growth or acceptance of something",
+    "rank": 9431,
+    "level": "B2",
+    "id": 34
+  },
+  {
+    "english": "adventurous",
+    "example": "adventurous pioneers",
+    "pos": "adjective",
+    "definition": "willing to undertake or seeking out new and daring enterprises",
+    "rank": 15321,
+    "level": "B2",
+    "id": 36
+  },
+  {
+    "english": "adversely",
+    "example": "she was adversely affected by the new regulations",
+    "pos": "adverb",
+    "definition": "in an adverse manner",
+    "rank": 20279,
+    "level": "B2",
+    "id": 38
+  },
+  {
+    "english": "adversity",
+    "example": "debt-ridden farmers struggling with adversity",
+    "pos": "noun",
+    "definition": "a state of misfortune or affliction",
+    "rank": 17532,
+    "level": "B2",
+    "id": 39
+  },
+  {
+    "english": "alcoholism",
+    "example": "His alcoholism had destroyed his liver and cost him his family.",
+    "pos": "noun",
+    "definition": "habitual intoxication; prolonged and excessive intake of alcoholic drinks leading to a breakdown in health and an addiction to alcohol such that abrupt deprivation leads to severe withdrawal symptoms",
+    "rank": 15948,
+    "level": "B2",
+    "id": 47
+  },
+  {
+    "english": "alphabetical",
+    "example": "alphabetical writing system",
+    "pos": "adjective",
+    "definition": "relating to or expressed by a writing system that uses an alphabet",
+    "rank": 21718,
+    "level": "B2",
+    "id": 52
+  },
+  {
+    "english": "altar",
+    "example": "The priest stood at the altar to distribute communion to the congregation.",
+    "pos": "noun",
+    "definition": "the table in Christian churches where communion is given",
+    "rank": 9562,
+    "level": "B2",
+    "id": 53
+  },
+  {
+    "english": "amazingly",
+    "example": "amazingly, he finished medical school in three years",
+    "pos": "adverb",
+    "definition": "in an amazing manner; to everyone's surprise",
+    "rank": 12178,
+    "level": "B2",
+    "id": 59
+  },
+  {
+    "english": "ambiguous",
+    "example": "ambiguous words",
+    "pos": "adjective",
+    "definition": "having more than one possible meaning",
+    "rank": 13460,
+    "level": "B2",
+    "id": 62
+  },
+  {
+    "english": "analyst",
+    "example": "The data analyst discovered a pattern in customer behavior that nobody else noticed.",
+    "pos": "noun",
+    "definition": "someone who is skilled at analyzing data",
+    "rank": 6759,
+    "level": "B2",
+    "id": 68
+  },
+  {
+    "english": "anchorage",
+    "example": "the plant needs a firm anchorage",
+    "pos": "noun",
+    "definition": "the condition of being secured to a base",
+    "rank": 16634,
+    "level": "B2",
+    "id": 70
+  },
+  {
+    "english": "anticipation",
+    "example": "We waited in anticipation for the movie to finally be released next month.",
+    "pos": "noun",
+    "definition": "an expectation",
+    "rank": 10487,
+    "level": "B2",
+    "id": 74
+  },
+  {
+    "english": "appreciative",
+    "example": "was appreciative of his efforts",
+    "pos": "adjective",
+    "definition": "feeling or expressive of gratitude",
+    "rank": 21136,
+    "level": "B2",
+    "id": 78
+  },
+  {
+    "english": "appropriately",
+    "example": "he was appropriately dressed",
+    "pos": "adverb",
+    "definition": "in an appropriate manner",
+    "rank": 10489,
+    "level": "B2",
+    "id": 80
+  },
+  {
+    "english": "aristocracy",
+    "example": "The British aristocracy still holds significant wealth and hereditary titles today.",
+    "pos": "noun",
+    "definition": "a privileged class holding hereditary titles",
+    "rank": 21998,
+    "level": "B2",
+    "id": 85
+  },
+  {
+    "english": "armful",
+    "example": "She carried an armful of firewood into the cabin.",
+    "pos": "noun",
+    "definition": "the quantity that can be contained in the arms",
+    "rank": 96745,
+    "level": "B2",
+    "id": 86
+  },
+  {
+    "english": "artificially",
+    "example": "artificially induced conditions",
+    "pos": "adverb",
+    "definition": "not according to nature; not by natural means",
+    "rank": 16174,
+    "level": "B2",
+    "id": 91
+  },
+  {
+    "english": "astonishing",
+    "example": "such an enormous response was astonishing",
+    "pos": "adjective",
+    "definition": "so surprisingly impressive as to stun or overwhelm",
+    "rank": 11648,
+    "level": "B2",
+    "id": 105
+  },
+  {
+    "english": "astonishment",
+    "example": "he looked at me in astonishment",
+    "pos": "noun",
+    "definition": "the feeling that accompanies something extremely surprising",
+    "rank": 34386,
+    "level": "B2",
+    "id": 106
+  },
+  {
+    "english": "attainment",
+    "example": "his attainment of puberty was delayed by malnutrition",
+    "pos": "noun",
+    "definition": "arrival at a new stage",
+    "rank": 23750,
+    "level": "B2",
+    "id": 109
+  },
+  {
+    "english": "attentively",
+    "example": "he listened attentively",
+    "pos": "adverb",
+    "definition": "with attention; in an attentive manner",
+    "rank": 52160,
+    "level": "B2",
+    "id": 112
+  },
+  {
+    "english": "atypical",
+    "example": "a group that is atypical of the target audience",
+    "pos": "adjective",
+    "definition": "not representative of a group, class, or type",
+    "rank": 24666,
+    "level": "B2",
+    "id": 114
+  },
+  {
+    "english": "audition",
+    "example": "She nailed her audition for the school musical last Tuesday.",
+    "pos": "noun",
+    "definition": "a test of the suitability of a performer",
+    "rank": 9998,
+    "level": "B2",
+    "id": 116
+  },
+  {
+    "english": "availability",
+    "example": "The availability of fresh water is crucial for survival in desert regions.",
+    "pos": "noun",
+    "definition": "the quality of being at hand when needed",
+    "rank": 5759,
+    "level": "B2",
+    "id": 118
+  },
+  {
+    "english": "backup",
+    "example": "a traffic backup on the main street",
+    "pos": "noun",
+    "definition": "an accumulation caused by clogging or a stoppage",
+    "rank": 105683,
+    "level": "B2",
+    "id": 122
+  },
+  {
+    "english": "balanced",
+    "example": "the carefully balanced seesaw",
+    "pos": "adjective",
+    "definition": "being in a state of proper equilibrium",
+    "rank": 105687,
+    "level": "B2",
+    "id": 125
+  },
+  {
+    "english": "banker",
+    "example": "The banker at Chase decided to approve our business loan application.",
+    "pos": "noun",
+    "definition": "a financier who owns or is an executive in a bank",
+    "rank": 9853,
+    "level": "B2",
+    "id": 130
+  },
+  {
+    "english": "bankruptcy",
+    "example": "the company had to declare bankruptcy",
+    "pos": "noun",
+    "definition": "inability to discharge all your debts as they come due",
+    "rank": 5939,
+    "level": "B2",
+    "id": 132
+  },
+  {
+    "english": "bartender",
+    "example": "The bartender expertly mixed a martini for the customer at the crowded bar.",
+    "pos": "noun",
+    "definition": "an employee who mixes and serves alcoholic drinks at a bar",
+    "rank": 14894,
+    "level": "B2",
+    "id": 137
+  },
+  {
+    "english": "battlefield",
+    "example": "they made a tour of Civil War battlefields",
+    "pos": "noun",
+    "definition": "a region where a battle is being (or has been) fought",
+    "rank": 7885,
+    "level": "B2",
+    "id": 138
+  },
+  {
+    "english": "beautify",
+    "example": "The new paint job will beautify our old house dramatically.",
+    "pos": "verb",
+    "definition": "make more beautiful",
+    "rank": 52174,
+    "level": "B2",
+    "id": 142
+  },
+  {
+    "english": "benevolence",
+    "example": "Her natural benevolence guided her decisions to help others every day.",
+    "pos": "noun",
+    "definition": "disposition to do good",
+    "rank": 37823,
+    "level": "B2",
+    "id": 146
+  },
+  {
+    "english": "bewilderment",
+    "example": "She stared at the math problem in complete bewilderment, unable to follow the steps.",
+    "pos": "noun",
+    "definition": "confusion resulting from failure to understand",
+    "rank": 45227,
+    "level": "B2",
+    "id": 152
+  },
+  {
+    "english": "bidding",
+    "example": "The CEO's bidding was to cut costs by twenty percent this quarter.",
+    "pos": "noun",
+    "definition": "an authoritative direction or instruction to do something",
+    "rank": 9443,
+    "level": "B2",
+    "id": 154
+  },
+  {
+    "english": "biological",
+    "example": "The biological processes in our bodies are incredibly complex and fascinating to study.",
+    "pos": "adjective",
+    "definition": "pertaining to biology or to life and living things",
+    "rank": 4212,
+    "level": "B2",
+    "id": 157
+  },
+  {
+    "english": "birthplace",
+    "example": "My grandmother still lives in the small town that was my birthplace.",
+    "pos": "noun",
+    "definition": "the place where someone was born",
+    "rank": 17772,
+    "level": "B2",
+    "id": 158
+  },
+  {
+    "english": "bitterly",
+    "example": "she complained bitterly",
+    "pos": "adverb",
+    "definition": "with bitterness, in a resentful manner",
+    "rank": 19768,
+    "level": "B2",
+    "id": 159
+  },
+  {
+    "english": "blindly",
+    "example": "he felt around his desk blindly",
+    "pos": "adverb",
+    "definition": "without seeing or looking",
+    "rank": 19031,
+    "level": "B2",
+    "id": 165
+  },
+  {
+    "english": "blindness",
+    "example": "After the accident, he struggled to adapt to his new blindness and learned to use a cane.",
+    "pos": "noun",
+    "definition": "the state of being blind or lacking sight",
+    "rank": 16183,
+    "level": "B2",
+    "id": 166
+  },
+  {
+    "english": "bloodstream",
+    "example": "The medication enters your bloodstream within minutes of taking it orally.",
+    "pos": "noun",
+    "definition": "the blood flowing through the circulatory system",
+    "rank": 23476,
+    "level": "B2",
+    "id": 168
+  },
+  {
+    "english": "bomber",
+    "example": "The military deployed a bomber aircraft to strike the enemy targets.",
+    "pos": "noun",
+    "definition": "a military aircraft that drops bombs during flight",
+    "rank": 8517,
+    "level": "B2",
+    "id": 175
+  },
+  {
+    "english": "bombing",
+    "example": "The bombing of the city during World War II destroyed thousands of buildings.",
+    "pos": "noun",
+    "definition": "an attack by dropping bombs",
+    "rank": 14476,
+    "level": "B2",
+    "id": 176
+  },
+  {
+    "english": "bony",
+    "example": "emaciated bony hands",
+    "pos": "adjective",
+    "definition": "very thin especially from disease or hunger or cold",
+    "rank": 20859,
+    "level": "B2",
+    "id": 177
+  },
+  {
+    "english": "bookish",
+    "example": "a bookish farmer who always had a book in his pocket",
+    "pos": "adjective",
+    "definition": "characterized by diligent study and fondness for reading",
+    "rank": 48629,
+    "level": "B2",
+    "id": 178
+  },
+  {
+    "english": "bourbon",
+    "example": "The old bourbon politician refused to support any progressive reforms.",
+    "pos": "noun",
+    "definition": "a reactionary politician in the United States (usually from the South)",
+    "rank": 12924,
+    "level": "B2",
+    "id": 184
+  },
+  {
+    "english": "breakdown",
+    "example": "After months of stress, she had a complete nervous breakdown at work.",
+    "pos": "noun",
+    "definition": "a mental or physical breakdown",
+    "rank": 6028,
+    "level": "B2",
+    "id": 190
+  },
+  {
+    "english": "breakup",
+    "example": "Their breakup was messy, but they've finally started speaking again.",
+    "pos": "noun",
+    "definition": "the termination or disintegration of a relationship (between persons or nations)",
+    "rank": 12193,
+    "level": "B2",
+    "id": 191
+  },
+  {
+    "english": "breezy",
+    "example": "her breezy nature",
+    "pos": "adjective",
+    "definition": "fresh and animated",
+    "rank": 24686,
+    "level": "B2",
+    "id": 194
+  },
+  {
+    "english": "brilliantly",
+    "example": "he solved the problem brilliantly",
+    "pos": "adverb",
+    "definition": "in an extremely intelligent way",
+    "rank": 15764,
+    "level": "B2",
+    "id": 196
+  },
+  {
+    "english": "broaden",
+    "example": "broaden the road",
+    "pos": "verb",
+    "definition": "make broader",
+    "rank": 19543,
+    "level": "B2",
+    "id": 198
+  },
+  {
+    "english": "broadly",
+    "example": "he interprets the law broadly",
+    "pos": "adverb",
+    "definition": "without regard to specific details or exceptions",
+    "rank": 9290,
+    "level": "B2",
+    "id": 199
+  },
+  {
+    "english": "burdensome",
+    "example": "the burdensome task of preparing the income tax return",
+    "pos": "adjective",
+    "definition": "not easily borne; wearing",
+    "rank": 34810,
+    "level": "B2",
+    "id": 207
+  },
+  {
+    "english": "burglary",
+    "example": "The homeowner called police after discovering evidence of burglary in her kitchen.",
+    "pos": "noun",
+    "definition": "entering a building unlawfully with intent to commit a felony or to steal valuable property",
+    "rank": 16186,
+    "level": "B2",
+    "id": 209
+  },
+  {
+    "english": "calmly",
+    "example": "he spoke calmly to the rioting students",
+    "pos": "adverb",
+    "definition": "with self-possession (especially in times of stress)",
+    "rank": 13677,
+    "level": "B2",
+    "id": 214
+  },
+  {
+    "english": "cannonball",
+    "example": "The museum displayed an iron cannonball from the Civil War era.",
+    "pos": "noun",
+    "definition": "a solid projectile that in former times was fired from a cannon",
+    "rank": 33974,
+    "level": "B2",
+    "id": 218
+  },
+  {
+    "english": "cardboard",
+    "example": "I folded the cardboard carefully to pack the fragile dishes safely.",
+    "pos": "noun",
+    "definition": "a stiff moderately thick paper",
+    "rank": 11847,
+    "level": "B2",
+    "id": 224
+  },
+  {
+    "english": "casually",
+    "example": "he dealt with his course work casually",
+    "pos": "adverb",
+    "definition": "not methodically or according to plan",
+    "rank": 11848,
+    "level": "B2",
+    "id": 229
+  },
+  {
+    "english": "catalyst",
+    "example": "The catalyst speeds up the reaction without being consumed itself.",
+    "pos": "noun",
+    "definition": "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected",
+    "rank": 10177,
+    "level": "B2",
+    "id": 230
+  },
+  {
+    "english": "catastrophic",
+    "example": "a catastrophic depression",
+    "pos": "adjective",
+    "definition": "extremely harmful; bringing physical or financial ruin",
+    "rank": 13294,
+    "level": "B2",
+    "id": 232
+  },
+  {
+    "english": "cellist",
+    "example": "The cellist performed a beautiful solo at yesterday's orchestra concert.",
+    "pos": "noun",
+    "definition": "someone who plays a violoncello",
+    "rank": 41040,
+    "level": "B2",
+    "id": 239
+  },
+  {
+    "english": "certification",
+    "example": "The certification of new McDonald's franchises requires meeting strict operational standards.",
+    "pos": "noun",
+    "definition": "the act of certifying or bestowing a franchise on",
+    "rank": 7427,
+    "level": "B2",
+    "id": 242
+  },
+  {
+    "english": "chaotic",
+    "example": "My teenage son's bedroom is absolutely chaotic, with clothes piled everywhere.",
+    "pos": "adjective",
+    "definition": "lacking a visible order or organization",
+    "rank": 11664,
+    "level": "B2",
+    "id": 246
+  },
+  {
+    "english": "cheat",
+    "example": "He tried to cheat me out of money by selling a fake watch.",
+    "pos": "verb",
+    "definition": "defeat someone through trickery or deceit",
+    "rank": 5109,
+    "level": "B2",
+    "id": 250
+  },
+  {
+    "english": "cheerfully",
+    "example": "he cheerfully agreed to do it",
+    "pos": "adverb",
+    "definition": "in a cheerful manner",
+    "rank": 29594,
+    "level": "B2",
+    "id": 251
+  },
+  {
+    "english": "cheerfulness",
+    "example": "flowers added a note of cheerfulness to the drab room",
+    "pos": "noun",
+    "definition": "the quality of being cheerful and dispelling gloom",
+    "rank": 66558,
+    "level": "B2",
+    "id": 252
+  },
+  {
+    "english": "cherished",
+    "example": "a cherished friend",
+    "pos": "adjective",
+    "definition": "characterized by feeling or showing fond affection for",
+    "rank": 103181,
+    "level": "B2",
+    "id": 253
+  },
+  {
+    "english": "circuitry",
+    "example": "The smartphone's circuitry handles billions of calculations every single second.",
+    "pos": "noun",
+    "definition": "electronic equipment consisting of a system of circuits",
+    "rank": 26370,
+    "level": "B2",
+    "id": 263
+  },
+  {
+    "english": "citywide",
+    "example": "citywide bussing",
+    "pos": "adjective",
+    "definition": "occurring or extending throughout a city",
+    "rank": 36490,
+    "level": "B2",
+    "id": 265
+  },
+  {
+    "english": "clam",
+    "example": "We dug up a clam from the beach and steamed it for dinner.",
+    "pos": "noun",
+    "definition": "burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness",
+    "rank": 21750,
+    "level": "B2",
+    "id": 266
+  },
+  {
+    "english": "clearness",
+    "example": "The clearness of her instructions made the project easy to complete.",
+    "pos": "noun",
+    "definition": "free from obscurity and easy to understand; the comprehensibility of clear expression",
+    "rank": 73966,
+    "level": "B2",
+    "id": 271
+  },
+  {
+    "english": "closure",
+    "example": "The senator invoked closure to end the lengthy debate on the bill.",
+    "pos": "noun",
+    "definition": "a rule for limiting or ending debate in a deliberative body",
+    "rank": 5945,
+    "level": "B2",
+    "id": 275
+  },
+  {
+    "english": "coastline",
+    "example": "The jagged coastline of Maine is famous for its rocky shores and lighthouses.",
+    "pos": "noun",
+    "definition": "the outline of a coast",
+    "rank": 14720,
+    "level": "B2",
+    "id": 280
+  },
+  {
+    "english": "coconut",
+    "example": "The recipe calls for shredded coconut mixed into the cake batter.",
+    "pos": "noun",
+    "definition": "the edible white meat of a coconut; often shredded for use in e.g. cakes and curries",
+    "rank": 8524,
+    "level": "B2",
+    "id": 283
+  },
+  {
+    "english": "coherence",
+    "example": "The coherence of the wet clay allowed us to mold it into shape.",
+    "pos": "noun",
+    "definition": "the state of cohering or sticking together",
+    "rank": 25708,
+    "level": "B2",
+    "id": 284
+  },
+  {
+    "english": "collector",
+    "example": "My uncle is a serious art collector who owns paintings worth millions.",
+    "pos": "noun",
+    "definition": "a person who collects things",
+    "rank": 8131,
+    "level": "B2",
+    "id": 290
+  },
+  {
+    "english": "colonial",
+    "example": "The colonial government established new trade rules for the settlement.",
+    "pos": "adjective",
+    "definition": "of or relating to or characteristic of or inhabiting a colony",
+    "rank": 5401,
+    "level": "B2",
+    "id": 292
+  },
+  {
+    "english": "comfortably",
+    "example": "he works comfortably on three continents",
+    "pos": "adverb",
+    "definition": "in mental comfort; without stress",
+    "rank": 10515,
+    "level": "B2",
+    "id": 294
+  },
+  {
+    "english": "commission",
+    "example": "he works on commission",
+    "pos": "noun",
+    "definition": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+    "rank": 1299,
+    "level": "B2",
+    "id": 299
+  },
+  {
+    "english": "competent",
+    "example": "a competent typist",
+    "pos": "adjective",
+    "definition": "properly or sufficiently qualified or capable or efficient",
+    "rank": 8018,
+    "level": "B2",
+    "id": 310
+  },
+  {
+    "english": "completion",
+    "example": "The quarterback threw a perfect completion to the wide receiver in the end zone.",
+    "pos": "noun",
+    "definition": "(American football) a successful forward pass in football",
+    "rank": 4932,
+    "level": "B2",
+    "id": 312
+  },
+  {
+    "english": "complexity",
+    "example": "he enjoyed the complexity of modern computers",
+    "pos": "noun",
+    "definition": "the quality of being intricate and compounded",
+    "rank": 6883,
+    "level": "B2",
+    "id": 314
+  },
+  {
+    "english": "compression",
+    "example": "The compression of the gas made it much denser and hotter.",
+    "pos": "noun",
+    "definition": "an increase in the density of something",
+    "rank": 9304,
+    "level": "B2",
+    "id": 318
+  },
+  {
+    "english": "compute",
+    "example": "The accountant will compute the total expenses for this quarter.",
+    "pos": "verb",
+    "definition": "make a mathematical calculation or computation",
+    "rank": 6344,
+    "level": "B2",
+    "id": 321
+  },
+  {
+    "english": "confidently",
+    "example": "we have to do what is right confidently",
+    "pos": "adverb",
+    "definition": "with confidence; in a confident manner",
+    "rank": 16870,
+    "level": "B2",
+    "id": 337
+  },
+  {
+    "english": "confront",
+    "example": "You must confront your opponent",
+    "pos": "verb",
+    "definition": "oppose, as in hostility or a competition",
+    "rank": 9026,
+    "level": "B2",
+    "id": 339
+  },
+  {
+    "english": "conveniently",
+    "example": "the switch was conveniently located",
+    "pos": "adverb",
+    "definition": "in a convenient manner",
+    "rank": 13314,
+    "level": "B2",
+    "id": 362
+  },
+  {
+    "english": "conversely",
+    "example": "conversely, not all women are mothers",
+    "pos": "adverb",
+    "definition": "with the terms of the relation reversed",
+    "rank": 14301,
+    "level": "B2",
+    "id": 366
+  },
+  {
+    "english": "cooperation",
+    "example": "their cooperation with us was essential for the success of our mission",
+    "pos": "noun",
+    "definition": "joint operation or action",
+    "rank": 4292,
+    "level": "B2",
+    "id": 371
+  },
+  {
+    "english": "cooperative",
+    "example": "a cooperative effort",
+    "pos": "adjective",
+    "definition": "done with or working with others for a common purpose or benefit",
+    "rank": 8769,
+    "level": "B2",
+    "id": 372
+  },
+  {
+    "english": "cornerstone",
+    "example": "The mayor laid the cornerstone of the new library building last Tuesday.",
+    "pos": "noun",
+    "definition": "a stone in the exterior of a large and important building; usually carved with a date and laid with appropriate ceremonies",
+    "rank": 17333,
+    "level": "B2",
+    "id": 377
+  },
+  {
+    "english": "corona",
+    "example": "During the total solar eclipse, the sun's corona became visible as a brilliant white ring.",
+    "pos": "noun",
+    "definition": "the outermost region of the sun's atmosphere; visible as a white halo during a solar eclipse",
+    "rank": 16671,
+    "level": "B2",
+    "id": 378
+  },
+  {
+    "english": "correctness",
+    "example": "The correctness of the test answers was verified by the teacher.",
+    "pos": "noun",
+    "definition": "conformity to fact or truth",
+    "rank": 17334,
+    "level": "B2",
+    "id": 382
+  },
+  {
+    "english": "corresponding",
+    "example": "all rights carry with them corresponding responsibilities",
+    "pos": "adjective",
+    "definition": "accompanying",
+    "rank": 5777,
+    "level": "B2",
+    "id": 386
+  },
+  {
+    "english": "countryman",
+    "example": "I met a fellow countryman from Brazil at the international conference yesterday.",
+    "pos": "noun",
+    "definition": "a man from your own country",
+    "rank": 21479,
+    "level": "B2",
+    "id": 395
+  },
+  {
+    "english": "creatively",
+    "example": "she solved the problem creatively",
+    "pos": "adverb",
+    "definition": "in a creative manner",
+    "rank": 25339,
+    "level": "B2",
+    "id": 405
+  },
+  {
+    "english": "creepy",
+    "example": "some creepy kids were bothering her",
+    "pos": "adjective",
+    "definition": "annoying and unpleasant",
+    "rank": 6671,
+    "level": "B2",
+    "id": 407
+  },
+  {
+    "english": "critically",
+    "example": "this must be examined critically",
+    "pos": "adverb",
+    "definition": "in a critical manner",
+    "rank": 8532,
+    "level": "B2",
+    "id": 411
+  },
+  {
+    "english": "cruelly",
+    "example": "he treated his students cruelly",
+    "pos": "adverb",
+    "definition": "with cruelty",
+    "rank": 30747,
+    "level": "B2",
+    "id": 415
+  },
+  {
+    "english": "cruelty",
+    "example": "The cruelty of the punishment shocked everyone in the courtroom.",
+    "pos": "noun",
+    "definition": "a cruel act; a deliberate infliction of pain and suffering",
+    "rank": 10186,
+    "level": "B2",
+    "id": 416
+  },
+  {
+    "english": "cubism",
+    "example": "Picasso and Braque pioneered cubism by breaking objects into geometric planes.",
+    "pos": "noun",
+    "definition": "an artistic movement in France beginning in 1907 that featured surfaces of geometrical planes",
+    "rank": 59310,
+    "level": "B2",
+    "id": 418
+  },
+  {
+    "english": "culmination",
+    "example": "their achievements stand as a culmination of centuries of development",
+    "pos": "noun",
+    "definition": "a final climactic stage",
+    "rank": 20599,
+    "level": "B2",
+    "id": 420
+  },
+  {
+    "english": "culturally",
+    "example": "culturally integrated",
+    "pos": "adverb",
+    "definition": "with regard to a culture",
+    "rank": 12218,
+    "level": "B2",
+    "id": 421
+  },
+  {
+    "english": "cyclist",
+    "example": "The cyclist rode her bike through the park every morning.",
+    "pos": "noun",
+    "definition": "a person who rides a bicycle",
+    "rank": 13317,
+    "level": "B2",
+    "id": 423
+  },
+  {
+    "english": "dated",
+    "example": "That website design looks really dated compared to modern standards today.",
+    "pos": "adjective",
+    "definition": "marked by features of the immediate and usually discounted past",
+    "rank": 103220,
+    "level": "B2",
+    "id": 429
+  },
+  {
+    "english": "decomposition",
+    "example": "The decomposition of the vector field revealed its sources and sinks.",
+    "pos": "noun",
+    "definition": "the analysis of a vector field",
+    "rank": 20604,
+    "level": "B2",
+    "id": 442
+  },
+  {
+    "english": "desolation",
+    "example": "The old factory's desolation was evident from its crumbling walls and broken windows.",
+    "pos": "noun",
+    "definition": "the state of being decayed or destroyed",
+    "rank": 27804,
+    "level": "B2",
+    "id": 470
+  },
+  {
+    "english": "desperately",
+    "example": "the child clung desperately to her mother",
+    "pos": "adverb",
+    "definition": "in intense despair",
+    "rank": 7336,
+    "level": "B2",
+    "id": 471
+  },
+  {
+    "english": "desperation",
+    "example": "it was a policy of desperation",
+    "pos": "noun",
+    "definition": "desperate recklessness",
+    "rank": 13900,
+    "level": "B2",
+    "id": 472
+  },
+  {
+    "english": "dignify",
+    "example": "I shall not dignify this insensitive remark with an answer",
+    "pos": "verb",
+    "definition": "raise the status of",
+    "rank": 20096,
+    "level": "B2",
+    "id": 484
+  },
+  {
+    "english": "disapproval",
+    "example": "She tried to hide her disapproval of his messy apartment during the visit.",
+    "pos": "noun",
+    "definition": "a feeling of disliking something or what someone is doing",
+    "rank": 20097,
+    "level": "B2",
+    "id": 493
+  },
+  {
+    "english": "dishonesty",
+    "example": "His dishonesty made it impossible for anyone to trust him anymore.",
+    "pos": "noun",
+    "definition": "the quality of being dishonest",
+    "rank": 23243,
+    "level": "B2",
+    "id": 501
+  },
+  {
+    "english": "disorderly",
+    "example": "a disorderly pile of clothes",
+    "pos": "adjective",
+    "definition": "in utter disorder",
+    "rank": 23808,
+    "level": "B2",
+    "id": 504
+  },
+  {
+    "english": "distortion",
+    "example": "The scandal caused a serious distortion of the company's reputation and trustworthiness.",
+    "pos": "noun",
+    "definition": "a change for the worse",
+    "rank": 13904,
+    "level": "B2",
+    "id": 514
+  },
+  {
+    "english": "distraction",
+    "example": "he drives me to distraction",
+    "pos": "noun",
+    "definition": "mental turmoil",
+    "rank": 9876,
+    "level": "B2",
+    "id": 516
+  },
+  {
+    "english": "distressing",
+    "example": "distressing (or disturbing) news",
+    "pos": "adjective",
+    "definition": "causing distress or worry or anxiety",
+    "rank": 22356,
+    "level": "B2",
+    "id": 517
+  },
+  {
+    "english": "doorkeeper",
+    "example": "The doorkeeper checked everyone's credentials before they entered the courtroom.",
+    "pos": "noun",
+    "definition": "an official stationed at the entrance of a courtroom or legislative chamber",
+    "rank": 88287,
+    "level": "B2",
+    "id": 530
+  },
+  {
+    "english": "doubly",
+    "example": "she was doubly rewarded",
+    "pos": "adverb",
+    "definition": "to double the degree",
+    "rank": 23248,
+    "level": "B2",
+    "id": 535
+  },
+  {
+    "english": "dramatically",
+    "example": "your performance will improve dramatically",
+    "pos": "adverb",
+    "definition": "in a very impressive manner",
+    "rank": 7678,
+    "level": "B2",
+    "id": 543
+  },
+  {
+    "english": "duplication",
+    "example": "this kind of duplication is wasteful",
+    "pos": "noun",
+    "definition": "the act of copying or making a duplicate (or duplicates) of something",
+    "rank": 23518,
+    "level": "B2",
+    "id": 551
+  },
+  {
+    "english": "eagerly",
+    "example": "the news was eagerly awaited",
+    "pos": "adverb",
+    "definition": "with eagerness; in an eager manner",
+    "rank": 15153,
+    "level": "B2",
+    "id": 554
+  },
+  {
+    "english": "eastward",
+    "example": "they migrated eastward to Sweden",
+    "pos": "adverb",
+    "definition": "toward the east",
+    "rank": 21195,
+    "level": "B2",
+    "id": 558
+  },
+  {
+    "english": "ecstatic",
+    "example": "She was absolutely ecstatic when she found out she got the job.",
+    "pos": "adjective",
+    "definition": "feeling great rapture or delight",
+    "rank": 17830,
+    "level": "B2",
+    "id": 561
+  },
+  {
+    "english": "educator",
+    "example": "My daughter's favorite educator always makes math class fun and engaging.",
+    "pos": "noun",
+    "definition": "someone who educates young people",
+    "rank": 9326,
+    "level": "B2",
+    "id": 564
+  },
+  {
+    "english": "effectively",
+    "example": "these are real problems that can be dealt with most effectively by rational discussion",
+    "pos": "adverb",
+    "definition": "in an effective manner",
+    "rank": 3054,
+    "level": "B2",
+    "id": 565
+  },
+  {
+    "english": "effectiveness",
+    "example": "The effectiveness of the new marketing campaign surprised everyone at the company.",
+    "pos": "noun",
+    "definition": "power to be effective; the quality of being able to bring about an effect",
+    "rank": 6567,
+    "level": "B2",
+    "id": 566
+  },
+  {
+    "english": "electronically",
+    "example": "the door opens electronically",
+    "pos": "adverb",
+    "definition": "by electronic means",
+    "rank": 20104,
+    "level": "B2",
+    "id": 568
+  },
+  {
+    "english": "electronics",
+    "example": "She studied electronics in college to understand how semiconductors work.",
+    "pos": "noun",
+    "definition": "the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices",
+    "rank": 5213,
+    "level": "B2",
+    "id": 569
+  },
+  {
+    "english": "elegance",
+    "example": "she conveys an aura of elegance and gentility",
+    "pos": "noun",
+    "definition": "a refined quality of gracefulness and good taste",
+    "rank": 16699,
+    "level": "B2",
+    "id": 570
+  },
+  {
+    "english": "elegantly",
+    "example": "the room was elegantly decorated",
+    "pos": "adverb",
+    "definition": "with elegance; in a tastefully elegant manner",
+    "rank": 30018,
+    "level": "B2",
+    "id": 572
+  },
+  {
+    "english": "elemental",
+    "example": "a race against hail or cold rains or some other elemental catastrophe",
+    "pos": "adjective",
+    "definition": "relating to severe atmospheric conditions; - J.K.Howard",
+    "rank": 17605,
+    "level": "B2",
+    "id": 573
+  },
+  {
+    "english": "enthusiastically",
+    "example": "they discussed the question enthusiastically",
+    "pos": "adverb",
+    "definition": "with enthusiasm; in an enthusiastic manner",
+    "rank": 20915,
+    "level": "B2",
+    "id": 594
+  },
+  {
+    "english": "evaluation",
+    "example": "The car's evaluation showed it was worth fifteen thousand dollars.",
+    "pos": "noun",
+    "definition": "act of ascertaining or fixing the value or worth of",
+    "rank": 5034,
+    "level": "B2",
+    "id": 613
+  },
+  {
+    "english": "exceptionally",
+    "example": "it worked exceptionally well",
+    "pos": "adverb",
+    "definition": "to an exceptional degree",
+    "rank": 10542,
+    "level": "B2",
+    "id": 625
+  },
+  {
+    "english": "exhaustion",
+    "example": "After running a marathon, she collapsed from complete exhaustion.",
+    "pos": "noun",
+    "definition": "extreme fatigue",
+    "rank": 15163,
+    "level": "B2",
+    "id": 636
+  },
+  {
+    "english": "existing",
+    "example": "the existing system",
+    "pos": "adjective",
+    "definition": "presently existing",
+    "rank": 104468,
+    "level": "B2",
+    "id": 639
+  },
+  {
+    "english": "fictional",
+    "example": "clever fictional devices",
+    "pos": "adjective",
+    "definition": "related to or involving literary fiction",
+    "rank": 8791,
+    "level": "B2",
+    "id": 681
+  },
+  {
+    "english": "filial",
+    "example": "The filial generation showed different genetic traits than their parents.",
+    "pos": "adjective",
+    "definition": "designating the generation or the sequence of generations following the parental generation",
+    "rank": 44782,
+    "level": "B2",
+    "id": 685
+  },
+  {
+    "english": "financially",
+    "example": "this was financially unattractive",
+    "pos": "adverb",
+    "definition": "from a financial point of view",
+    "rank": 7339,
+    "level": "B2",
+    "id": 687
+  },
+  {
+    "english": "finely",
+    "example": "the surfaces were finely granular",
+    "pos": "adverb",
+    "definition": "in tiny pieces",
+    "rank": 14537,
+    "level": "B2",
+    "id": 688
+  },
+  {
+    "english": "fireplace",
+    "example": "the fireplace was so large you could walk inside it",
+    "pos": "noun",
+    "definition": "an open recess in a wall at the base of a chimney where a fire can be built",
+    "rank": 14122,
+    "level": "B2",
+    "id": 689
+  },
+  {
+    "english": "firmness",
+    "example": "his muscular firmness",
+    "pos": "noun",
+    "definition": "the muscle tone of healthy tissue",
+    "rank": 36983,
+    "level": "B2",
+    "id": 690
+  },
+  {
+    "english": "flawless",
+    "example": "a flawless gemstone",
+    "pos": "adjective",
+    "definition": "without a flaw",
+    "rank": 12979,
+    "level": "B2",
+    "id": 696
+  },
+  {
+    "english": "flexibility",
+    "example": "The flexibility of rubber makes it perfect for creating seals and gaskets.",
+    "pos": "noun",
+    "definition": "the property of being flexible; easily bent or shaped",
+    "rank": 6906,
+    "level": "B2",
+    "id": 701
+  },
+  {
+    "english": "fondly",
+    "example": "she spoke to her children fondly",
+    "pos": "adverb",
+    "definition": "with fondness; with love",
+    "rank": 22381,
+    "level": "B2",
+    "id": 710
+  },
+  {
+    "english": "foolishly",
+    "example": "He acted foolishly when he agreed to come",
+    "pos": "adverb",
+    "definition": "without good sense or judgment",
+    "rank": 30425,
+    "level": "B2",
+    "id": 711
+  },
+  {
+    "english": "footnote",
+    "example": "The author added a footnote explaining the historical context of the event.",
+    "pos": "noun",
+    "definition": "a printed note placed below the text on a printed page",
+    "rank": 22382,
+    "level": "B2",
+    "id": 712
+  },
+  {
+    "english": "functional",
+    "example": "a style of writing in which every word is functional",
+    "pos": "adjective",
+    "definition": "designed for or capable of a particular function or use",
+    "rank": 4761,
+    "level": "B2",
+    "id": 730
+  },
+  {
+    "english": "funk",
+    "example": "he was in a funk",
+    "pos": "noun",
+    "definition": "a state of nervous depression",
+    "rank": 11035,
+    "level": "B2",
+    "id": 732
+  },
+  {
+    "english": "furiously",
+    "example": "winds were blowing furiously",
+    "pos": "adverb",
+    "definition": "(of the elements) in a wild and stormy manner",
+    "rank": 22680,
+    "level": "B2",
+    "id": 734
+  },
+  {
+    "english": "genre",
+    "example": "Science fiction is my favorite genre to read before bed.",
+    "pos": "noun",
+    "definition": "a kind of literary or artistic work",
+    "rank": 5418,
+    "level": "B2",
+    "id": 747
+  },
+  {
+    "english": "gently",
+    "example": "he talked gently to the injured animal",
+    "pos": "adverb",
+    "definition": "in a gentle manner",
+    "rank": 6249,
+    "level": "B2",
+    "id": 748
+  },
+  {
+    "english": "geographic",
+    "example": "She earned her degree in geographic studies with a focus on climate patterns.",
+    "pos": "adjective",
+    "definition": "of or relating to the science of geography",
+    "rank": 7452,
+    "level": "B2",
+    "id": 751
+  },
+  {
+    "english": "getaway",
+    "example": "the thieves made a clean getaway",
+    "pos": "noun",
+    "definition": "a rapid escape (as by criminals)",
+    "rank": 14764,
+    "level": "B2",
+    "id": 753
+  },
+  {
+    "english": "giveaway",
+    "example": "The government's giveaway of public lands to oil companies angered environmental groups.",
+    "pos": "noun",
+    "definition": "a gift of public land or resources for the private gain of a limited group",
+    "rank": 13924,
+    "level": "B2",
+    "id": 755
+  },
+  {
+    "english": "globally",
+    "example": "this is globally significant",
+    "pos": "adverb",
+    "definition": "throughout the world",
+    "rank": 9338,
+    "level": "B2",
+    "id": 759
+  },
+  {
+    "english": "governmental",
+    "example": "governmental policy",
+    "pos": "adjective",
+    "definition": "relating to or dealing with the affairs or structure of government or politics or the state",
+    "rank": 8937,
+    "level": "B2",
+    "id": 767
+  },
+  {
+    "english": "graphically",
+    "example": "graphically interesting designs",
+    "pos": "adverb",
+    "definition": "with respect to graphic aspects",
+    "rank": 29674,
+    "level": "B2",
+    "id": 771
+  },
+  {
+    "english": "greatness",
+    "example": "Her greatness as a scientist came from decades of groundbreaking research.",
+    "pos": "noun",
+    "definition": "the property possessed by something or someone of outstanding importance or eminence",
+    "rank": 11036,
+    "level": "B2",
+    "id": 775
+  },
+  {
+    "english": "growing",
+    "example": "the growing season for corn",
+    "pos": "adjective",
+    "definition": "relating to or suitable for growth",
+    "rank": 104680,
+    "level": "B2",
+    "id": 782
+  },
+  {
+    "english": "guideline",
+    "example": "The calligrapher drew light guidelines to keep her letters perfectly straight and aligned.",
+    "pos": "noun",
+    "definition": "a light line that is used in lettering to help align the letters",
+    "rank": 103757,
+    "level": "B2",
+    "id": 786
+  },
+  {
+    "english": "gymnastic",
+    "example": "gymnastic horse",
+    "pos": "adjective",
+    "definition": "of or relating to or used in exercises intended to develop strength and agility",
+    "rank": 45960,
+    "level": "B2",
+    "id": 789
+  },
+  {
+    "english": "hammer",
+    "example": "hammer the silver into a bowl",
+    "pos": "verb",
+    "definition": "create by hammering",
+    "rank": 5501,
+    "level": "B2",
+    "id": 792
+  },
+  {
+    "english": "haunting",
+    "example": "from two handsome and talented young men to two haunting horrors of disintegration",
+    "pos": "adjective",
+    "definition": "having a deeply disquieting or disturbing effect; -Charles Lee",
+    "rank": 14557,
+    "level": "B2",
+    "id": 801
+  },
+  {
+    "english": "hazardous",
+    "example": "skydiving is a hazardous sport",
+    "pos": "adjective",
+    "definition": "involving risk or danger",
+    "rank": 11040,
+    "level": "B2",
+    "id": 803
+  },
+  {
+    "english": "helper",
+    "example": "The wealthy philanthropist became a major helper to the struggling nonprofit organization.",
+    "pos": "noun",
+    "definition": "a person who helps people or institutions (especially with financial help)",
+    "rank": 16932,
+    "level": "B2",
+    "id": 810
+  },
+  {
+    "english": "hone",
+    "example": "He used a fine hone to sharpen his straight razor every morning.",
+    "pos": "noun",
+    "definition": "a whetstone made of fine gritstone; used for sharpening razors",
+    "rank": 23302,
+    "level": "B2",
+    "id": 820
+  },
+  {
+    "english": "hospice",
+    "example": "The medieval hospice provided shelter and food to weary pilgrims traveling through the mountains.",
+    "pos": "noun",
+    "definition": "a lodging for travelers (especially one kept by a monastic order)",
+    "rank": 17385,
+    "level": "B2",
+    "id": 823
+  },
+  {
+    "english": "housekeeper",
+    "example": "Our housekeeper comes twice a week to clean and manage household chores.",
+    "pos": "noun",
+    "definition": "a servant who is employed to perform domestic task in a household",
+    "rank": 19859,
+    "level": "B2",
+    "id": 827
+  },
+  {
+    "english": "humanist",
+    "example": "The Renaissance humanist studied ancient Greek and Latin texts extensively.",
+    "pos": "noun",
+    "definition": "a classical scholar or student of the liberal arts",
+    "rank": 26465,
+    "level": "B2",
+    "id": 832
+  },
+  {
+    "english": "humbug",
+    "example": "His speech was pure humbug, filled with meaningless corporate jargon about synergy.",
+    "pos": "noun",
+    "definition": "pretentious or silly talk or writing",
+    "rank": 101588,
+    "level": "B2",
+    "id": 834
+  },
+  {
+    "english": "hyperbole",
+    "example": "When he said he'd died of hunger, that was pure hyperbole since he'd eaten hours before.",
+    "pos": "noun",
+    "definition": "extravagant exaggeration",
+    "rank": 31608,
+    "level": "B2",
+    "id": 838
+  },
+  {
+    "english": "ideally",
+    "example": "ideally, this will remove all problems",
+    "pos": "adverb",
+    "definition": "in an ideal manner",
+    "rank": 10379,
+    "level": "B2",
+    "id": 840
+  },
+  {
+    "english": "impatiently",
+    "example": "he answered her impatiently",
+    "pos": "adverb",
+    "definition": "with impatience; in an impatient manner",
+    "rank": 39855,
+    "level": "B2",
+    "id": 858
+  },
+  {
+    "english": "impossibility",
+    "example": "Building a perpetual motion machine remains an impossibility according to the laws of physics.",
+    "pos": "noun",
+    "definition": "incapability of existing or occurring",
+    "rank": 27508,
+    "level": "B2",
+    "id": 865
+  },
+  {
+    "english": "impressionism",
+    "example": "Monet's Water Lilies exemplify impressionism with their broken brushstrokes and shimmering light effects.",
+    "pos": "noun",
+    "definition": "a school of late 19th century French painters who pictured appearances by strokes of unmixed colors to give the impression of reflected light",
+    "rank": 44860,
+    "level": "B2",
+    "id": 867
+  },
+  {
+    "english": "impressionist",
+    "example": "Monet was a famous impressionist who painted water lilies obsessively.",
+    "pos": "noun",
+    "definition": "a painter who follows the theories of Impressionism",
+    "rank": 34933,
+    "level": "B2",
+    "id": 868
+  },
+  {
+    "english": "improperly",
+    "example": "he checked whether the wound had healed improperly",
+    "pos": "adverb",
+    "definition": "in an improper way",
+    "rank": 18346,
+    "level": "B2",
+    "id": 871
+  },
+  {
+    "english": "incur",
+    "example": "People who smoke incur a great danger to their health",
+    "pos": "verb",
+    "definition": "make oneself subject to; bring upon oneself; become liable to",
+    "rank": 12994,
+    "level": "B2",
+    "id": 880
+  },
+  {
+    "english": "independently",
+    "example": "the children worked on the project independently",
+    "pos": "adverb",
+    "definition": "on your own; without outside help",
+    "rank": 6481,
+    "level": "B2",
+    "id": 883
+  },
+  {
+    "english": "indulgent",
+    "example": "indulgent parents risk spoiling their children",
+    "pos": "adjective",
+    "definition": "tolerant or lenient",
+    "rank": 25795,
+    "level": "B2",
+    "id": 890
+  },
+  {
+    "english": "inference",
+    "example": "Based on the evidence, my inference is that she left early without telling anyone.",
+    "pos": "noun",
+    "definition": "the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation",
+    "rank": 20963,
+    "level": "B2",
+    "id": 898
+  },
+  {
+    "english": "infringement",
+    "example": "He received a traffic infringement for parking in the handicapped zone.",
+    "pos": "noun",
+    "definition": "a crime less serious than a felony",
+    "rank": 12794,
+    "level": "B2",
+    "id": 907
+  },
+  {
+    "english": "innocently",
+    "example": "he claimed to have purchased the contraband innocently",
+    "pos": "adverb",
+    "definition": "in a not unlawful manner",
+    "rank": 33687,
+    "level": "B2",
+    "id": 914
+  },
+  {
+    "english": "innovative",
+    "example": "stylistically innovative works",
+    "pos": "adjective",
+    "definition": "being or producing something like nothing done or experienced or created before",
+    "rank": 100179,
+    "level": "B2",
+    "id": 916
+  },
+  {
+    "english": "input",
+    "example": "The microphone input was picking up too much background noise from the street.",
+    "pos": "noun",
+    "definition": "signal going into an electronic system",
+    "rank": 3953,
+    "level": "B2",
+    "id": 917
+  },
+  {
+    "english": "inspirational",
+    "example": "Many people find the ancient hymn deeply inspirational to their spiritual faith.",
+    "pos": "adjective",
+    "definition": "imparting a divine influence on the mind and soul",
+    "rank": 10383,
+    "level": "B2",
+    "id": 922
+  },
+  {
+    "english": "interpersonal",
+    "example": "interpersonal situations in which speech occurs",
+    "pos": "adjective",
+    "definition": "occurring among or involving several people",
+    "rank": 17866,
+    "level": "B2",
+    "id": 934
+  },
+  {
+    "english": "interpretation",
+    "example": "Her interpretation of the poem's meaning differed completely from mine.",
+    "pos": "noun",
+    "definition": "a mental representation of the meaning or significance of something",
+    "rank": 4957,
+    "level": "B2",
+    "id": 936
+  },
+  {
+    "english": "investigator",
+    "example": "The cancer investigator published her findings in a prestigious medical journal.",
+    "pos": "noun",
+    "definition": "a scientist who devotes himself to doing research",
+    "rank": 8561,
+    "level": "B2",
+    "id": 947
+  },
+  {
+    "english": "investor",
+    "example": "The investor decided to buy shares in that promising tech startup.",
+    "pos": "noun",
+    "definition": "someone who commits capital in order to gain financial returns",
+    "rank": 4025,
+    "level": "B2",
+    "id": 949
+  },
+  {
+    "english": "involvement",
+    "example": "he escaped involvement in the accident",
+    "pos": "noun",
+    "definition": "a connection of inclusion or containment",
+    "rank": 4312,
+    "level": "B2",
+    "id": 952
+  },
+  {
+    "english": "ironically",
+    "example": "ironically, he ended up losing money under his own plan",
+    "pos": "adverb",
+    "definition": "contrary to plan or expectation",
+    "rank": 10562,
+    "level": "B2",
+    "id": 953
+  },
+  {
+    "english": "irritation",
+    "example": "My irritation grew as he kept interrupting me during the meeting.",
+    "pos": "noun",
+    "definition": "the psychological state of being irritated or annoyed",
+    "rank": 16736,
+    "level": "B2",
+    "id": 958
+  },
+  {
+    "english": "jealously",
+    "example": "he guarded his privacy jealously",
+    "pos": "adverb",
+    "definition": "with jealousy",
+    "rank": 43214,
+    "level": "B2",
+    "id": 962
+  },
+  {
+    "english": "juror",
+    "example": "The juror listened carefully to all the evidence before casting her vote.",
+    "pos": "noun",
+    "definition": "someone who serves (or waits to be called to serve) on a jury",
+    "rank": 15846,
+    "level": "B2",
+    "id": 967
+  },
+  {
+    "english": "kerosene",
+    "example": "We filled the kerosene lamp with fuel before the power went out.",
+    "pos": "noun",
+    "definition": "a flammable hydrocarbon oil used as fuel in lamps and heaters",
+    "rank": 28274,
+    "level": "B2",
+    "id": 972
+  },
+  {
+    "english": "landslide",
+    "example": "Roosevelt defeated Hoover in a landslide",
+    "pos": "noun",
+    "definition": "an overwhelming electoral victory",
+    "rank": 15647,
+    "level": "B2",
+    "id": 981
+  },
+  {
+    "english": "legislature",
+    "example": "The legislature passed a new law protecting workers' rights last month.",
+    "pos": "noun",
+    "definition": "persons who make or amend or repeal laws",
+    "rank": 5515,
+    "level": "B2",
+    "id": 1005
+  },
+  {
+    "english": "loneliness",
+    "example": "After hiking to the remote cabin, she found unexpected peace in the loneliness of nature.",
+    "pos": "noun",
+    "definition": "the state of being alone in solitary isolation",
+    "rank": 12095,
+    "level": "B2",
+    "id": 1027
+  },
+  {
+    "english": "loosely",
+    "example": "a union of loosely federated states",
+    "pos": "adverb",
+    "definition": "in a loose manner",
+    "rank": 12631,
+    "level": "B2",
+    "id": 1028
+  },
+  {
+    "english": "madam",
+    "example": "The police arrested the madam who was operating an illegal brothel downtown.",
+    "pos": "noun",
+    "definition": "a woman who runs a house of prostitution",
+    "rank": 13192,
+    "level": "B2",
+    "id": 1033
+  },
+  {
+    "english": "madame",
+    "example": "Madame Dubois, the mayor's wife, organized the town's annual charity event.",
+    "pos": "noun",
+    "definition": "title used for a married Frenchwoman",
+    "rank": 9627,
+    "level": "B2",
+    "id": 1034
+  },
+  {
+    "english": "manufacturer",
+    "example": "Toyota is a major car manufacturer with factories across the world.",
+    "pos": "noun",
+    "definition": "a business engaged in manufacturing some product",
+    "rank": 3961,
+    "level": "B2",
+    "id": 1043
+  },
+  {
+    "english": "masseur",
+    "example": "I booked an appointment with a masseur at the spa downtown.",
+    "pos": "noun",
+    "definition": "a male massager",
+    "rank": 63071,
+    "level": "B2",
+    "id": 1050
+  },
+  {
+    "english": "mate",
+    "example": "The first mate reported to the captain about the storm approaching our vessel.",
+    "pos": "noun",
+    "definition": "the officer below the master on a commercial ship",
+    "rank": 2743,
+    "level": "B2",
+    "id": 1054
+  },
+  {
+    "english": "mathematical",
+    "example": "a mathematical textbook",
+    "pos": "adjective",
+    "definition": "of or pertaining to or of the nature of mathematics",
+    "rank": 6709,
+    "level": "B2",
+    "id": 1055
+  },
+  {
+    "english": "mentor",
+    "example": "My high school mentor helped me navigate tough decisions about my future.",
+    "pos": "noun",
+    "definition": "a wise and trusted guide and advisor",
+    "rank": 7940,
+    "level": "B2",
+    "id": 1064
+  },
+  {
+    "english": "merger",
+    "example": "The merger between the two tech companies created an industry giant.",
+    "pos": "noun",
+    "definition": "the combination of two or more commercial companies",
+    "rank": 7475,
+    "level": "B2",
+    "id": 1068
+  },
+  {
+    "english": "microorganism",
+    "example": "Scientists discovered a new microorganism living deep in the ocean trenches.",
+    "pos": "noun",
+    "definition": "any organism of microscopic size",
+    "rank": 24516,
+    "level": "B2",
+    "id": 1071
+  },
+  {
+    "english": "microscopic",
+    "example": "The scientist examined the microscopic bacteria under the lens carefully.",
+    "pos": "adjective",
+    "definition": "visible under a microscope; using a microscope",
+    "rank": 17899,
+    "level": "B2",
+    "id": 1074
+  },
+  {
+    "english": "microscopy",
+    "example": "The biologist used advanced microscopy techniques to study the bacteria samples.",
+    "pos": "noun",
+    "definition": "research with the use of microscopes",
+    "rank": 20708,
+    "level": "B2",
+    "id": 1075
+  },
+  {
+    "english": "misconception",
+    "example": "A common misconception is that sugar makes children hyperactive.",
+    "pos": "noun",
+    "definition": "an incorrect conception",
+    "rank": 21871,
+    "level": "B2",
+    "id": 1087
+  },
+  {
+    "english": "mobility",
+    "example": "The wheelchair's improved mobility allowed her to navigate the store independently.",
+    "pos": "noun",
+    "definition": "the quality of moving freely",
+    "rank": 6594,
+    "level": "B2",
+    "id": 1094
+  },
+  {
+    "english": "momentarily",
+    "example": "we paused momentarily before proceeding",
+    "pos": "adverb",
+    "definition": "for an instant or moment",
+    "rank": 21873,
+    "level": "B2",
+    "id": 1098
+  },
+  {
+    "english": "morally",
+    "example": "he acted morally under the circumstances",
+    "pos": "adverb",
+    "definition": "in a moral manner",
+    "rank": 12462,
+    "level": "B2",
+    "id": 1105
+  },
+  {
+    "english": "narcissistic",
+    "example": "His narcissistic personality made him believe he deserved special treatment everywhere.",
+    "pos": "adjective",
+    "definition": "characteristic of those having an inflated idea of their own importance",
+    "rank": 102017,
+    "level": "B2",
+    "id": 1120
+  },
+  {
+    "english": "narrowly",
+    "example": "he interprets the law narrowly",
+    "pos": "adverb",
+    "definition": "in a narrow manner; not allowing for exceptions",
+    "rank": 12109,
+    "level": "B2",
+    "id": 1122
+  },
+  {
+    "english": "nationwide",
+    "example": "the event aroused nationwide interest",
+    "pos": "adjective",
+    "definition": "occurring or extending throughout a country or nation",
+    "rank": 6383,
+    "level": "B2",
+    "id": 1123
+  },
+  {
+    "english": "necessarily",
+    "example": "such expenses are necessarily incurred",
+    "pos": "adverb",
+    "definition": "in an essential manner",
+    "rank": 3117,
+    "level": "B2",
+    "id": 1130
+  },
+  {
+    "english": "negatively",
+    "example": "he was negatively affected",
+    "pos": "adverb",
+    "definition": "in a harmful manner",
+    "rank": 11429,
+    "level": "B2",
+    "id": 1135
+  },
+  {
+    "english": "nervously",
+    "example": "we watched the stock market nervously",
+    "pos": "adverb",
+    "definition": "in an anxiously nervous manner",
+    "rank": 20441,
+    "level": "B2",
+    "id": 1138
+  },
+  {
+    "english": "nicely",
+    "example": "a nicely painted house",
+    "pos": "adverb",
+    "definition": "in a nice way",
+    "rank": 6386,
+    "level": "B2",
+    "id": 1140
+  },
+  {
+    "english": "offshore",
+    "example": "offshore winds",
+    "pos": "adjective",
+    "definition": "(of winds) coming from the land",
+    "rank": 8179,
+    "level": "B2",
+    "id": 1175
+  },
+  {
+    "english": "openly",
+    "example": "he openly flaunted his affection for his sister",
+    "pos": "adverb",
+    "definition": "in an open way",
+    "rank": 5990,
+    "level": "B2",
+    "id": 1178
+  },
+  {
+    "english": "orchestral",
+    "example": "orchestral score",
+    "pos": "adjective",
+    "definition": "relating to or composed for an orchestra",
+    "rank": 20724,
+    "level": "B2",
+    "id": 1186
+  },
+  {
+    "english": "originally",
+    "example": "She painted the portrait originally, using techniques no other artist had tried before.",
+    "pos": "adverb",
+    "definition": "in an original manner",
+    "rank": 2084,
+    "level": "B2",
+    "id": 1188
+  },
+  {
+    "english": "outback",
+    "example": "My family took a road trip through the Australian outback last summer.",
+    "pos": "noun",
+    "definition": "the bush country of the interior of Australia",
+    "rank": 22164,
+    "level": "B2",
+    "id": 1192
+  },
+  {
+    "english": "outing",
+    "example": "We're planning a family outing to the beach next Saturday afternoon.",
+    "pos": "noun",
+    "definition": "a day devoted to an outdoor social gathering",
+    "rank": 15016,
+    "level": "B2",
+    "id": 1197
+  },
+  {
+    "english": "outpatient",
+    "example": "My mom visits the clinic as an outpatient for her weekly physical therapy sessions.",
+    "pos": "noun",
+    "definition": "a patient who does not reside in the hospital where he is being treated",
+    "rank": 19157,
+    "level": "B2",
+    "id": 1201
+  },
+  {
+    "english": "outsider",
+    "example": "As an outsider to the tech industry, she struggled to understand their jargon.",
+    "pos": "noun",
+    "definition": "someone who is excluded from or is not a member of a group",
+    "rank": 13774,
+    "level": "B2",
+    "id": 1206
+  },
+  {
+    "english": "outwardly",
+    "example": "outwardly, the figure is smooth",
+    "pos": "adverb",
+    "definition": "with respect to the outside",
+    "rank": 28315,
+    "level": "B2",
+    "id": 1207
+  },
+  {
+    "english": "oversize",
+    "example": "The oversize pizza barely fit through our apartment door.",
+    "pos": "adjective",
+    "definition": "larger than normal for its kind",
+    "rank": 42805,
+    "level": "B2",
+    "id": 1216
+  },
+  {
+    "english": "paintbrush",
+    "example": "She dipped her paintbrush into the red paint and started working.",
+    "pos": "noun",
+    "definition": "a brush used as an applicator (to apply paint)",
+    "rank": 46100,
+    "level": "B2",
+    "id": 1226
+  },
+  {
+    "english": "paradox",
+    "example": "`I always lie' is a paradox because if it is true it must be false",
+    "pos": "noun",
+    "definition": "(logic) a statement that contradicts itself",
+    "rank": 12471,
+    "level": "B2",
+    "id": 1230
+  },
+  {
+    "english": "participation",
+    "example": "Their participation in the community garden brought neighbors together as equals.",
+    "pos": "noun",
+    "definition": "the condition of sharing in common with others (as fellows or partners etc.)",
+    "rank": 4102,
+    "level": "B2",
+    "id": 1233
+  },
+  {
+    "english": "passionately",
+    "example": "The wind passionately battered the old house throughout the entire night.",
+    "pos": "adverb",
+    "definition": "in a stormy or violent manner",
+    "rank": 18911,
+    "level": "B2",
+    "id": 1239
+  },
+  {
+    "english": "pastor",
+    "example": "The pastor bird is known for its distinctive rose-colored plumage and glossy black wings.",
+    "pos": "noun",
+    "definition": "only the rose-colored starlings; in some classifications considered a separate genus",
+    "rank": 6277,
+    "level": "B2",
+    "id": 1240
+  },
+  {
+    "english": "patiently",
+    "example": "he patiently played with the child",
+    "pos": "adverb",
+    "definition": "with patience; in a patient manner",
+    "rank": 15466,
+    "level": "B2",
+    "id": 1243
+  },
+  {
+    "english": "pawnshop",
+    "example": "He pawned his guitar at the local pawnshop to pay his rent.",
+    "pos": "noun",
+    "definition": "a shop where loans are made with personal property as security",
+    "rank": 75277,
+    "level": "B2",
+    "id": 1251
+  },
+  {
+    "english": "peacefully",
+    "example": "the hen settled herself on the nest most peacefully",
+    "pos": "adverb",
+    "definition": "in a peaceful manner",
+    "rank": 12472,
+    "level": "B2",
+    "id": 1253
+  },
+  {
+    "english": "pedantic",
+    "example": "His pedantic correction about Latin grammar ruined the casual dinner conversation.",
+    "pos": "adjective",
+    "definition": "marked by a narrow focus on or display of learning especially its trivial aspects",
+    "rank": 43834,
+    "level": "B2",
+    "id": 1259
+  },
+  {
+    "english": "pentagon",
+    "example": "The Pentagon building in Arlington, Virginia is a major architectural landmark.",
+    "pos": "noun",
+    "definition": "a government building with five sides that serves as the headquarters of the United States Department of Defense",
+    "rank": 11263,
+    "level": "B2",
+    "id": 1269
+  },
+  {
+    "english": "permanence",
+    "example": "The permanence of digital data on the internet is often misunderstood by users.",
+    "pos": "noun",
+    "definition": "the property of being able to exist for an indefinite duration",
+    "rank": 39024,
+    "level": "B2",
+    "id": 1273
+  },
+  {
+    "english": "persistence",
+    "example": "The persistence of the rain throughout the week made everyone tired.",
+    "pos": "noun",
+    "definition": "the property of a continuous and connected period of time",
+    "rank": 14808,
+    "level": "B2",
+    "id": 1277
+  },
+  {
+    "english": "personification",
+    "example": "she is the personification of optimism",
+    "pos": "noun",
+    "definition": "a person who represents an abstract quality",
+    "rank": 36279,
+    "level": "B2",
+    "id": 1279
+  },
+  {
+    "english": "ph",
+    "example": "The pH of the pool water needs to be between 7.2 and 7.6.",
+    "pos": "noun",
+    "definition": "(from potential of Hydrogen) the logarithm of the reciprocal of hydrogen-ion concentration in gram atoms per liter; provides a measure on a scale from 0 to 14 of the acidity or alkalinity of a solution (where 7 is neutral and greater than 7 is more basic and less than 7 is more acidic)",
+    "rank": 7481,
+    "level": "B2",
+    "id": 1286
+  },
+  {
+    "english": "pharmacist",
+    "example": "My pharmacist helped me understand how to take my new medication safely.",
+    "pos": "noun",
+    "definition": "a health professional trained in the art of preparing and dispensing drugs",
+    "rank": 18652,
+    "level": "B2",
+    "id": 1287
+  },
+  {
+    "english": "philosophical",
+    "example": "philosophical writing",
+    "pos": "adjective",
+    "definition": "of or relating to philosophy or philosophers",
+    "rank": 7721,
+    "level": "B2",
+    "id": 1289
+  },
+  {
+    "english": "pi",
+    "example": "To calculate the circle's area, we need to multiply pi by the radius squared.",
+    "pos": "noun",
+    "definition": "the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846...",
+    "rank": 8073,
+    "level": "B2",
+    "id": 1292
+  },
+  {
+    "english": "planning",
+    "example": "the planning was more fun than the trip itself",
+    "pos": "noun",
+    "definition": "an act of formulating a program for a definite course of action",
+    "rank": 105365,
+    "level": "B2",
+    "id": 1302
+  },
+  {
+    "english": "playmate",
+    "example": "My daughter and her playmate spent all afternoon building sandcastles together.",
+    "pos": "noun",
+    "definition": "a companion at play",
+    "rank": 36287,
+    "level": "B2",
+    "id": 1303
+  },
+  {
+    "english": "politically",
+    "example": "politically correct clothing",
+    "pos": "adverb",
+    "definition": "with regard to social relationships involving authority",
+    "rank": 6500,
+    "level": "B2",
+    "id": 1317
+  },
+  {
+    "english": "polity",
+    "example": "The country debated whether a democratic polity would work better than monarchy.",
+    "pos": "noun",
+    "definition": "the form of government of a social organization",
+    "rank": 33795,
+    "level": "B2",
+    "id": 1318
+  },
+  {
+    "english": "polo",
+    "example": "Marco Polo traveled the Silk Road and wrote about his adventures in Asia.",
+    "pos": "noun",
+    "definition": "Venetian traveler who explored Asia in the 13th century and served Kublai Khan (1254-1324)",
+    "rank": 10108,
+    "level": "B2",
+    "id": 1319
+  },
+  {
+    "english": "potentially",
+    "example": "he is potentially dangerous",
+    "pos": "adverb",
+    "definition": "with a possibility of becoming actual",
+    "rank": 3715,
+    "level": "B2",
+    "id": 1330
+  },
+  {
+    "english": "powerfully",
+    "example": "the federal government replaced the powerfully pro-settler Sir Godfrey Huggins with the even tougher and more determined ex-trade unionist",
+    "pos": "adverb",
+    "definition": "in a powerful manner",
+    "rank": 24280,
+    "level": "B2",
+    "id": 1331
+  },
+  {
+    "english": "practicality",
+    "example": "The practicality of public transport means most people don't need cars.",
+    "pos": "noun",
+    "definition": "concerned with actual use rather than theoretical possibilities",
+    "rank": 30541,
+    "level": "B2",
+    "id": 1332
+  },
+  {
+    "english": "practically",
+    "example": "practically the first thing I saw when I got off the train",
+    "pos": "adverb",
+    "definition": "almost; nearly",
+    "rank": 5249,
+    "level": "B2",
+    "id": 1333
+  },
+  {
+    "english": "precisely",
+    "example": "he was doing precisely (or exactly) what she had told him to do",
+    "pos": "adverb",
+    "definition": "indicating exactness or preciseness",
+    "rank": 5154,
+    "level": "B2",
+    "id": 1336
+  },
+  {
+    "english": "predictive",
+    "example": "The weather data proved highly predictive of the storm's arrival time.",
+    "pos": "adjective",
+    "definition": "of or relating to prediction; having value for making predictions",
+    "rank": 17926,
+    "level": "B2",
+    "id": 1339
+  },
+  {
+    "english": "preferably",
+    "example": "clean it well, preferably with warm water",
+    "pos": "adverb",
+    "definition": "more readily or willingly",
+    "rank": 11090,
+    "level": "B2",
+    "id": 1341
+  },
+  {
+    "english": "presenter",
+    "example": "The presenter handed the check to the charity's director at the ceremony.",
+    "pos": "noun",
+    "definition": "someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.)",
+    "rank": 10109,
+    "level": "B2",
+    "id": 1346
+  },
+  {
+    "english": "presidential",
+    "example": "criticized the candidate for not looking presidential",
+    "pos": "adjective",
+    "definition": "befitting a president",
+    "rank": 2906,
+    "level": "B2",
+    "id": 1348
+  },
+  {
+    "english": "previously",
+    "example": "she had previously lived in Chicago",
+    "pos": "adverb",
+    "definition": "at an earlier time or formerly",
+    "rank": 1572,
+    "level": "B2",
+    "id": 1355
+  },
+  {
+    "english": "privately",
+    "example": "it was discussed privately between the two men",
+    "pos": "adverb",
+    "definition": "kept private or confined to those intimately concerned",
+    "rank": 7045,
+    "level": "B2",
+    "id": 1363
+  },
+  {
+    "english": "prominence",
+    "example": "Her prominence in the tech industry grew after winning that major innovation award.",
+    "pos": "noun",
+    "definition": "the state of being prominent: widely known or eminent",
+    "rank": 14192,
+    "level": "B2",
+    "id": 1375
+  },
+  {
+    "english": "promptly",
+    "example": "the rescue squad arrived promptly",
+    "pos": "adverb",
+    "definition": "with little or no delay",
+    "rank": 9083,
+    "level": "B2",
+    "id": 1377
+  },
+  {
+    "english": "proponent",
+    "example": "She became a passionate proponent of renewable energy after reading climate reports.",
+    "pos": "noun",
+    "definition": "a person who pleads for a cause or propounds an idea",
+    "rank": 16313,
+    "level": "B2",
+    "id": 1378
+  },
+  {
+    "english": "proudly",
+    "example": "he walked proudly into town",
+    "pos": "adverb",
+    "definition": "with pride; in a proud manner",
+    "rank": 11094,
+    "level": "B2",
+    "id": 1384
+  },
+  {
+    "english": "psychologically",
+    "example": "war that caught them in its toils either psychologically or physically",
+    "pos": "adverb",
+    "definition": "with regard to psychology",
+    "rank": 18403,
+    "level": "B2",
+    "id": 1388
+  },
+  {
+    "english": "punctuality",
+    "example": "Her punctuality impressed the boss, as she arrived before every meeting started.",
+    "pos": "noun",
+    "definition": "the quality or habit of adhering to an appointed time",
+    "rank": 40407,
+    "level": "B2",
+    "id": 1395
+  },
+  {
+    "english": "radically",
+    "example": "she took a radically different approach",
+    "pos": "adverb",
+    "definition": "in a radical manner",
+    "rank": 14197,
+    "level": "B2",
+    "id": 1411
+  },
+  {
+    "english": "rainstorm",
+    "example": "A sudden rainstorm forced us to cancel our outdoor picnic yesterday afternoon.",
+    "pos": "noun",
+    "definition": "a storm with rain",
+    "rank": 46130,
+    "level": "B2",
+    "id": 1415
+  },
+  {
+    "english": "reflective",
+    "example": "a reflective surface",
+    "pos": "adjective",
+    "definition": "capable of physically reflecting light or sound",
+    "rank": 13407,
+    "level": "B2",
+    "id": 1443
+  },
+  {
+    "english": "rental",
+    "example": "The landlord collected rent from all three rental properties on the first of each month.",
+    "pos": "noun",
+    "definition": "property that is leased or rented out or let",
+    "rank": 6091,
+    "level": "B2",
+    "id": 1470
+  },
+  {
+    "english": "replica",
+    "example": "The museum gift shop sells a cheap replica of the famous sculpture.",
+    "pos": "noun",
+    "definition": "copy that is not the original; something that has been copied",
+    "rank": 11779,
+    "level": "B2",
+    "id": 1474
+  },
+  {
+    "english": "repression",
+    "example": "the long repression of Christian sects",
+    "pos": "noun",
+    "definition": "a state of forcible subjugation",
+    "rank": 14825,
+    "level": "B2",
+    "id": 1476
+  },
+  {
+    "english": "rhinoceros",
+    "example": "A rhinoceros can weigh over two tons and run at surprising speeds.",
+    "pos": "noun",
+    "definition": "massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two horns on the snout",
+    "rank": 35048,
+    "level": "B2",
+    "id": 1506
+  },
+  {
+    "english": "righteousness",
+    "example": "She believed in righteousness and always tried to do the right thing.",
+    "pos": "noun",
+    "definition": "adhering to moral principles",
+    "rank": 15493,
+    "level": "B2",
+    "id": 1513
+  },
+  {
+    "english": "rightly",
+    "example": "he was rightly considered the greatest singer of his time",
+    "pos": "adverb",
+    "definition": "with honesty",
+    "rank": 10758,
+    "level": "B2",
+    "id": 1514
+  },
+  {
+    "english": "roommate",
+    "example": "My roommate borrowed my laptop without asking me first yesterday.",
+    "pos": "noun",
+    "definition": "an associate who shares a room with you",
+    "rank": 9530,
+    "level": "B2",
+    "id": 1525
+  },
+  {
+    "english": "salesmanship",
+    "example": "he read a book on salesmanship but it didn't help",
+    "pos": "noun",
+    "definition": "skill in selling; skill in persuading people to buy",
+    "rank": 76294,
+    "level": "B2",
+    "id": 1538
+  },
+  {
+    "english": "salon",
+    "example": "The modern art salon in downtown showcased emerging artists from across the country.",
+    "pos": "noun",
+    "definition": "gallery where works of art can be displayed",
+    "rank": 8725,
+    "level": "B2",
+    "id": 1539
+  },
+  {
+    "english": "scientifically",
+    "example": "this is scientifically interesting",
+    "pos": "adverb",
+    "definition": "with respect to science; in a scientific way",
+    "rank": 16119,
+    "level": "B2",
+    "id": 1552
+  },
+  {
+    "english": "setback",
+    "example": "The injury was a major setback in her training schedule for the marathon.",
+    "pos": "noun",
+    "definition": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+    "rank": 17955,
+    "level": "B2",
+    "id": 1575
+  },
+  {
+    "english": "shakespearean",
+    "example": "Shakespearean plays",
+    "pos": "adjective",
+    "definition": "of or relating to William Shakespeare or his works",
+    "rank": 33842,
+    "level": "B2",
+    "id": 1579
+  },
+  {
+    "english": "sharply",
+    "example": "she was being sharply questioned",
+    "pos": "adverb",
+    "definition": "in an aggressive manner",
+    "rank": 8484,
+    "level": "B2",
+    "id": 1581
+  },
+  {
+    "english": "shooting",
+    "example": "his shooting was slow but accurate",
+    "pos": "noun",
+    "definition": "the act of firing a projectile",
+    "rank": 11462,
+    "level": "B2",
+    "id": 1587
+  },
+  {
+    "english": "shortness",
+    "example": "the shortness of the Channel crossing",
+    "pos": "noun",
+    "definition": "the property of being of short spatial extent",
+    "rank": 33846,
+    "level": "B2",
+    "id": 1588
+  },
+  {
+    "english": "showcase",
+    "example": "it was a showcase for democracy in Africa",
+    "pos": "noun",
+    "definition": "a setting in which something can be displayed to best effect",
+    "rank": 8092,
+    "level": "B2",
+    "id": 1589
+  },
+  {
+    "english": "significantly",
+    "example": "the two groups differed significantly",
+    "pos": "adverb",
+    "definition": "in a statistically significant way",
+    "rank": 2809,
+    "level": "B2",
+    "id": 1592
+  },
+  {
+    "english": "softness",
+    "example": "The softness of the pillow made it perfect for a comfortable night's sleep.",
+    "pos": "noun",
+    "definition": "the property of giving little resistance to pressure and being easily cut or molded",
+    "rank": 29469,
+    "level": "B2",
+    "id": 1618
+  },
+  {
+    "english": "soliloquy",
+    "example": "During my morning run, I had a long soliloquy about whether I should change careers.",
+    "pos": "noun",
+    "definition": "speech you make to yourself",
+    "rank": 102703,
+    "level": "B2",
+    "id": 1622
+  },
+  {
+    "english": "sonnet",
+    "example": "Shakespeare's sonnets follow a strict 14-line structure with iambic pentameter.",
+    "pos": "noun",
+    "definition": "a verse form consisting of 14 lines with a fixed rhyme scheme",
+    "rank": 30598,
+    "level": "B2",
+    "id": 1626
+  },
+  {
+    "english": "soviet",
+    "example": "The local soviet made decisions about housing and factory production.",
+    "pos": "noun",
+    "definition": "an elected governmental council in a communist country (especially one that is a member of the Union of Soviet Socialist Republics)",
+    "rank": 2811,
+    "level": "B2",
+    "id": 1630
+  },
+  {
+    "english": "soybean",
+    "example": "Soybean oil is a healthy cooking ingredient used in many kitchens worldwide.",
+    "pos": "noun",
+    "definition": "a source of oil; used for forage and soil improvement and as food",
+    "rank": 25931,
+    "level": "B2",
+    "id": 1631
+  },
+  {
+    "english": "specifically",
+    "example": "a program specifically for teenagers",
+    "pos": "adverb",
+    "definition": "in distinction from others",
+    "rank": 2269,
+    "level": "B2",
+    "id": 1637
+  },
+  {
+    "english": "standby",
+    "example": "a standby generator",
+    "pos": "adjective",
+    "definition": "ready for emergency use",
+    "rank": 16796,
+    "level": "B2",
+    "id": 1658
+  },
+  {
+    "english": "steely",
+    "example": "The old bridge's steely surface was cold and hard beneath my fingers.",
+    "pos": "adjective",
+    "definition": "resembling steel in hardness",
+    "rank": 36352,
+    "level": "B2",
+    "id": 1664
+  },
+  {
+    "english": "stimulation",
+    "example": "The coach used verbal stimulation to get the team fired up before the game.",
+    "pos": "noun",
+    "definition": "the act of arousing an organism to action",
+    "rank": 11300,
+    "level": "B2",
+    "id": 1674
+  },
+  {
+    "english": "stopover",
+    "example": "there is a stopover to change planes in Chicago",
+    "pos": "noun",
+    "definition": "a stopping place on a journey",
+    "rank": 41901,
+    "level": "B2",
+    "id": 1680
+  },
+  {
+    "english": "strictly",
+    "example": "we talked strictly business",
+    "pos": "adverb",
+    "definition": "restricted to something",
+    "rank": 5555,
+    "level": "B2",
+    "id": 1686
+  },
+  {
+    "english": "stubbornly",
+    "example": "she remained stubbornly in the same position",
+    "pos": "adverb",
+    "definition": "in a stubborn unregenerate manner",
+    "rank": 32198,
+    "level": "B2",
+    "id": 1693
+  },
+  {
+    "english": "sufficiently",
+    "example": "she was sufficiently fluent in Mandarin",
+    "pos": "adverb",
+    "definition": "to a sufficient degree",
+    "rank": 9675,
+    "level": "B2",
+    "id": 1708
+  },
+  {
+    "english": "supplier",
+    "example": "Our company switched to a new supplier for all our office furniture and equipment.",
+    "pos": "noun",
+    "definition": "someone whose business is to supply a particular service or commodity",
+    "rank": 8214,
+    "level": "B2",
+    "id": 1717
+  },
+  {
+    "english": "suspiciously",
+    "example": "she regarded the food suspiciously",
+    "pos": "adverb",
+    "definition": "with suspicion",
+    "rank": 26273,
+    "level": "B2",
+    "id": 1727
+  },
+  {
+    "english": "teaspoon",
+    "example": "Add a teaspoon of vanilla extract to the cake batter.",
+    "pos": "noun",
+    "definition": "as much as a teaspoon will hold",
+    "rank": 19714,
+    "level": "B2",
+    "id": 1746
+  },
+  {
+    "english": "technically",
+    "example": "technically lagging behind the Japanese",
+    "pos": "adverb",
+    "definition": "with regard to technique",
+    "rank": 6105,
+    "level": "B2",
+    "id": 1748
+  },
+  {
+    "english": "temporarily",
+    "example": "he will work here temporarily",
+    "pos": "adverb",
+    "definition": "for a limited time only; not permanently",
+    "rank": 6529,
+    "level": "B2",
+    "id": 1751
+  },
+  {
+    "english": "tenderly",
+    "example": "tenderly she placed her arms round him",
+    "pos": "adverb",
+    "definition": "with tenderness; in a tender manner",
+    "rank": 38199,
+    "level": "B2",
+    "id": 1754
+  },
+  {
+    "english": "tenderness",
+    "example": "Her tenderness toward the scared puppy melted everyone's hearts immediately.",
+    "pos": "noun",
+    "definition": "a tendency to express warm and affectionate feeling",
+    "rank": 21381,
+    "level": "B2",
+    "id": 1755
+  },
+  {
+    "english": "therapist",
+    "example": "My physical therapist helped me recover strength after my knee surgery.",
+    "pos": "noun",
+    "definition": "a person skilled in a particular type of therapy",
+    "rank": 7510,
+    "level": "B2",
+    "id": 1762
+  },
+  {
+    "english": "thickly",
+    "example": "after a few drinks he was beginning to speak thickly",
+    "pos": "adverb",
+    "definition": "spoken with poor articulation as if with a thick tongue",
+    "rank": 45698,
+    "level": "B2",
+    "id": 1767
+  },
+  {
+    "english": "thrilling",
+    "example": "a thrilling wind blew off the frozen lake",
+    "pos": "adjective",
+    "definition": "causing quivering or shivering as by cold or fear or electric shock",
+    "rank": 12875,
+    "level": "B2",
+    "id": 1779
+  },
+  {
+    "english": "timeliness",
+    "example": "The timeliness of the emergency response probably saved several lives yesterday.",
+    "pos": "noun",
+    "definition": "being at the right time",
+    "rank": 43418,
+    "level": "B2",
+    "id": 1783
+  },
+  {
+    "english": "transcript",
+    "example": "he read a transcript of the interrogation",
+    "pos": "noun",
+    "definition": "something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech",
+    "rank": 11310,
+    "level": "B2",
+    "id": 1801
+  },
+  {
+    "english": "truthfulness",
+    "example": "Her truthfulness made her the most trusted person in our group.",
+    "pos": "noun",
+    "definition": "the quality of being truthful",
+    "rank": 47976,
+    "level": "B2",
+    "id": 1832
+  },
+  {
+    "english": "unashamedly",
+    "example": "he unashamedly abandoned the project when he realized he would not gain from it",
+    "pos": "adverb",
+    "definition": "without shame",
+    "rank": 62589,
+    "level": "B2",
+    "id": 1848
+  },
+  {
+    "english": "unattractive",
+    "example": "as unattractive as most mining regions",
+    "pos": "adjective",
+    "definition": "lacking beauty or charm",
+    "rank": 18208,
+    "level": "B2",
+    "id": 1849
+  },
+  {
+    "english": "unavailable",
+    "example": "fresh milk was unavailable during the emergency",
+    "pos": "adjective",
+    "definition": "not available or accessible or at hand",
+    "rank": 12521,
+    "level": "B2",
+    "id": 1850
+  },
+  {
+    "english": "unchanged",
+    "example": "the causes that produced them have remained unchanged",
+    "pos": "adjective",
+    "definition": "not made or become different",
+    "rank": 10628,
+    "level": "B2",
+    "id": 1853
+  },
+  {
+    "english": "uncomfortably",
+    "example": "she lay on the couch, her body uncomfortably twisted",
+    "pos": "adverb",
+    "definition": "in physical discomfort",
+    "rank": 29134,
+    "level": "B2",
+    "id": 1854
+  },
+  {
+    "english": "undersea",
+    "example": "The undersea cables that connect continents transmit most of the world's data.",
+    "pos": "adjective",
+    "definition": "beneath the surface of the sea",
+    "rank": 34735,
+    "level": "B2",
+    "id": 1861
+  },
+  {
+    "english": "undoubtedly",
+    "example": "it's undoubtedly very beautiful",
+    "pos": "adverb",
+    "definition": "without doubt; certainly",
+    "rank": 8621,
+    "level": "B2",
+    "id": 1866
+  },
+  {
+    "english": "undreamed",
+    "example": "The technology available today would have been utterly undreamed of fifty years ago.",
+    "pos": "adjective",
+    "definition": "not imagined even in a dream",
+    "rank": 137682,
+    "level": "B2",
+    "id": 1867
+  },
+  {
+    "english": "unease",
+    "example": "After eating that seafood, I felt a growing unease in my stomach.",
+    "pos": "noun",
+    "definition": "physical discomfort (as mild sickness or depression)",
+    "rank": 38218,
+    "level": "B2",
+    "id": 1868
+  },
+  {
+    "english": "unenthusiastic",
+    "example": "an unenthusiastic performance by the orchestra",
+    "pos": "adjective",
+    "definition": "not enthusiastic; lacking excitement or ardor",
+    "rank": 71197,
+    "level": "B2",
+    "id": 1869
+  },
+  {
+    "english": "unhappiness",
+    "example": "Her unhappiness grew when she realized she'd failed the exam.",
+    "pos": "noun",
+    "definition": "emotions experienced when not in a state of well-being",
+    "rank": 24043,
+    "level": "B2",
+    "id": 1874
+  },
+  {
+    "english": "unimaginable",
+    "example": "It would be unimaginable for my cat to actually listen to me.",
+    "pos": "adjective",
+    "definition": "totally unlikely",
+    "rank": 24045,
+    "level": "B2",
+    "id": 1875
+  },
+  {
+    "english": "unmistakable",
+    "example": "his opposition to slavery was unmistakable",
+    "pos": "adjective",
+    "definition": "clearly evident to the mind",
+    "rank": 26293,
+    "level": "B2",
+    "id": 1881
+  },
+  {
+    "english": "unmistakably",
+    "example": "this watercolor is unmistakably a synthesis of nature",
+    "pos": "adverb",
+    "definition": "without possibility of mistake",
+    "rank": 45726,
+    "level": "B2",
+    "id": 1882
+  },
+  {
+    "english": "unrealistic",
+    "example": "unrealistic expectations",
+    "pos": "adjective",
+    "definition": "not realistic",
+    "rank": 14243,
+    "level": "B2",
+    "id": 1886
+  },
+  {
+    "english": "unsatisfactory",
+    "example": "shops should take back unsatisfactory goods",
+    "pos": "adjective",
+    "definition": "not giving satisfaction",
+    "rank": 27323,
+    "level": "B2",
+    "id": 1891
+  },
+  {
+    "english": "unselfish",
+    "example": "She made the unselfish choice to donate her kidney to a stranger.",
+    "pos": "adjective",
+    "definition": "disregarding your own advantages and welfare over those of others",
+    "rank": 40946,
+    "level": "B2",
+    "id": 1892
+  },
+  {
+    "english": "unsuccessful",
+    "example": "The startup's unsuccessful attempt to raise funding forced them to shut down.",
+    "pos": "adjective",
+    "definition": "not successful; having failed or having an unfavorable outcome",
+    "rank": 10789,
+    "level": "B2",
+    "id": 1893
+  },
+  {
+    "english": "unsuitable",
+    "example": "a solvent unsuitable for use on wood surfaces",
+    "pos": "adjective",
+    "definition": "not meant or adapted for a particular purpose",
+    "rank": 20533,
+    "level": "B2",
+    "id": 1894
+  },
+  {
+    "english": "untreated",
+    "example": "an untreated disease",
+    "pos": "adjective",
+    "definition": "not given medical care or treatment",
+    "rank": 18985,
+    "level": "B2",
+    "id": 1896
+  },
+  {
+    "english": "urgently",
+    "example": "health care reform is needed urgently",
+    "pos": "adverb",
+    "definition": "with great urgency",
+    "rank": 15544,
+    "level": "B2",
+    "id": 1905
+  },
+  {
+    "english": "user",
+    "example": "The software was designed with the average user in mind.",
+    "pos": "noun",
+    "definition": "a person who makes use of a thing; someone who uses or employs something",
+    "rank": 1678,
+    "level": "B2",
+    "id": 1906
+  },
+  {
+    "english": "valentine",
+    "example": "will you be my valentine?",
+    "pos": "noun",
+    "definition": "a sweetheart chosen to receive a greeting on Saint Valentine's Day",
+    "rank": 10146,
+    "level": "B2",
+    "id": 1913
+  },
+  {
+    "english": "verbally",
+    "example": "he had a habit of using nouns verbally",
+    "pos": "adverb",
+    "definition": "as a verb",
+    "rank": 17054,
+    "level": "B2",
+    "id": 1921
+  },
+  {
+    "english": "vigorously",
+    "example": "he defended his ideas vigorously",
+    "pos": "adverb",
+    "definition": "with vigor; in a vigorous manner",
+    "rank": 17516,
+    "level": "B2",
+    "id": 1929
+  },
+  {
+    "english": "visibly",
+    "example": "the sign was visibly displayed",
+    "pos": "adverb",
+    "definition": "so as to be visible",
+    "rank": 17517,
+    "level": "B2",
+    "id": 1936
+  },
+  {
+    "english": "waistcoat",
+    "example": "He wore a gray waistcoat under his blazer to stay warm indoors.",
+    "pos": "noun",
+    "definition": "a man's sleeveless garment worn underneath a coat",
+    "rank": 44012,
+    "level": "B2",
+    "id": 1945
+  },
+  {
+    "english": "walker",
+    "example": "Walker's sub-3:50 mile record stood as a remarkable achievement for decades.",
+    "pos": "noun",
+    "definition": "New Zealand runner who in 1975 became the first person to run a mile in less that 3 minutes and 50 seconds (born in 1952)",
+    "rank": 3538,
+    "level": "B2",
+    "id": 1947
+  },
+  {
+    "english": "wallboard",
+    "example": "The contractor hung wallboard sheets to create the new interior walls.",
+    "pos": "noun",
+    "definition": "a wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses",
+    "rank": 111197,
+    "level": "B2",
+    "id": 1948
+  },
+  {
+    "english": "wartime",
+    "example": "During wartime, many civilians had to leave their homes and seek safety elsewhere.",
+    "pos": "noun",
+    "definition": "a period of time during which there is armed conflict",
+    "rank": 13270,
+    "level": "B2",
+    "id": 1950
+  },
+  {
+    "english": "weakly",
+    "example": "weakly agreed to a compromise",
+    "pos": "adverb",
+    "definition": "in a weak or feeble manner or to a minor degree",
+    "rank": 23432,
+    "level": "B2",
+    "id": 1954
+  },
+  {
+    "english": "willingly",
+    "example": "I willingly accept",
+    "pos": "adverb",
+    "definition": "in a willing manner",
+    "rank": 13446,
+    "level": "B2",
+    "id": 1971
+  },
+  {
+    "english": "workbench",
+    "example": "The carpenter organized his tools neatly across the wooden workbench.",
+    "pos": "noun",
+    "definition": "a strong worktable for a carpenter or mechanic",
+    "rank": 48020,
+    "level": "B2",
+    "id": 1983
+  },
+  {
+    "english": "workman",
+    "example": "The experienced workman carefully installed the new pipes in the basement.",
+    "pos": "noun",
+    "definition": "an employee who performs manual or industrial labor",
+    "rank": 30658,
+    "level": "B2",
+    "id": 1984
+  },
+  {
+    "english": "worktable",
+    "example": "The artist set up her worktable with paints, brushes, and canvas before starting.",
+    "pos": "noun",
+    "definition": "a table designed for a particular task",
+    "rank": 165060,
+    "level": "B2",
+    "id": 1985
+  },
+  {
+    "english": "worldwide",
+    "example": "worldwide distribution",
+    "pos": "adjective",
+    "definition": "spanning or extending throughout the entire world",
+    "rank": 2815,
+    "level": "B2",
+    "id": 1987
+  },
+  {
+    "english": "wrongly",
+    "example": "wouldst not play false and yet would wrongly win",
+    "pos": "adverb",
+    "definition": "without justice or fairness; - Shakespeare",
+    "rank": 15943,
+    "level": "B2",
+    "id": 1993
+  }
+]

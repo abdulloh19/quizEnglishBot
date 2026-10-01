@@ -1,0 +1,2531 @@
+[
+  {
+    "english": "account",
+    "example": "",
+    "pos": "noun",
+    "definition": "a record or narrative description of past events",
+    "rank": 616,
+    "level": "A2",
+    "id": 6
+  },
+  {
+    "english": "chance",
+    "example": "",
+    "pos": "noun",
+    "definition": "a possibility due to a favorable combination of circumstances",
+    "rank": 548,
+    "level": "A2",
+    "id": 154
+  },
+  {
+    "english": "continue",
+    "example": "",
+    "pos": "verb",
+    "definition": "continue a certain state, condition, or activity",
+    "rank": 865,
+    "level": "A2",
+    "id": 209
+  },
+  {
+    "english": "country",
+    "example": "",
+    "pos": "noun",
+    "definition": "a politically organized body of people under a single government",
+    "rank": 313,
+    "level": "A2",
+    "id": 218
+  },
+  {
+    "english": "decide",
+    "example": "",
+    "pos": "verb",
+    "definition": "reach, make, or come to a decision about something",
+    "rank": 846,
+    "level": "A2",
+    "id": 250
+  },
+  {
+    "english": "especially",
+    "example": "",
+    "pos": "adverb",
+    "definition": "to a distinctly greater extent or degree than is common",
+    "rank": 618,
+    "level": "A2",
+    "id": 328
+  },
+  {
+    "english": "face",
+    "example": "",
+    "pos": "verb",
+    "definition": "deal with (something unpleasant) head on",
+    "rank": 335,
+    "level": "A2",
+    "id": 348
+  },
+  {
+    "english": "fall",
+    "example": "",
+    "pos": "verb",
+    "definition": "descend in free fall under the influence of gravity",
+    "rank": 766,
+    "level": "A2",
+    "id": 352
+  },
+  {
+    "english": "film",
+    "example": "",
+    "pos": "noun",
+    "definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+    "rank": 633,
+    "level": "A2",
+    "id": 369
+  },
+  {
+    "english": "help",
+    "example": "",
+    "pos": "noun",
+    "definition": "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose",
+    "rank": 171,
+    "level": "A2",
+    "id": 438
+  },
+  {
+    "english": "increase",
+    "example": "",
+    "pos": "verb",
+    "definition": "become bigger or greater in amount",
+    "rank": 877,
+    "level": "A2",
+    "id": 466
+  },
+  {
+    "english": "level",
+    "example": "",
+    "pos": "noun",
+    "definition": "a position on a scale of intensity or amount or quality",
+    "rank": 377,
+    "level": "A2",
+    "id": 517
+  },
+  {
+    "english": "lose",
+    "example": "",
+    "pos": "verb",
+    "definition": "fail to keep or to maintain; cease to have, either physically or in an abstract sense",
+    "rank": 400,
+    "level": "A2",
+    "id": 530
+  },
+  {
+    "english": "mean",
+    "example": "",
+    "pos": "adjective",
+    "definition": "approximating the statistical norm or average or expected value",
+    "rank": 274,
+    "level": "A2",
+    "id": 553
+  },
+  {
+    "english": "need",
+    "example": "",
+    "pos": "verb",
+    "definition": "require as useful, just, or proper",
+    "rank": 112,
+    "level": "A2",
+    "id": 590
+  },
+  {
+    "english": "police",
+    "example": "",
+    "pos": "noun",
+    "definition": "the force of policemen and officers",
+    "rank": 471,
+    "level": "A2",
+    "id": 665
+  },
+  {
+    "english": "provide",
+    "example": "",
+    "pos": "verb",
+    "definition": "give something useful or necessary to",
+    "rank": 738,
+    "level": "A2",
+    "id": 697
+  },
+  {
+    "english": "send",
+    "example": "",
+    "pos": "verb",
+    "definition": "cause to go somewhere",
+    "rank": 722,
+    "level": "A2",
+    "id": 792
+  },
+  {
+    "english": "simply",
+    "example": "",
+    "pos": "adverb",
+    "definition": "and nothing more",
+    "rank": 887,
+    "level": "A2",
+    "id": 815
+  },
+  {
+    "english": "society",
+    "example": "",
+    "pos": "noun",
+    "definition": "an extended social group having a distinctive cultural and economic organization",
+    "rank": 700,
+    "level": "A2",
+    "id": 830
+  },
+  {
+    "english": "step",
+    "example": "",
+    "pos": "noun",
+    "definition": "any maneuver made as part of progress toward a goal",
+    "rank": 779,
+    "level": "A2",
+    "id": 861
+  },
+  {
+    "english": "sure",
+    "example": "",
+    "pos": "adverb",
+    "definition": "definitely or positively (`sure' is sometimes used informally for `surely')",
+    "rank": 202,
+    "level": "A2",
+    "id": 887
+  },
+  {
+    "english": "try",
+    "example": "",
+    "pos": "verb",
+    "definition": "make an effort or attempt",
+    "rank": 299,
+    "level": "A2",
+    "id": 937
+  },
+  {
+    "english": "yeah",
+    "example": "",
+    "pos": "adverb",
+    "definition": "not only so, but",
+    "rank": 428,
+    "level": "A2",
+    "id": 998
+  },
+  {
+    "english": "abruptly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "quickly and without warning",
+    "rank": 13652,
+    "level": "B2",
+    "id": 4
+  },
+  {
+    "english": "accumulate",
+    "example": "",
+    "pos": "verb",
+    "definition": "get or gather together",
+    "rank": 11157,
+    "level": "B2",
+    "id": 11
+  },
+  {
+    "english": "ache",
+    "example": "",
+    "pos": "verb",
+    "definition": "feel physical pain",
+    "rank": 16397,
+    "level": "B2",
+    "id": 13
+  },
+  {
+    "english": "admittedly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "as acknowledged",
+    "rank": 14060,
+    "level": "B2",
+    "id": 29
+  },
+  {
+    "english": "adore",
+    "example": "",
+    "pos": "verb",
+    "definition": "love intensely",
+    "rank": 11158,
+    "level": "B2",
+    "id": 31
+  },
+  {
+    "english": "affectionately",
+    "example": "",
+    "pos": "adverb",
+    "definition": "with affection",
+    "rank": 24974,
+    "level": "B2",
+    "id": 41
+  },
+  {
+    "english": "aggressively",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in an aggressive manner",
+    "rank": 12358,
+    "level": "B2",
+    "id": 43
+  },
+  {
+    "english": "alert",
+    "example": "",
+    "pos": "verb",
+    "definition": "warn or arouse to a sense of danger or call to a state of preparedness",
+    "rank": 4057,
+    "level": "B2",
+    "id": 48
+  },
+  {
+    "english": "alternatively",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in place of, or as an alternative to",
+    "rank": 9435,
+    "level": "B2",
+    "id": 55
+  },
+  {
+    "english": "amazement",
+    "example": "",
+    "pos": "noun",
+    "definition": "the feeling that accompanies something extremely surprising",
+    "rank": 28813,
+    "level": "B2",
+    "id": 58
+  },
+  {
+    "english": "amplify",
+    "example": "",
+    "pos": "verb",
+    "definition": "increase in size, volume or significance",
+    "rank": 18480,
+    "level": "B2",
+    "id": 65
+  },
+  {
+    "english": "amuse",
+    "example": "",
+    "pos": "verb",
+    "definition": "occupy in an agreeable, entertaining or pleasant fashion",
+    "rank": 14267,
+    "level": "B2",
+    "id": 66
+  },
+  {
+    "english": "articulate",
+    "example": "",
+    "pos": "verb",
+    "definition": "provide with a joint",
+    "rank": 14067,
+    "level": "B2",
+    "id": 90
+  },
+  {
+    "english": "artistry",
+    "example": "",
+    "pos": "noun",
+    "definition": "a superior skill that you can learn by study and practice and observation",
+    "rank": 24661,
+    "level": "B2",
+    "id": 92
+  },
+  {
+    "english": "assemble",
+    "example": "",
+    "pos": "verb",
+    "definition": "create by putting components or members together",
+    "rank": 7525,
+    "level": "B2",
+    "id": 97
+  },
+  {
+    "english": "assure",
+    "example": "",
+    "pos": "verb",
+    "definition": "make certain of",
+    "rank": 6329,
+    "level": "B2",
+    "id": 104
+  },
+  {
+    "english": "authoritative",
+    "example": "",
+    "pos": "adjective",
+    "definition": "having authority or ascendancy or influence",
+    "rank": 17079,
+    "level": "B2",
+    "id": 117
+  },
+  {
+    "english": "await",
+    "example": "",
+    "pos": "verb",
+    "definition": "look forward to the probable occurrence of",
+    "rank": 10329,
+    "level": "B2",
+    "id": 119
+  },
+  {
+    "english": "bankrupt",
+    "example": "",
+    "pos": "verb",
+    "definition": "reduce to bankruptcy",
+    "rank": 10654,
+    "level": "B2",
+    "id": 131
+  },
+  {
+    "english": "benefit",
+    "example": "",
+    "pos": "verb",
+    "definition": "derive a benefit from",
+    "rank": 1520,
+    "level": "B2",
+    "id": 145
+  },
+  {
+    "english": "bid",
+    "example": "",
+    "pos": "verb",
+    "definition": "propose a payment",
+    "rank": 3601,
+    "level": "B2",
+    "id": 153
+  },
+  {
+    "english": "bind",
+    "example": "",
+    "pos": "verb",
+    "definition": "stick to firmly",
+    "rank": 3212,
+    "level": "B2",
+    "id": 156
+  },
+  {
+    "english": "breathtaking",
+    "example": "",
+    "pos": "adjective",
+    "definition": "tending to cause suspension of regular breathing",
+    "rank": 12926,
+    "level": "B2",
+    "id": 192
+  },
+  {
+    "english": "bum",
+    "example": "",
+    "pos": "noun",
+    "definition": "a person who is deemed to be despicable or contemptible",
+    "rank": 10339,
+    "level": "B2",
+    "id": 204
+  },
+  {
+    "english": "cease",
+    "example": "",
+    "pos": "verb",
+    "definition": "put an end to a state or an activity",
+    "rank": 6769,
+    "level": "B2",
+    "id": 236
+  },
+  {
+    "english": "challenge",
+    "example": "",
+    "pos": "verb",
+    "definition": "take exception to",
+    "rank": 1389,
+    "level": "B2",
+    "id": 244
+  },
+  {
+    "english": "chew",
+    "example": "",
+    "pos": "verb",
+    "definition": "chew (food); to bite and grind with the teeth",
+    "rank": 11850,
+    "level": "B2",
+    "id": 255
+  },
+  {
+    "english": "chief",
+    "example": "",
+    "pos": "noun",
+    "definition": "a person who is in charge",
+    "rank": 804,
+    "level": "B2",
+    "id": 256
+  },
+  {
+    "english": "clumsy",
+    "example": "",
+    "pos": "adjective",
+    "definition": "lacking grace in movement or posture",
+    "rank": 16199,
+    "level": "B2",
+    "id": 277
+  },
+  {
+    "english": "collapse",
+    "example": "",
+    "pos": "verb",
+    "definition": "break down, literally or metaphorically",
+    "rank": 5309,
+    "level": "B2",
+    "id": 288
+  },
+  {
+    "english": "commemorate",
+    "example": "",
+    "pos": "verb",
+    "definition": "mark by some ceremony or observation",
+    "rank": 15134,
+    "level": "B2",
+    "id": 296
+  },
+  {
+    "english": "compensate",
+    "example": "",
+    "pos": "verb",
+    "definition": "adjust for",
+    "rank": 9862,
+    "level": "B2",
+    "id": 307
+  },
+  {
+    "english": "concede",
+    "example": "",
+    "pos": "verb",
+    "definition": "admit (to a wrongdoing)",
+    "rank": 12391,
+    "level": "B2",
+    "id": 323
+  },
+  {
+    "english": "conceivable",
+    "example": "",
+    "pos": "adjective",
+    "definition": "capable of being imagined",
+    "rank": 23213,
+    "level": "B2",
+    "id": 324
+  },
+  {
+    "english": "conceive",
+    "example": "",
+    "pos": "verb",
+    "definition": "have the idea for",
+    "rank": 8650,
+    "level": "B2",
+    "id": 325
+  },
+  {
+    "english": "concern",
+    "example": "",
+    "pos": "verb",
+    "definition": "be relevant to",
+    "rank": 1815,
+    "level": "B2",
+    "id": 327
+  },
+  {
+    "english": "confine",
+    "example": "",
+    "pos": "verb",
+    "definition": "place limits on (extent or access)",
+    "rank": 9307,
+    "level": "B2",
+    "id": 338
+  },
+  {
+    "english": "considerably",
+    "example": "",
+    "pos": "adverb",
+    "definition": "to a great extent or degree",
+    "rank": 7110,
+    "level": "B2",
+    "id": 346
+  },
+  {
+    "english": "consultant",
+    "example": "",
+    "pos": "noun",
+    "definition": "an expert who gives advice",
+    "rank": 5775,
+    "level": "B2",
+    "id": 352
+  },
+  {
+    "english": "contaminate",
+    "example": "",
+    "pos": "verb",
+    "definition": "make impure",
+    "rank": 11186,
+    "level": "B2",
+    "id": 353
+  },
+  {
+    "english": "controversy",
+    "example": "",
+    "pos": "noun",
+    "definition": "a contentious speech act; a dispute where there is strong disagreement",
+    "rank": 4591,
+    "level": "B2",
+    "id": 361
+  },
+  {
+    "english": "cooperate",
+    "example": "",
+    "pos": "verb",
+    "definition": "work together on a common enterprise of project",
+    "rank": 9723,
+    "level": "B2",
+    "id": 370
+  },
+  {
+    "english": "cope",
+    "example": "",
+    "pos": "verb",
+    "definition": "come to terms with",
+    "rank": 6668,
+    "level": "B2",
+    "id": 373
+  },
+  {
+    "english": "crease",
+    "example": "",
+    "pos": "noun",
+    "definition": "an angular or rounded shape made by folding",
+    "rank": 19303,
+    "level": "B2",
+    "id": 403
+  },
+  {
+    "english": "daytime",
+    "example": "",
+    "pos": "noun",
+    "definition": "the time after sunrise and before sunset while it is light outside",
+    "rank": 11863,
+    "level": "B2",
+    "id": 431
+  },
+  {
+    "english": "decline",
+    "example": "",
+    "pos": "verb",
+    "definition": "grow worse",
+    "rank": 3617,
+    "level": "B2",
+    "id": 441
+  },
+  {
+    "english": "decorative",
+    "example": "",
+    "pos": "adjective",
+    "definition": "serving an esthetic rather than a useful purpose",
+    "rank": 9594,
+    "level": "B2",
+    "id": 445
+  },
+  {
+    "english": "deem",
+    "example": "",
+    "pos": "verb",
+    "definition": "keep in mind or convey as a conviction or view",
+    "rank": 5210,
+    "level": "B2",
+    "id": 449
+  },
+  {
+    "english": "defy",
+    "example": "",
+    "pos": "verb",
+    "definition": "resist or confront with resistance",
+    "rank": 16683,
+    "level": "B2",
+    "id": 454
+  },
+  {
+    "english": "deliberate",
+    "example": "",
+    "pos": "adjective",
+    "definition": "carefully thought out in advance",
+    "rank": 9318,
+    "level": "B2",
+    "id": 456
+  },
+  {
+    "english": "delicately",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in a delicate manner",
+    "rank": 27118,
+    "level": "B2",
+    "id": 459
+  },
+  {
+    "english": "desire",
+    "example": "",
+    "pos": "verb",
+    "definition": "feel or have a desire for; want strongly",
+    "rank": 2436,
+    "level": "B2",
+    "id": 469
+  },
+  {
+    "english": "devote",
+    "example": "",
+    "pos": "verb",
+    "definition": "give entirely to a specific person, activity, or cause",
+    "rank": 5318,
+    "level": "B2",
+    "id": 480
+  },
+  {
+    "english": "disgrace",
+    "example": "",
+    "pos": "noun",
+    "definition": "a state of dishonor",
+    "rank": 10681,
+    "level": "B2",
+    "id": 499
+  },
+  {
+    "english": "displace",
+    "example": "",
+    "pos": "verb",
+    "definition": "cause to move, usually with force or pressure",
+    "rank": 9597,
+    "level": "B2",
+    "id": 505
+  },
+  {
+    "english": "disqualify",
+    "example": "",
+    "pos": "verb",
+    "definition": "make unfit or unsuitable",
+    "rank": 16214,
+    "level": "B2",
+    "id": 510
+  },
+  {
+    "english": "donate",
+    "example": "",
+    "pos": "verb",
+    "definition": "give to a charity or good cause",
+    "rank": 6463,
+    "level": "B2",
+    "id": 526
+  },
+  {
+    "english": "dreadful",
+    "example": "",
+    "pos": "adjective",
+    "definition": "causing fear or dread or terror",
+    "rank": 11882,
+    "level": "B2",
+    "id": 545
+  },
+  {
+    "english": "dreamy",
+    "example": "",
+    "pos": "adjective",
+    "definition": "dreamy in mood or nature",
+    "rank": 21496,
+    "level": "B2",
+    "id": 546
+  },
+  {
+    "english": "economical",
+    "example": "",
+    "pos": "adjective",
+    "definition": "using the minimum of time or resources necessary for effectiveness",
+    "rank": 13141,
+    "level": "B2",
+    "id": 559
+  },
+  {
+    "english": "eloquent",
+    "example": "",
+    "pos": "adjective",
+    "definition": "expressing yourself readily, clearly, effectively",
+    "rank": 22069,
+    "level": "B2",
+    "id": 577
+  },
+  {
+    "english": "emphatically",
+    "example": "",
+    "pos": "adverb",
+    "definition": "without question and beyond doubt",
+    "rank": 26411,
+    "level": "B2",
+    "id": 581
+  },
+  {
+    "english": "employ",
+    "example": "",
+    "pos": "verb",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "rank": 3486,
+    "level": "B2",
+    "id": 582
+  },
+  {
+    "english": "encounter",
+    "example": "",
+    "pos": "verb",
+    "definition": "come together",
+    "rank": 4596,
+    "level": "B2",
+    "id": 585
+  },
+  {
+    "english": "endlessly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "continuing forever without end",
+    "rank": 15808,
+    "level": "B2",
+    "id": 586
+  },
+  {
+    "english": "endorse",
+    "example": "",
+    "pos": "verb",
+    "definition": "be behind; approve of",
+    "rank": 8661,
+    "level": "B2",
+    "id": 587
+  },
+  {
+    "english": "enforce",
+    "example": "",
+    "pos": "verb",
+    "definition": "ensure observance of laws and rules",
+    "rank": 7559,
+    "level": "B2",
+    "id": 590
+  },
+  {
+    "english": "engagement",
+    "example": "",
+    "pos": "noun",
+    "definition": "a hostile meeting of opposing military forces in the course of a war",
+    "rank": 4233,
+    "level": "B2",
+    "id": 591
+  },
+  {
+    "english": "envy",
+    "example": "",
+    "pos": "verb",
+    "definition": "feel envious towards; admire enviously",
+    "rank": 9040,
+    "level": "B2",
+    "id": 598
+  },
+  {
+    "english": "equip",
+    "example": "",
+    "pos": "verb",
+    "definition": "provide with (something) usually for a specific purpose",
+    "rank": 4445,
+    "level": "B2",
+    "id": 600
+  },
+  {
+    "english": "essentially",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in essence; at bottom or by one's (or its) very nature",
+    "rank": 3489,
+    "level": "B2",
+    "id": 605
+  },
+  {
+    "english": "evaluate",
+    "example": "",
+    "pos": "verb",
+    "definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+    "rank": 7010,
+    "level": "B2",
+    "id": 612
+  },
+  {
+    "english": "everlasting",
+    "example": "",
+    "pos": "adjective",
+    "definition": "continuing forever or indefinitely",
+    "rank": 16227,
+    "level": "B2",
+    "id": 614
+  },
+  {
+    "english": "evidently",
+    "example": "",
+    "pos": "adverb",
+    "definition": "unmistakably (`plain' is often used informally for `plainly')",
+    "rank": 12970,
+    "level": "B2",
+    "id": 615
+  },
+  {
+    "english": "evolve",
+    "example": "",
+    "pos": "verb",
+    "definition": "work out",
+    "rank": 6137,
+    "level": "B2",
+    "id": 618
+  },
+  {
+    "english": "exalt",
+    "example": "",
+    "pos": "verb",
+    "definition": "praise, glorify, or honor",
+    "rank": 23828,
+    "level": "B2",
+    "id": 620
+  },
+  {
+    "english": "excel",
+    "example": "",
+    "pos": "verb",
+    "definition": "distinguish oneself",
+    "rank": 10691,
+    "level": "B2",
+    "id": 622
+  },
+  {
+    "english": "exceptional",
+    "example": "",
+    "pos": "adjective",
+    "definition": "far beyond what is usual in magnitude or degree",
+    "rank": 6571,
+    "level": "B2",
+    "id": 624
+  },
+  {
+    "english": "exclude",
+    "example": "",
+    "pos": "verb",
+    "definition": "prevent from being included or considered or accepted",
+    "rank": 8418,
+    "level": "B2",
+    "id": 628
+  },
+  {
+    "english": "exclusively",
+    "example": "",
+    "pos": "adverb",
+    "definition": "without any others being included or involved",
+    "rank": 4757,
+    "level": "B2",
+    "id": 630
+  },
+  {
+    "english": "execute",
+    "example": "",
+    "pos": "verb",
+    "definition": "kill as a means of socially sanctioned punishment",
+    "rank": 4525,
+    "level": "B2",
+    "id": 632
+  },
+  {
+    "english": "expert",
+    "example": "",
+    "pos": "adjective",
+    "definition": "having or showing knowledge and skill and aptitude",
+    "rank": 2677,
+    "level": "B2",
+    "id": 645
+  },
+  {
+    "english": "explode",
+    "example": "",
+    "pos": "verb",
+    "definition": "cause to burst with a violent release of energy",
+    "rank": 9605,
+    "level": "B2",
+    "id": 646
+  },
+  {
+    "english": "extraordinarily",
+    "example": "",
+    "pos": "adverb",
+    "definition": "extremely",
+    "rank": 16705,
+    "level": "B2",
+    "id": 657
+  },
+  {
+    "english": "eyelid",
+    "example": "",
+    "pos": "noun",
+    "definition": "either of two folds of skin that can be moved to cover or open the eye",
+    "rank": 23533,
+    "level": "B2",
+    "id": 659
+  },
+  {
+    "english": "fantastically",
+    "example": "",
+    "pos": "adverb",
+    "definition": "exceedingly; extremely",
+    "rank": 28203,
+    "level": "B2",
+    "id": 668
+  },
+  {
+    "english": "fearsome",
+    "example": "",
+    "pos": "adjective",
+    "definition": "causing fear or dread or terror",
+    "rank": 27145,
+    "level": "B2",
+    "id": 675
+  },
+  {
+    "english": "flame",
+    "example": "",
+    "pos": "noun",
+    "definition": "the process of combustion of inflammable materials producing heat and light and (often) smoke",
+    "rank": 6357,
+    "level": "B2",
+    "id": 693
+  },
+  {
+    "english": "flee",
+    "example": "",
+    "pos": "verb",
+    "definition": "run away quickly",
+    "rank": 6573,
+    "level": "B2",
+    "id": 698
+  },
+  {
+    "english": "formerly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "at a previous time",
+    "rank": 4760,
+    "level": "B2",
+    "id": 718
+  },
+  {
+    "english": "found",
+    "example": "",
+    "pos": "verb",
+    "definition": "set up or found",
+    "rank": 2997,
+    "level": "B2",
+    "id": 722
+  },
+  {
+    "english": "frankly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "(used as intensives reflecting the speaker's attitude) it is sincerely the case that",
+    "rank": 6575,
+    "level": "B2",
+    "id": 725
+  },
+  {
+    "english": "frantically",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in an uncontrolled manner",
+    "rank": 22977,
+    "level": "B2",
+    "id": 726
+  },
+  {
+    "english": "furious",
+    "example": "",
+    "pos": "adjective",
+    "definition": "marked by extreme and violent energy",
+    "rank": 7341,
+    "level": "B2",
+    "id": 733
+  },
+  {
+    "english": "generously",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in a generous manner",
+    "rank": 19846,
+    "level": "B2",
+    "id": 745
+  },
+  {
+    "english": "genuinely",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in accordance with truth or fact or reality",
+    "rank": 6054,
+    "level": "B2",
+    "id": 750
+  },
+  {
+    "english": "glorify",
+    "example": "",
+    "pos": "verb",
+    "definition": "praise, glorify, or honor",
+    "rank": 21528,
+    "level": "B2",
+    "id": 761
+  },
+  {
+    "english": "grand",
+    "example": "",
+    "pos": "adjective",
+    "definition": "of behavior that is impressive and ambitious in scale or scope",
+    "rank": 1306,
+    "level": "B2",
+    "id": 770
+  },
+  {
+    "english": "grip",
+    "example": "",
+    "pos": "noun",
+    "definition": "the act of grasping",
+    "rank": 5968,
+    "level": "B2",
+    "id": 780
+  },
+  {
+    "english": "guarantee",
+    "example": "",
+    "pos": "verb",
+    "definition": "give surety or assume responsibility",
+    "rank": 3364,
+    "level": "B2",
+    "id": 783
+  },
+  {
+    "english": "hastily",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in a hurried or hasty manner",
+    "rank": 19610,
+    "level": "B2",
+    "id": 799
+  },
+  {
+    "english": "heartbreaking",
+    "example": "",
+    "pos": "adjective",
+    "definition": "causing or marked by grief or anguish",
+    "rank": 13528,
+    "level": "B2",
+    "id": 806
+  },
+  {
+    "english": "hover",
+    "example": "",
+    "pos": "verb",
+    "definition": "be undecided about something; waver between conflicting positions or courses of action",
+    "rank": 17632,
+    "level": "B2",
+    "id": 829
+  },
+  {
+    "english": "humiliating",
+    "example": "",
+    "pos": "adjective",
+    "definition": "causing awareness of your shortcomings",
+    "rank": 15831,
+    "level": "B2",
+    "id": 835
+  },
+  {
+    "english": "icy",
+    "example": "",
+    "pos": "adjective",
+    "definition": "devoid of warmth and cordiality; expressive of unfriendliness or disdain",
+    "rank": 14141,
+    "level": "B2",
+    "id": 839
+  },
+  {
+    "english": "identify",
+    "example": "",
+    "pos": "verb",
+    "definition": "recognize as being; establish the identity of someone or something",
+    "rank": 2349,
+    "level": "B2",
+    "id": 843
+  },
+  {
+    "english": "imagery",
+    "example": "",
+    "pos": "noun",
+    "definition": "the ability to form mental images of things or events",
+    "rank": 9190,
+    "level": "B2",
+    "id": 851
+  },
+  {
+    "english": "indescribable",
+    "example": "",
+    "pos": "adjective",
+    "definition": "defying expression or description",
+    "rank": 32857,
+    "level": "B2",
+    "id": 884
+  },
+  {
+    "english": "infant",
+    "example": "",
+    "pos": "noun",
+    "definition": "a very young child (birth to 1 year) who has not yet begun to walk or talk",
+    "rank": 7236,
+    "level": "B2",
+    "id": 894
+  },
+  {
+    "english": "influence",
+    "example": "",
+    "pos": "verb",
+    "definition": "have and exert influence or effect",
+    "rank": 1725,
+    "level": "B2",
+    "id": 903
+  },
+  {
+    "english": "innate",
+    "example": "",
+    "pos": "adjective",
+    "definition": "not established by conditioning or learning",
+    "rank": 15432,
+    "level": "B2",
+    "id": 913
+  },
+  {
+    "english": "instantly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "without delay or hesitation; with no time intervening",
+    "rank": 4864,
+    "level": "B2",
+    "id": 923
+  },
+  {
+    "english": "integrate",
+    "example": "",
+    "pos": "verb",
+    "definition": "make into a whole or make part of a whole",
+    "rank": 4385,
+    "level": "B2",
+    "id": 929
+  },
+  {
+    "english": "intent",
+    "example": "",
+    "pos": "adjective",
+    "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+    "rank": 4457,
+    "level": "B2",
+    "id": 931
+  },
+  {
+    "english": "invariably",
+    "example": "",
+    "pos": "adverb",
+    "definition": "without variation or change, in every case",
+    "rank": 16258,
+    "level": "B2",
+    "id": 944
+  },
+  {
+    "english": "invoke",
+    "example": "",
+    "pos": "verb",
+    "definition": "summon into action or bring into existence, often as if by magic",
+    "rank": 18863,
+    "level": "B2",
+    "id": 951
+  },
+  {
+    "english": "irritating",
+    "example": "",
+    "pos": "adjective",
+    "definition": "causing irritation or annoyance",
+    "rank": 12798,
+    "level": "B2",
+    "id": 957
+  },
+  {
+    "english": "jam",
+    "example": "",
+    "pos": "verb",
+    "definition": "press tightly together or cram",
+    "rank": 5426,
+    "level": "B2",
+    "id": 960
+  },
+  {
+    "english": "justify",
+    "example": "",
+    "pos": "verb",
+    "definition": "show to be reasonable or provide adequate ground for",
+    "rank": 5702,
+    "level": "B2",
+    "id": 969
+  },
+  {
+    "english": "keen",
+    "example": "",
+    "pos": "adjective",
+    "definition": "having or demonstrating ability to recognize or draw fine distinctions",
+    "rank": 5804,
+    "level": "B2",
+    "id": 970
+  },
+  {
+    "english": "knowingly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "with full knowledge and deliberation",
+    "rank": 14980,
+    "level": "B2",
+    "id": 975
+  },
+  {
+    "english": "lame",
+    "example": "",
+    "pos": "adjective",
+    "definition": "pathetically lacking in force or effectiveness",
+    "rank": 7707,
+    "level": "B2",
+    "id": 978
+  },
+  {
+    "english": "lastly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "the item at the end",
+    "rank": 11410,
+    "level": "B2",
+    "id": 984
+  },
+  {
+    "english": "later",
+    "example": "",
+    "pos": "adjective",
+    "definition": "coming at a subsequent time or stage",
+    "rank": 304,
+    "level": "B2",
+    "id": 985
+  },
+  {
+    "english": "lawsuit",
+    "example": "",
+    "pos": "noun",
+    "definition": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "rank": 6159,
+    "level": "B2",
+    "id": 990
+  },
+  {
+    "english": "legislate",
+    "example": "",
+    "pos": "verb",
+    "definition": "make laws, bills, etc. or bring into effect by legislation",
+    "rank": 28610,
+    "level": "B2",
+    "id": 1001
+  },
+  {
+    "english": "leisurely",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in an unhurried way or at one's convenience",
+    "rank": 27196,
+    "level": "B2",
+    "id": 1007
+  },
+  {
+    "english": "lengthy",
+    "example": "",
+    "pos": "adjective",
+    "definition": "relatively long in duration; tediously protracted",
+    "rank": 8953,
+    "level": "B2",
+    "id": 1009
+  },
+  {
+    "english": "lifetime",
+    "example": "",
+    "pos": "noun",
+    "definition": "the period during which something is functional (as between birth and death)",
+    "rank": 3701,
+    "level": "B2",
+    "id": 1014
+  },
+  {
+    "english": "likewise",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in like or similar manner; ; - Samuel Johnson",
+    "rank": 6705,
+    "level": "B2",
+    "id": 1015
+  },
+  {
+    "english": "lucrative",
+    "example": "",
+    "pos": "adjective",
+    "definition": "producing a sizeable profit",
+    "rank": 13752,
+    "level": "B2",
+    "id": 1030
+  },
+  {
+    "english": "lush",
+    "example": "",
+    "pos": "adjective",
+    "definition": "produced or growing in extreme abundance",
+    "rank": 13951,
+    "level": "B2",
+    "id": 1031
+  },
+  {
+    "english": "luxurious",
+    "example": "",
+    "pos": "adjective",
+    "definition": "displaying luxury and furnishing gratification to the senses",
+    "rank": 13952,
+    "level": "B2",
+    "id": 1032
+  },
+  {
+    "english": "maestro",
+    "example": "",
+    "pos": "noun",
+    "definition": "an artist of consummate skill",
+    "rank": 20698,
+    "level": "B2",
+    "id": 1036
+  },
+  {
+    "english": "manipulate",
+    "example": "",
+    "pos": "verb",
+    "definition": "influence or control shrewdly or deviously",
+    "rank": 11414,
+    "level": "B2",
+    "id": 1039
+  },
+  {
+    "english": "merge",
+    "example": "",
+    "pos": "verb",
+    "definition": "become one",
+    "rank": 10400,
+    "level": "B2",
+    "id": 1067
+  },
+  {
+    "english": "misunderstand",
+    "example": "",
+    "pos": "verb",
+    "definition": "interpret in the wrong way",
+    "rank": 12807,
+    "level": "B2",
+    "id": 1091
+  },
+  {
+    "english": "momentary",
+    "example": "",
+    "pos": "adjective",
+    "definition": "lasting for a markedly brief time",
+    "rank": 26170,
+    "level": "B2",
+    "id": 1099
+  },
+  {
+    "english": "moody",
+    "example": "",
+    "pos": "adjective",
+    "definition": "showing a brooding ill humor; ; ; ; ; ; - Bruce Bliven",
+    "rank": 11253,
+    "level": "B2",
+    "id": 1101
+  },
+  {
+    "english": "nightclub",
+    "example": "",
+    "pos": "noun",
+    "definition": "a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink",
+    "rank": 12113,
+    "level": "B2",
+    "id": 1141
+  },
+  {
+    "english": "nod",
+    "example": "",
+    "pos": "verb",
+    "definition": "express or signify by nodding",
+    "rank": 10582,
+    "level": "B2",
+    "id": 1146
+  },
+  {
+    "english": "northward",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in a northern direction",
+    "rank": 21881,
+    "level": "B2",
+    "id": 1150
+  },
+  {
+    "english": "obsessive",
+    "example": "",
+    "pos": "adjective",
+    "definition": "characterized by or constituting an obsession",
+    "rank": 16548,
+    "level": "B2",
+    "id": 1170
+  },
+  {
+    "english": "originate",
+    "example": "",
+    "pos": "verb",
+    "definition": "come into existence; take on form or shape",
+    "rank": 9641,
+    "level": "B2",
+    "id": 1189
+  },
+  {
+    "english": "outcome",
+    "example": "",
+    "pos": "noun",
+    "definition": "something that results",
+    "rank": 3967,
+    "level": "B2",
+    "id": 1194
+  },
+  {
+    "english": "overly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "to a degree exceeding normal or proper limits",
+    "rank": 9224,
+    "level": "B2",
+    "id": 1213
+  },
+  {
+    "english": "overtake",
+    "example": "",
+    "pos": "verb",
+    "definition": "catch up with and possibly overtake",
+    "rank": 19653,
+    "level": "B2",
+    "id": 1217
+  },
+  {
+    "english": "overthrow",
+    "example": "",
+    "pos": "verb",
+    "definition": "cause the downfall of; of rulers",
+    "rank": 12822,
+    "level": "B2",
+    "id": 1218
+  },
+  {
+    "english": "patch",
+    "example": "",
+    "pos": "noun",
+    "definition": "a small contrasting part of something",
+    "rank": 5149,
+    "level": "B2",
+    "id": 1242
+  },
+  {
+    "english": "penetrate",
+    "example": "",
+    "pos": "verb",
+    "definition": "pass into or through, often by overcoming resistance",
+    "rank": 13977,
+    "level": "B2",
+    "id": 1266
+  },
+  {
+    "english": "persistent",
+    "example": "",
+    "pos": "adjective",
+    "definition": "never-ceasing",
+    "rank": 8329,
+    "level": "B2",
+    "id": 1278
+  },
+  {
+    "english": "petty",
+    "example": "",
+    "pos": "adjective",
+    "definition": "inferior in rank or status",
+    "rank": 6394,
+    "level": "B2",
+    "id": 1285
+  },
+  {
+    "english": "physician",
+    "example": "",
+    "pos": "noun",
+    "definition": "a licensed medical practitioner",
+    "rank": 5347,
+    "level": "B2",
+    "id": 1291
+  },
+  {
+    "english": "ponder",
+    "example": "",
+    "pos": "verb",
+    "definition": "reflect deeply on a subject",
+    "rank": 18399,
+    "level": "B2",
+    "id": 1320
+  },
+  {
+    "english": "pop",
+    "example": "",
+    "pos": "verb",
+    "definition": "bulge outward",
+    "rank": 1435,
+    "level": "B2",
+    "id": 1321
+  },
+  {
+    "english": "portion",
+    "example": "",
+    "pos": "noun",
+    "definition": "something determined in relation to something that includes it",
+    "rank": 2848,
+    "level": "B2",
+    "id": 1324
+  },
+  {
+    "english": "praise",
+    "example": "",
+    "pos": "verb",
+    "definition": "express approval of",
+    "rank": 4259,
+    "level": "B2",
+    "id": 1334
+  },
+  {
+    "english": "pretend",
+    "example": "",
+    "pos": "adjective",
+    "definition": "imagined as in a play",
+    "rank": 4108,
+    "level": "B2",
+    "id": 1351
+  },
+  {
+    "english": "prevail",
+    "example": "",
+    "pos": "verb",
+    "definition": "be larger in number, quantity, power, status or importance",
+    "rank": 13988,
+    "level": "B2",
+    "id": 1352
+  },
+  {
+    "english": "prevention",
+    "example": "",
+    "pos": "noun",
+    "definition": "the act of preventing",
+    "rank": 4476,
+    "level": "B2",
+    "id": 1353
+  },
+  {
+    "english": "prohibit",
+    "example": "",
+    "pos": "verb",
+    "definition": "command against",
+    "rank": 7267,
+    "level": "B2",
+    "id": 1372
+  },
+  {
+    "english": "prosper",
+    "example": "",
+    "pos": "verb",
+    "definition": "make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
+    "rank": 16098,
+    "level": "B2",
+    "id": 1382
+  },
+  {
+    "english": "pulse",
+    "example": "",
+    "pos": "noun",
+    "definition": "(electronics) a sharp transient wave in the normal electrical state (or a series of such transients)",
+    "rank": 6507,
+    "level": "B2",
+    "id": 1392
+  },
+  {
+    "english": "query",
+    "example": "",
+    "pos": "noun",
+    "definition": "an instance of questioning",
+    "rank": 12307,
+    "level": "B2",
+    "id": 1403
+  },
+  {
+    "english": "reasonably",
+    "example": "",
+    "pos": "adverb",
+    "definition": "to a moderately sufficient extent or degree",
+    "rank": 6828,
+    "level": "B2",
+    "id": 1426
+  },
+  {
+    "english": "recreation",
+    "example": "",
+    "pos": "noun",
+    "definition": "an activity that diverts or amuses or stimulates",
+    "rank": 6729,
+    "level": "B2",
+    "id": 1436
+  },
+  {
+    "english": "redo",
+    "example": "",
+    "pos": "verb",
+    "definition": "make new",
+    "rank": 22787,
+    "level": "B2",
+    "id": 1439
+  },
+  {
+    "english": "redundant",
+    "example": "",
+    "pos": "adjective",
+    "definition": "more than is needed, desired, or required",
+    "rank": 13224,
+    "level": "B2",
+    "id": 1440
+  },
+  {
+    "english": "reference",
+    "example": "",
+    "pos": "noun",
+    "definition": "a remark that calls attention to something or someone",
+    "rank": 1876,
+    "level": "B2",
+    "id": 1442
+  },
+  {
+    "english": "refuge",
+    "example": "",
+    "pos": "noun",
+    "definition": "a safe place",
+    "rank": 8193,
+    "level": "B2",
+    "id": 1446
+  },
+  {
+    "english": "regard",
+    "example": "",
+    "pos": "noun",
+    "definition": "(usually preceded by `in') a detail or point",
+    "rank": 3902,
+    "level": "B2",
+    "id": 1449
+  },
+  {
+    "english": "regret",
+    "example": "",
+    "pos": "noun",
+    "definition": "sadness associated with some wrong done or some disappointment",
+    "rank": 3838,
+    "level": "B2",
+    "id": 1452
+  },
+  {
+    "english": "remarkably",
+    "example": "",
+    "pos": "adverb",
+    "definition": "to a remarkable degree or extent",
+    "rank": 10118,
+    "level": "B2",
+    "id": 1468
+  },
+  {
+    "english": "repress",
+    "example": "",
+    "pos": "verb",
+    "definition": "put down by force or intimidation",
+    "rank": 20756,
+    "level": "B2",
+    "id": 1475
+  },
+  {
+    "english": "resign",
+    "example": "",
+    "pos": "verb",
+    "definition": "leave (a job, post, or position) voluntarily",
+    "rank": 6731,
+    "level": "B2",
+    "id": 1479
+  },
+  {
+    "english": "resume",
+    "example": "",
+    "pos": "verb",
+    "definition": "take up or begin anew",
+    "rank": 5911,
+    "level": "B2",
+    "id": 1487
+  },
+  {
+    "english": "reverse",
+    "example": "",
+    "pos": "verb",
+    "definition": "change to the contrary",
+    "rank": 3843,
+    "level": "B2",
+    "id": 1498
+  },
+  {
+    "english": "reward",
+    "example": "",
+    "pos": "verb",
+    "definition": "bestow honor or rewards upon",
+    "rank": 4116,
+    "level": "B2",
+    "id": 1505
+  },
+  {
+    "english": "rip",
+    "example": "",
+    "pos": "verb",
+    "definition": "tear or be torn violently",
+    "rank": 4630,
+    "level": "B2",
+    "id": 1516
+  },
+  {
+    "english": "risky",
+    "example": "",
+    "pos": "adjective",
+    "definition": "involving risk or danger",
+    "rank": 7842,
+    "level": "B2",
+    "id": 1518
+  },
+  {
+    "english": "salary",
+    "example": "",
+    "pos": "noun",
+    "definition": "something that remunerates",
+    "rank": 3906,
+    "level": "B2",
+    "id": 1537
+  },
+  {
+    "english": "salty",
+    "example": "",
+    "pos": "adjective",
+    "definition": "engagingly stimulating or provocative",
+    "rank": 10605,
+    "level": "B2",
+    "id": 1540
+  },
+  {
+    "english": "scan",
+    "example": "",
+    "pos": "verb",
+    "definition": "examine minutely or intensely",
+    "rank": 6412,
+    "level": "B2",
+    "id": 1545
+  },
+  {
+    "english": "scarcely",
+    "example": "",
+    "pos": "adverb",
+    "definition": "only a very short time before; ; ; ; ; - W.B.Yeats",
+    "rank": 18948,
+    "level": "B2",
+    "id": 1548
+  },
+  {
+    "english": "secondly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in the second place",
+    "rank": 8981,
+    "level": "B2",
+    "id": 1559
+  },
+  {
+    "english": "seldom",
+    "example": "",
+    "pos": "adverb",
+    "definition": "not often",
+    "rank": 12498,
+    "level": "B2",
+    "id": 1562
+  },
+  {
+    "english": "select",
+    "example": "",
+    "pos": "verb",
+    "definition": "pick out, select, or choose from a number of alternatives",
+    "rank": 2127,
+    "level": "B2",
+    "id": 1563
+  },
+  {
+    "english": "separate",
+    "example": "",
+    "pos": "verb",
+    "definition": "act as a barrier between; stand between",
+    "rank": 1577,
+    "level": "B2",
+    "id": 1570
+  },
+  {
+    "english": "separately",
+    "example": "",
+    "pos": "adverb",
+    "definition": "apart from others",
+    "rank": 6294,
+    "level": "B2",
+    "id": 1571
+  },
+  {
+    "english": "shaky",
+    "example": "",
+    "pos": "adjective",
+    "definition": "inclined to shake as from weakness or defect",
+    "rank": 16125,
+    "level": "B2",
+    "id": 1580
+  },
+  {
+    "english": "shrink",
+    "example": "",
+    "pos": "verb",
+    "definition": "wither, as with a loss of moisture",
+    "rank": 10769,
+    "level": "B2",
+    "id": 1591
+  },
+  {
+    "english": "signify",
+    "example": "",
+    "pos": "verb",
+    "definition": "denote or connote",
+    "rank": 19971,
+    "level": "B2",
+    "id": 1593
+  },
+  {
+    "english": "simultaneous",
+    "example": "",
+    "pos": "adjective",
+    "definition": "occurring or operating at the same time",
+    "rank": 14414,
+    "level": "B2",
+    "id": 1594
+  },
+  {
+    "english": "skip",
+    "example": "",
+    "pos": "verb",
+    "definition": "bypass",
+    "rank": 5082,
+    "level": "B2",
+    "id": 1599
+  },
+  {
+    "english": "slap",
+    "example": "",
+    "pos": "verb",
+    "definition": "hit with something flat, like a paddle or the open hand",
+    "rank": 7502,
+    "level": "B2",
+    "id": 1602
+  },
+  {
+    "english": "slice",
+    "example": "",
+    "pos": "verb",
+    "definition": "make a clean cut through",
+    "rank": 7180,
+    "level": "B2",
+    "id": 1604
+  },
+  {
+    "english": "slide",
+    "example": "",
+    "pos": "verb",
+    "definition": "move obliquely or sideways, usually in an uncontrolled manner",
+    "rank": 4335,
+    "level": "B2",
+    "id": 1605
+  },
+  {
+    "english": "snap",
+    "example": "",
+    "pos": "verb",
+    "definition": "utter in an angry, sharp, or abrupt tone",
+    "rank": 5084,
+    "level": "B2",
+    "id": 1609
+  },
+  {
+    "english": "southward",
+    "example": "",
+    "pos": "adverb",
+    "definition": "toward the south",
+    "rank": 26608,
+    "level": "B2",
+    "id": 1629
+  },
+  {
+    "english": "span",
+    "example": "",
+    "pos": "verb",
+    "definition": "to cover or extend over an area or time period; ,",
+    "rank": 6416,
+    "level": "B2",
+    "id": 1633
+  },
+  {
+    "english": "specialty",
+    "example": "",
+    "pos": "noun",
+    "definition": "an asset of special worth or utility",
+    "rank": 8489,
+    "level": "B2",
+    "id": 1636
+  },
+  {
+    "english": "specify",
+    "example": "",
+    "pos": "verb",
+    "definition": "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement",
+    "rank": 6522,
+    "level": "B2",
+    "id": 1638
+  },
+  {
+    "english": "spin",
+    "example": "",
+    "pos": "verb",
+    "definition": "revolve quickly and repeatedly around one's own axis",
+    "rank": 3786,
+    "level": "B2",
+    "id": 1640
+  },
+  {
+    "english": "split",
+    "example": "",
+    "pos": "verb",
+    "definition": "separate into parts or portions",
+    "rank": 2270,
+    "level": "B2",
+    "id": 1643
+  },
+  {
+    "english": "squeeze",
+    "example": "",
+    "pos": "verb",
+    "definition": "to compress with violence, out of natural shape or condition",
+    "rank": 7852,
+    "level": "B2",
+    "id": 1651
+  },
+  {
+    "english": "stake",
+    "example": "",
+    "pos": "noun",
+    "definition": "(law) a right or legal share of something; a financial involvement with something",
+    "rank": 5631,
+    "level": "B2",
+    "id": 1655
+  },
+  {
+    "english": "startle",
+    "example": "",
+    "pos": "verb",
+    "definition": "to stimulate to action",
+    "rank": 19473,
+    "level": "B2",
+    "id": 1660
+  },
+  {
+    "english": "starve",
+    "example": "",
+    "pos": "verb",
+    "definition": "be hungry; go without food",
+    "rank": 9824,
+    "level": "B2",
+    "id": 1662
+  },
+  {
+    "english": "stern",
+    "example": "",
+    "pos": "adjective",
+    "definition": "of a stern or strict bearing or demeanor; forbidding in aspect",
+    "rank": 8356,
+    "level": "B2",
+    "id": 1668
+  },
+  {
+    "english": "stimulate",
+    "example": "",
+    "pos": "verb",
+    "definition": "act as a stimulant",
+    "rank": 11801,
+    "level": "B2",
+    "id": 1673
+  },
+  {
+    "english": "stress",
+    "example": "",
+    "pos": "verb",
+    "definition": "to stress, single out as important",
+    "rank": 1923,
+    "level": "B2",
+    "id": 1685
+  },
+  {
+    "english": "stride",
+    "example": "",
+    "pos": "verb",
+    "definition": "walk with long steps",
+    "rank": 16592,
+    "level": "B2",
+    "id": 1687
+  },
+  {
+    "english": "striking",
+    "example": "",
+    "pos": "adjective",
+    "definition": "sensational in appearance or thrilling in effect",
+    "rank": 5166,
+    "level": "B2",
+    "id": 1688
+  },
+  {
+    "english": "strip",
+    "example": "",
+    "pos": "verb",
+    "definition": "take away possessions from someone",
+    "rank": 3911,
+    "level": "B2",
+    "id": 1689
+  },
+  {
+    "english": "strive",
+    "example": "",
+    "pos": "verb",
+    "definition": "attempt by employing effort",
+    "rank": 10942,
+    "level": "B2",
+    "id": 1690
+  },
+  {
+    "english": "struggle",
+    "example": "",
+    "pos": "verb",
+    "definition": "make a strenuous or labored effort",
+    "rank": 2408,
+    "level": "B2",
+    "id": 1692
+  },
+  {
+    "english": "successive",
+    "example": "",
+    "pos": "adjective",
+    "definition": "in regular succession without gaps",
+    "rank": 8990,
+    "level": "B2",
+    "id": 1704
+  },
+  {
+    "english": "sue",
+    "example": "",
+    "pos": "verb",
+    "definition": "institute legal proceedings against; file a suit against",
+    "rank": 4985,
+    "level": "B2",
+    "id": 1706
+  },
+  {
+    "english": "suitably",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in an appropriate manner",
+    "rank": 24604,
+    "level": "B2",
+    "id": 1709
+  },
+  {
+    "english": "supervise",
+    "example": "",
+    "pos": "verb",
+    "definition": "watch and direct",
+    "rank": 13251,
+    "level": "B2",
+    "id": 1713
+  },
+  {
+    "english": "supply",
+    "example": "",
+    "pos": "verb",
+    "definition": "give something useful or necessary to",
+    "rank": 1651,
+    "level": "B2",
+    "id": 1718
+  },
+  {
+    "english": "sweep",
+    "example": "",
+    "pos": "verb",
+    "definition": "sweep across or over",
+    "rank": 7507,
+    "level": "B2",
+    "id": 1730
+  },
+  {
+    "english": "swift",
+    "example": "",
+    "pos": "adjective",
+    "definition": "moving very fast",
+    "rank": 5635,
+    "level": "B2",
+    "id": 1731
+  },
+  {
+    "english": "tease",
+    "example": "",
+    "pos": "verb",
+    "definition": "annoy persistently",
+    "rank": 13253,
+    "level": "B2",
+    "id": 1745
+  },
+  {
+    "english": "test",
+    "example": "",
+    "pos": "verb",
+    "definition": "put to the test, as for its quality, or give experimental use to",
+    "rank": 667,
+    "level": "B2",
+    "id": 1758
+  },
+  {
+    "english": "therapy",
+    "example": "",
+    "pos": "noun",
+    "definition": "(medicine) the act of caring for someone (as by medication or remedial training etc.)",
+    "rank": 2924,
+    "level": "B2",
+    "id": 1763
+  },
+  {
+    "english": "thirdly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "in the third place",
+    "rank": 26995,
+    "level": "B2",
+    "id": 1771
+  },
+  {
+    "english": "thrill",
+    "example": "",
+    "pos": "noun",
+    "definition": "the swift release of a store of affective force",
+    "rank": 7862,
+    "level": "B2",
+    "id": 1778
+  },
+  {
+    "english": "tight",
+    "example": "",
+    "pos": "adverb",
+    "definition": "firmly or closely",
+    "rank": 2649,
+    "level": "B2",
+    "id": 1781
+  },
+  {
+    "english": "timeless",
+    "example": "",
+    "pos": "adjective",
+    "definition": "unaffected by time",
+    "rank": 14442,
+    "level": "B2",
+    "id": 1782
+  },
+  {
+    "english": "tiredness",
+    "example": "",
+    "pos": "noun",
+    "definition": "temporary loss of strength and energy resulting from hard physical or mental work",
+    "rank": 32211,
+    "level": "B2",
+    "id": 1785
+  },
+  {
+    "english": "tiresome",
+    "example": "",
+    "pos": "adjective",
+    "definition": "so lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain",
+    "rank": 26283,
+    "level": "B2",
+    "id": 1786
+  },
+  {
+    "english": "tomb",
+    "example": "",
+    "pos": "noun",
+    "definition": "a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)",
+    "rank": 8495,
+    "level": "B2",
+    "id": 1790
+  },
+  {
+    "english": "trace",
+    "example": "",
+    "pos": "verb",
+    "definition": "follow, discover, or ascertain the course of development of something",
+    "rank": 5277,
+    "level": "B2",
+    "id": 1795
+  },
+  {
+    "english": "transmit",
+    "example": "",
+    "pos": "verb",
+    "definition": "transfer to another",
+    "rank": 8734,
+    "level": "B2",
+    "id": 1809
+  },
+  {
+    "english": "transparent",
+    "example": "",
+    "pos": "adjective",
+    "definition": "transmitting light; able to be seen through with clarity",
+    "rank": 7073,
+    "level": "B2",
+    "id": 1810
+  },
+  {
+    "english": "treat",
+    "example": "",
+    "pos": "verb",
+    "definition": "interact in a certain way",
+    "rank": 1844,
+    "level": "B2",
+    "id": 1814
+  },
+  {
+    "english": "tremendously",
+    "example": "",
+    "pos": "adverb",
+    "definition": "extremely",
+    "rank": 17048,
+    "level": "B2",
+    "id": 1817
+  },
+  {
+    "english": "tricky",
+    "example": "",
+    "pos": "adjective",
+    "definition": "not to be trusted; - James Agee",
+    "rank": 7629,
+    "level": "B2",
+    "id": 1822
+  },
+  {
+    "english": "trivial",
+    "example": "",
+    "pos": "adjective",
+    "definition": "(informal) small and of little importance",
+    "rank": 11991,
+    "level": "B2",
+    "id": 1824
+  },
+  {
+    "english": "truthful",
+    "example": "",
+    "pos": "adjective",
+    "definition": "expressing or given to expressing the truth",
+    "rank": 16812,
+    "level": "B2",
+    "id": 1831
+  },
+  {
+    "english": "turbulent",
+    "example": "",
+    "pos": "adjective",
+    "definition": "characterized by unrest or disorder or insubordination",
+    "rank": 15724,
+    "level": "B2",
+    "id": 1839
+  },
+  {
+    "english": "unbearable",
+    "example": "",
+    "pos": "adjective",
+    "definition": "incapable of being put up with",
+    "rank": 15726,
+    "level": "B2",
+    "id": 1852
+  },
+  {
+    "english": "unforeseen",
+    "example": "",
+    "pos": "adjective",
+    "definition": "not anticipated; - H.W.Glidden",
+    "rank": 23422,
+    "level": "B2",
+    "id": 1872
+  },
+  {
+    "english": "ungodly",
+    "example": "",
+    "pos": "adjective",
+    "definition": "characterized by iniquity; wicked because it is believed to be a sin",
+    "rank": 32638,
+    "level": "B2",
+    "id": 1873
+  },
+  {
+    "english": "unsafe",
+    "example": "",
+    "pos": "adjective",
+    "definition": "lacking in security or safety",
+    "rank": 11818,
+    "level": "B2",
+    "id": 1890
+  },
+  {
+    "english": "unsure",
+    "example": "",
+    "pos": "adjective",
+    "definition": "lacking self-confidence",
+    "rank": 10471,
+    "level": "B2",
+    "id": 1895
+  },
+  {
+    "english": "urge",
+    "example": "",
+    "pos": "verb",
+    "definition": "force or impel in an indicated direction",
+    "rank": 6015,
+    "level": "B2",
+    "id": 1904
+  },
+  {
+    "english": "utter",
+    "example": "",
+    "pos": "verb",
+    "definition": "articulate; either verbally or with a cry, shout, or noise",
+    "rank": 9003,
+    "level": "B2",
+    "id": 1909
+  },
+  {
+    "english": "utterly",
+    "example": "",
+    "pos": "adverb",
+    "definition": "completely and without qualification; used informally as intensifiers",
+    "rank": 6974,
+    "level": "B2",
+    "id": 1910
+  },
+  {
+    "english": "wealthy",
+    "example": "",
+    "pos": "adjective",
+    "definition": "having an abundant supply of money or possessions of value",
+    "rank": 5096,
+    "level": "B2",
+    "id": 1955
+  },
+  {
+    "english": "weary",
+    "example": "",
+    "pos": "adjective",
+    "definition": "physically and mentally fatigued",
+    "rank": 12887,
+    "level": "B2",
+    "id": 1956
+  },
+  {
+    "english": "whip",
+    "example": "",
+    "pos": "verb",
+    "definition": "beat severely with a whip or rod",
+    "rank": 7085,
+    "level": "B2",
+    "id": 1963
+  },
+  {
+    "english": "whistle",
+    "example": "",
+    "pos": "verb",
+    "definition": "make whistling sounds",
+    "rank": 8626,
+    "level": "B2",
+    "id": 1965
+  },
+  {
+    "english": "withdraw",
+    "example": "",
+    "pos": "verb",
+    "definition": "pull back or move away or backward",
+    "rank": 6644,
+    "level": "B2",
+    "id": 1977
+  },
+  {
+    "english": "wondrous",
+    "example": "",
+    "pos": "adjective",
+    "definition": "extraordinarily good or great ; used especially as intensifiers",
+    "rank": 24957,
+    "level": "B2",
+    "id": 1982
+  },
+  {
+    "english": "youthful",
+    "example": "",
+    "pos": "adjective",
+    "definition": "suggestive of youth; vigorous and fresh",
+    "rank": 13449,
+    "level": "B2",
+    "id": 1999
+  }
+]
