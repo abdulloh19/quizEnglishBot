@@ -239,6 +239,7 @@ class LevelFlowTest {
         User a = user(1);
         userService.selectLevel(a, "A1");
         assertEquals(15, a.getDailyWordIds().size());
+        assertEquals(15, userService.getAllAssignedTodayWords(a).size());
 
         while (userService.getNextWord(a) != null) { }
         for (Integer id : List.copyOf(a.getDailySeenWordIds())) {
@@ -253,6 +254,7 @@ class LevelFlowTest {
         assertNotNull(userService.getNextWord(a));
         assertEquals(16, a.getDailySeenWordIds().size());
         assertEquals(16, userService.getAllSeenTodayWords(a).size());
+        assertEquals(20, userService.getAllAssignedTodayWords(a).size());
     }
 
     @Test void networkFailureDoesNotReturnOrCacheEmptyWords() {

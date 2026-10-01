@@ -157,6 +157,15 @@ public class UserService {
                 .toList();
     }
 
+    /** Bugun guruhlarga ajratilgan barcha so‘zlar: ochilgan, ochilmagan va o‘rganilganlari. */
+    public List<Word> getAllAssignedTodayWords(User user) {
+        ensureDailyWords(user);
+        return wordService.getAllWords(user.getLevel()).stream()
+                .filter(word -> user.getDailyWordIds().contains(word.getId())
+                        || user.getDailySeenWordIds().contains(word.getId()))
+                .toList();
+    }
+
     public boolean hasMoreLevelWords(User user) {
         ensureDailyWords(user);
         return wordService.getAllWords(user.getLevel()).stream()
