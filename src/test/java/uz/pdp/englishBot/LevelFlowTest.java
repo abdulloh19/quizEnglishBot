@@ -252,6 +252,7 @@ class LevelFlowTest {
         assertEquals(5, userService.getDailyWords(a).size());
         assertNotNull(userService.getNextWord(a));
         assertEquals(16, a.getDailySeenWordIds().size());
+        assertEquals(16, userService.getAllSeenTodayWords(a).size());
     }
 
     @Test void networkFailureDoesNotReturnOrCacheEmptyWords() {

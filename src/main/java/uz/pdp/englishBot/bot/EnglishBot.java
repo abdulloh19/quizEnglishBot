@@ -312,12 +312,10 @@ public class EnglishBot {
         int number = 1;
         for (Word word : userService.getSeenDailyWords(user)) appendWord(result, number++, word);
         if (number == 1) result.append("Hozircha qolgan ko‘rilgan so‘z yo‘q.\n");
-        result.append("\n✅ Bugun o‘rganilgan so‘zlar:\n");
+        result.append("\n👀 Bugun berilgan va ko‘rilgan barcha so‘zlar:\n");
         number = 1;
-        for (Word word : userService.getAllSeenTodayWords(user)) {
-            if (userService.getCorrectCount(user, word) >= 2) appendWord(result, number++, word);
-        }
-        if (number == 1) result.append("Bugun hali o‘rganilgan so‘z yo‘q.\n");
+        for (Word word : userService.getAllSeenTodayWords(user)) appendWord(result, number++, word);
+        if (number == 1) result.append("Bugun hali yangi so‘z ko‘rilmagan.\n");
         // Katta ro‘yxatlar Telegram xabar chegarasidan oshmasin.
         StringBuilder chunk = new StringBuilder();
         for (String line : result.toString().split("\n")) {
