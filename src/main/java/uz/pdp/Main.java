@@ -9,6 +9,9 @@ import uz.pdp.englishBot.bot.EnglishBot;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.Base64;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.Executors;
 
@@ -26,7 +29,7 @@ public class Main {
 
         EnglishBot englishBot = new EnglishBot(token, false);
         int port = Integer.parseInt(System.getenv().getOrDefault("PORT", "10000"));
-        String webhookSecret = System.getenv("TELEGRAM_WEBHOOK_SECRET");
+        String webhookSecret = normalizeWebhookSecret(System.getenv("TELEGRAM_WEBHOOK_SECRET"));
         HttpServer server = HttpServer.create(new InetSocketAddress("0.0.0.0", port), 0);
         server.createContext("/", exchange -> respond(exchange, 200, "English vocabulary bot is running"));
         server.createContext("/telegram-webhook", exchange -> handleWebhook(exchange, englishBot, webhookSecret));
@@ -73,5 +76,16 @@ public class Main {
             throw new IllegalStateException(name + " muhit o‘zgaruvchisi berilmagan");
         }
         return value;
+    }
+
+    private static String normalizeWebhookSecret(String value) {
+        if (value == null || value.isBlank()) return null;
+        try {
+            byte[] digest = MessageDigest.getInstance("SHA-256")
+                    .digest(value.getBytes(StandardCharsets.UTF_8));
+            return Base64.getUrlEncoder().withoutPadding().encodeToString(digest);
+        } catch (NoSuchAlgorithmException e) {
+            throw new IllegalStateException("Webhook maxfiy qiymatini tayyorlab bo‘lmadi", e);
+        }
     }
 }
