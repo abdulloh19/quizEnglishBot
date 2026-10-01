@@ -1,0 +1,21 @@
+databases:
+  - name: quiz-english-bot-db
+    plan: free
+    databaseName: quiz_english_bot
+    user: quiz_english_bot
+
+services:
+  - type: web
+    name: quiz-english-bot
+    runtime: docker
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: quiz-english-bot-db
+          property: connectionString
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: TELEGRAM_WEBHOOK_SECRET
+        generateValue: true

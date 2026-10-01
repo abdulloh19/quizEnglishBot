@@ -9,6 +9,8 @@ import com.pengrad.telegrambot.model.request.ReplyKeyboardMarkup;
 import com.pengrad.telegrambot.request.AnswerCallbackQuery;
 import com.pengrad.telegrambot.request.EditMessageText;
 import com.pengrad.telegrambot.request.SendMessage;
+import com.pengrad.telegrambot.request.SetWebhook;
+import com.pengrad.telegrambot.response.BaseResponse;
 import uz.pdp.englishBot.model.QuizQuestion;
 import uz.pdp.englishBot.model.User;
 import uz.pdp.englishBot.model.Word;
@@ -35,15 +37,30 @@ public class EnglishBot {
     private record ActiveQuestion(QuizQuestion question, int messageId, String level) { }
 
     public EnglishBot(String token) {
+        this(token, true);
+    }
+
+    public EnglishBot(String token, boolean polling) {
         bot = new TelegramBot(token);
-        bot.setUpdatesListener(updates -> {
-            for (Update update : updates) processUpdate(update);
-            return UpdatesListener.CONFIRMED_UPDATES_ALL;
-        });
+        if (polling) {
+            bot.setUpdatesListener(updates -> {
+                for (Update update : updates) processUpdate(update);
+                return UpdatesListener.CONFIRMED_UPDATES_ALL;
+            });
+        }
+    }
+
+    public void setWebhook(String url, String secret) {
+        SetWebhook request = new SetWebhook().url(url).dropPendingUpdates(false);
+        if (secret != null && !secret.isBlank()) request.secretToken(secret);
+        BaseResponse response = bot.execute(request);
+        if (!response.isOk()) {
+            throw new IllegalStateException("Telegram webhook o‘rnatilmadi: " + response.description());
+        }
     }
 
     // User fayli va joriy savollar bir vaqtda o‘zgarmaydi.
-    private synchronized void processUpdate(Update update) {
+    public synchronized void processUpdate(Update update) {
         Long chatId = update.message() != null ? update.message().chat().id()
                 : update.callbackQuery() != null ? update.callbackQuery().from().id() : null;
         if (chatId == null) return;
