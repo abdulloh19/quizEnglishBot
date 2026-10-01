@@ -26,12 +26,17 @@ public class UserRepository {
     private final Database database;
     private boolean databaseInitialized;
 
-    public UserRepository() { this(Path.of("users.json"), System.getenv("DATABASE_URL")); }
+    public UserRepository() { this(configuredPath(), System.getenv("DATABASE_URL")); }
     public UserRepository(Path path) { this(path, null); }
 
     UserRepository(Path path, String databaseUrl) {
         this.path = path.toAbsolutePath();
         this.database = databaseUrl == null || databaseUrl.isBlank() ? null : Database.from(databaseUrl);
+    }
+
+    private static Path configuredPath() {
+        String value = System.getenv("USER_DATA_PATH");
+        return Path.of(value == null || value.isBlank() ? "users.json" : value);
     }
 
     public synchronized void save(List<User> users) {

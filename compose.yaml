@@ -1,0 +1,12 @@
+services:
+  bot:
+    build: .
+    restart: unless-stopped
+    environment:
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:?TELEGRAM_BOT_TOKEN is required}
+      USER_DATA_PATH: /data/users.json
+    volumes:
+      - bot-data:/data
+
+volumes:
+  bot-data:
